@@ -5,7 +5,7 @@ metadata:
   description: 'Course MS-700T00-A: Managing Microsoft Teams'
 uid: course.ms-700t00
 courseNumber: 'MS-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Qu’est-ce que Microsoft Teams et comment les composants fonctionnent-ils ensemble
@@ -29,7 +29,7 @@ exams:
 - uid: exam.ms-700
 summary: |-
   La formation « Gérer Microsoft Teams » est conçue pour les personnes qui aspirent à la fonction d'administrateur de Microsoft 365 Teams.
-  Microsoft Teams Administrators configure, déploie et gère les charges de travail d’Office 365 pour les Microsoft Teams qui se concentrent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise
+  Microsoft Teams admins configure, déploie et gère les charges de travail d’Office 365 pour les Microsoft Teams qui se concentrent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise
   Cette formation couvre six éléments centraux - aperçu de Microsoft Teams, mise en œuvre de la gouvernance, de la sécurité et de la conformité pour Microsoft Teams, préparation de l’environnement pour le déploiement de Microsoft Teams, déploiement et gestion de Teams, gestion de la collaboration et gestion de la communication dans Microsoft Teams.
   Dans l’aperçu de Microsoft Teams, vous obtiendrez un aperçu de Microsoft Teams, ce qui inclut l’architecture de Teams et les charges de travail Office 365 liées. Vous aurez un aperçu de la sécurité et de la conformité dans Microsoft Teams et aurez enfin un aperçu de la gestion de Microsoft Teams.
   Lors de la mise en œuvre de la gouvernance, de la sécurité et de la conformité pour Microsoft Teams, vous planifierez et configurerez la gouvernance pour des groupes Office 365, ce qui inclut les politiques d’expiration et de désignation. Vous mettrez ensuite en œuvre la sécurité en configurant l’accès conditionnel, le MFA ou la gestion des menaces pour Microsoft Teams. Enfin, vous mettrez en œuvre la conformité pour Teams en utilisant les politiques DLP, les cas eDiscovery ou les politiques de supervision.
@@ -116,10 +116,11 @@ outlineSection: |-
   - Gérer les expériences liées aux événements et les réunions de Live
   - Gérer les numéros de téléphone
   - Gérer le système téléphonique pour Microsoft Teams
-  - Dépanner les problèmes audios, vidéos et des clients
+  - Résoudre les problèmes audios, vidéos et des clients
 
 
   #### Laboratoire &#58; Modifier les paramètres de communication pour Teams
   - Configurer les politiques de réunion
   - Gérer le système téléphonique pour Microsoft Teams
   - Dépanner les problèmes audios, vidéos et des clients
+

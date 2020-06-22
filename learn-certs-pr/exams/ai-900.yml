@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: 'Microsoft Azure AI Fundamentals (beta)'
+metadata:
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+uid: exam.ai-900
+displayName: AI-900
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen doivent avoir des connaissances fondamentales des concepts d’apprentissage automatique et d’intelligence artificielle et des services Microsoft Azure connexes.
+
+  Cet examen représente une opportunité pour démontrer vos connaissances des charges de travail courantes d’apprentissage automatique et d’intelligence artificielle et de leur mise en œuvre dans Azure.  
+
+  Cet examen est destiné aux candidats avec ou sans formation technique. Une expérience des sciences des données et de l’ingénierie logicielle informatique n’est pas requise, toutefois, certaines connaissances ou une expérience en programmation générale seraient utiles.  
+
+  Azure AI Fundamentals peut être utilisé pour préparer d’autres certifications Azure basées sur les rôles tels que Azure Data Scientist Associate ou Azure AI Engineer Associate, sans être un prérequis pour eux.  
+
+  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Ce examen sera disponible aux environs du 8 juin 2020.</div>
+subTitle: 'Cet examen sera disponible aux alentours du 8 juin 2020. Prouvez votre capacité à décrire les questions suivantes: Les charges de travail et les considérations de l’intelligence artificielle, les principes fondamentaux de l’apprentissage automatique sur Azure, les caractéristiques des charges de travail de la vision par ordinateur sur Azure, et les fonctionnalités des charges de travail conversationnelles de l’IA sur Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+locales:
+- en
+levels:
+- beginner
+skills:
+- Décrire les charges de travail et les considérations de l’intelligence artificielle (15 à 20
+- Décrire les principes fondamentaux de l’apprentissage automatique sur Azure (30 à 35%)
+- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure (15 à 20%)
+- Décrire les caractéristiques des charges de travail de l’intelligence artificielle conversationnelle sur Azure (15 à 20%)
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-fundamentals
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

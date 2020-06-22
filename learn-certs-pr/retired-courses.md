@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Formations retirées
 
-The following tables list courseware which is either retired or will retire soon. After their retirement dates, courses are no longer sold.
+Les didacticiels qui ont été retirés ou seront bientôt retirés sont répertoriés dans les tableaux suivants. Les cours ne sont plus vendus après les dates de retrait.
 
 ## Formations retirées: Formations dispensées par un instructeur
 
@@ -137,6 +137,23 @@ The following tables list courseware which is either retired or will retire soon
     | 23697-1 | B | Installing and Configuring Windows 10 | japonais | 06/30/2020 |
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | japonais | 06/30/2020 |
 
+* Courseware retirements on 29 Mai 2020
+
+    | numéro de formation | Version | titre | langue | date de retrait |
+    | --- | --- | --- | --- | --- |
+    | AZ-400T01 | A | Implementing DevOps Development Processes | anglais | 29/05/2020 |
+    | AZ-400T02 | A | Implementing Continuous Integration | anglais | 29/05/2020 |
+    | AZ-400T03 | A | Implementing Continuous Delivery | anglais | 29/05/2020 |
+    | AZ-400T04 | A | Implementing Dependency Management | anglais | 29/05/2020 |
+    | AZ-400T05 | A | Implementing Application Infrastructure | anglais | 29/05/2020 |
+    | AZ-400T06 | A | Implementing Continuous Feedback | anglais | 29/05/2020 |
+    | AZ-400T07 | A | Designing a DevOps Strategy | anglais | 29/05/2020 |
+    | MS-500T01 | A | Managing Microsoft 365 Identity and Access | anglais | 29/05/2020 |
+    | MS-500T02 | A | Implementing Microsoft 365 Threat Protection | anglais | 29/05/2020 |
+    | MS-500T03 | A | Implementing Microsoft 365 Information Protection | anglais | 29/05/2020 |
+    | MS-500T04 | A | Administering Microsoft 365 Built-in Compliance | anglais | 29/05/2020 |
+    | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | anglais | 29/05/2020 |
+
 * Courseware retirements on 28 FÉVRIER, 2020
 
     | numéro de formation | Version | titre | langue | date de retrait |
@@ -191,8 +208,8 @@ The following tables list courseware which is either retired or will retire soon
     | MB-200T02 | A | Dynamics 365: Power Platform automation | anglais | 01/31/2020 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | anglais | 01/31/2020 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | anglais | 01/31/2020 |
-    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing  | anglais | 01/31/2020 |
-    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing     | anglais | 01/31/2020 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | anglais | 01/31/2020 |
+    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing   | anglais | 01/31/2020 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | anglais | 01/31/2020 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | anglais | 01/31/2020 |
     | MB-240T03 | A | Universal Resource Scheduling for Dynamics 365 for Field Service | anglais | 01/31/2020 |
@@ -213,99 +230,99 @@ The following tables list courseware which is either retired or will retire soon
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | MD-100T01 | A | Installing Windows 10 | anglais | 12/31/2019 |
-    | MD-100T02 | A | Configuring Windows 10 | anglais | 12/31/2019 |
-    | MD-100T03 | A | Protecting Windows 10 | anglais | 12/31/2019 |
-    | MD-100T04 | A | Maintaining Windows 10 | anglais | 12/31/2019 |
-    | MD-101T01 | A | Deploying the Modern Desktop | anglais | 12/31/2019 |
-    | MD-101T02 | A | Managing Modern Desktops and Devices | anglais | 12/31/2019 |
-    | MD-101T03 | A | Protecting Modern Desktops and Devices | anglais | 12/31/2019 |
-    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | anglais | 12/31/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 12/31/2019 |
-    | 10992 | B | Integrating On-Premises Core Infrastructure with Microsoft Azure | anglais | 12/31/2019 |
-    | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | anglais | 12/31/2019 |
-    | 40389 | A | First Look Clinic: Windows Server 2016 | anglais | 12/31/2019 |
-    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 12/31/2019 |
-    | 20695 | D | Deploying Windows Desktops and Enterprise Applications | anglais | 12/31/2019 |
-    | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | anglais | 12/31/2019 |
-    | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | japonais | 12/31/2019 |
-    | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (chinois Simplifié) | chinois Simplifié | 12/31/2019 |
-    | 10136 | A | Configuration, gestion et maintenance des serveurs Windows Server® 2008 | français | 12/31/2019 |
-    | 10138 | A | Windows Server® 2008 サーバーの構成、管理、メンテナンス | japonais | 12/31/2019 |
-    | 10140 | A | Configuring, Managing and Maintaining Windows Server 2008 Servers | portugais | 12/31/2019 |
-    | 10142 | A | Manutenção de um banco de dados do Microsoft® SQL Server® 2008 | portugais | 12/31/2019 |
-    | 10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | portugais | 12/31/2019 |
-    | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | allemand | 12/31/2019 |
-    | 10217 | A | Microsoft® Exchange Server 2010 の構成、管理、トラブルシューティング | japonais | 12/31/2019 |
-    | 10219 | A | Configuration, gestion et résolution des problèmes de Microsoft® Exchange Server 2010 | français | 12/31/2019 |
-    | 10220 | A | Planen und Verwalten von Windows® 7-Desktopbereitstellungen und -umgebungen | allemand | 12/31/2019 |
-    | 10222 | A | Configuração e solução de problemas dos Serviços de Domínio Active Directory® no Windows Server® 2008 | portugais | 12/31/2019 |
-    | 10223 | A | Planification et gestion des environnements et des déploiements de postes de travail Windows®7 | français | 12/31/2019 |
-    | 10224 | A | Installation et configuration du client Windows® 7 | français | 12/31/2019 |
-    | 10225 | A | Installieren und Konfigurieren von Windows® 7 Client | allemand | 12/31/2019 |
-    | 10226 | A | Windows® 7 クライアントのインストールおよび構成 | japonais | 12/31/2019 |
-    | 10228 | A | Instalação e configuração do cliente Windows® 7 | portugais | 12/31/2019 |
-    | 10229 | A | Konfigurieren von Identitäts- und Zugriffslösungen und Problembehandlung mit Windows Server® 2008 Active Directory® | allemand | 12/31/2019 |
-    | 10230 | A | Configuração e solução de problemas de soluções de identidade e acesso no Windows Server® 2008 Active Directory® | portugais | 12/31/2019 |
-    | 10555 | A | Configuração, gerenciamento e solução de problemas do Microsoft® Exchange Server 2010 | portugais | 12/31/2019 |
-    | 10557 | A | Introduction au développement Web avec Microsoft® Visual Studio® 2010 | français | 12/31/2019 |
-    | 10560 | A | Introdução ao Desenvolvimento na Web com o Microsoft® Visual Studio® 2010 | portugais | 12/31/2019 |
-    | 10561 | A | Windows® 7 客户端的安装与配置 | chinois Simplifié | 12/31/2019 |
-    | 10563 | A | Microsoft® Visual Studio® 2010 C# 编程 | chinois Simplifié | 12/31/2019 |
-    | 10564 | A | Microsoft® Visual Studio® 2010 Web 开发基础 | chinois Simplifié | 12/31/2019 |
-    | 10701 | A | Configuration et gestion de Microsoft SharePoint 2010 | français | 12/31/2019 |
-    | 10702 | A | Konfiguration und Verwaltung von Microsoft SharePoint 2010 | allemand | 12/31/2019 |
-    | 10704 | A | Configuração e gerenciamento do Microsoft SharePoint 2010 | portugais | 12/31/2019 |
-    | 10707 | A | Instalowanie i konfigurowanie klienta systemu Windows® 7 | Polish | 12/31/2019 |
-    | 10708 | A | Instalación y configuración del cliente de Windows® 7 | espagnol | 12/31/2019 |
-    | 10709 | A | Установка и настройка клиента Windows® 7 | Russion | 12/31/2019 |
-    | 10714 | A | Desenvolvimento de aplicativos Web com o Microsoft® Visual Studio® 2010 | portugais | 12/31/2019 |
-    | 10755 | A | Implémentation et gestion de la virtualisation de serveurs Microsoft® | français | 12/31/2019 |
-    | 10756 | A | Implementierung und Verwaltung von Microsoft® Server Virtualization | allemand | 12/31/2019 |
-    | 10757 | A | Implementação e gerenciamento da virtualização de servidores da Microsoft® | portugais | 12/31/2019 |
-    | 10758 | A | Implémentation et gestion de la virtualisation de postes de travail Microsoft | français | 12/31/2019 |
-    | 10759 | A | Implementierung und Verwaltung von Microsoft Desktop Virtualization | allemand | 12/31/2019 |
-    | 10947 | A | 使用Visual Studio 2010 开发数据访问应用程序 | chinois Simplifié | 12/31/2019 |
-    | 10948 | A | 使用Visual Studio 2010 开发WCF应用程序 | chinois Simplifié | 12/31/2019 |
-    | 10949 | A | 使用Visual Studio 2010 开发 Windows 应用程序 | chinois Simplifié | 12/31/2019 |
-    | 10951 | A | Implementing and Managing Microsoft® Server Virtualization (chinois Simplifié) | chinois Simplifié | 12/31/2019 |
-    | 10952 | A | Microsoft SharePoint 2010 配置与管理 | chinois Simplifié | 12/31/2019 |
-    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | allemand | 12/31/2019 |
-    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | portugais | 12/31/2019 |
-    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | portugais | 12/31/2019 |
-    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows® Server 2003 Active Directory® Infrastructure | portugais | 12/31/2019 |
-    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows Server™ 2003 Active Directory® Infrastructure | portugais | 12/31/2019 |
-    | 22413 | B | Conception et implémentation d’une infrastructure de serveur | français | 12/31/2019 |
-    | 22415 | B | Implémentation d'une infrastructure de bureau | français | 12/31/2019 |
-    | 23331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | japonais | 12/31/2019 |
-    | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | japonais | 12/31/2019 |
-    | 23687 | B | Configuring Windows 8 | japonais | 12/31/2019 |
-    | 23688 | A | Managing and Maintaining Windows 8 | japonais | 12/31/2019 |
-    | 24687 | B | Configuring Windows 8 | portugais | 12/31/2019 |
-    | 24688 | A | Managing and Maintaining Windows 8 | portugais | 12/31/2019 |
-    | 28533 | D | 实施Microsoft Azure基础架构解决方案 | chinois Simplifié | 12/31/2019 |
-    | 29533 | D | 實作 Microsoft Azure 基礎架構解決方案 | chinois Simplifié | 12/31/2019 |
-    | 50287 | A | Microsoft Virtualization Technology Overview (Version 2) | japonais | 12/31/2019 |
-    | 50288 | A | Install and Configure Hyper-V (Version 2) | japonais | 12/31/2019 |
-    | 50403 | B | Implementing Active Directory Rights Management Services with Exchange and SharePoint | anglais | 12/31/2019 |
-    | 50412 | B | Implementing Active Directory Federation Services 2.0 | anglais | 12/31/2019 |
-    | 50497 | A | Microsoft SQL Server 2008 System Administration (Preparation for MCTS 70-432) | japonais | 12/31/2019 |
-    | 50498 | A | Planning and Management for Windows 7 Desktop Deployment Environment | japonais | 12/31/2019 |
-    | 50525 | A | Team Foundation Server 2010 Fundamentals | japonais | 12/31/2019 |
-    | 50590 | A | Microsoft Client Virtualization Solutions – Remote Desktop and VDI | japonais | 12/31/2019 |
-    | 50591 | A | Installing, Configuring, and Deploying Windows 7 Clients | japonais | 12/31/2019 |
-    | 50600 | A | Designing a Business Intelligence Infrastructure Using Microsoft SQL Server 2008 | japonais | 12/31/2019 |
-    | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | japonais | 12/31/2019 |
-    | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | japonais | 12/31/2019 |
-    | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | japonais | 12/31/2019 |
-    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | allemand | 12/31/2019 |
-    | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | français | 12/31/2019 |
-    | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | français | 12/31/2019 |
-    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | allemand | 12/31/2019 |
-    | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | allemand | 12/31/2019 |
-    | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (chinois Simplifié) | chinois Simplifié | 12/31/2019 |
-    | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (chinois Simplifié) | chinois Simplifié | 12/31/2019 |
-    | 6854 | A | Windows Server® 2008 Internet 信息服务的配置与故障排除 | chinois Simplifié | 12/31/2019 |
+    | MD-100T01 | A | Installing Windows 10 | anglais | 31/12/2019 |
+    | MD-100T02 | A | Configuring Windows 10 | anglais | 31/12/2019 |
+    | MD-100T03 | A | Protecting Windows 10 | anglais | 31/12/2019 |
+    | MD-100T04 | A | Maintaining Windows 10 | anglais | 31/12/2019 |
+    | MD-101T01 | A | Deploying the Modern Desktop | anglais | 31/12/2019 |
+    | MD-101T02 | A | Managing Modern Desktops and Devices | anglais | 31/12/2019 |
+    | MD-101T03 | A | Protecting Modern Desktops and Devices | anglais | 31/12/2019 |
+    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | anglais | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 31/12/2019 |
+    | 10992 | B | Integrating On-Premises Core Infrastructure with Microsoft Azure | anglais | 31/12/2019 |
+    | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | anglais | 31/12/2019 |
+    | 40389 | A | First Look Clinic: Windows Server 2016 | anglais | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | anglais | 31/12/2019 |
+    | 20695 | D | Deploying Windows Desktops and Enterprise Applications | anglais | 31/12/2019 |
+    | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | anglais | 31/12/2019 |
+    | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | japonais | 31/12/2019 |
+    | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
+    | 10136 | A | Configuration, gestion et maintenance des serveurs Windows Server® 2008 | français | 31/12/2019 |
+    | 10138 | A | Windows Server® 2008 サーバーの構成、管理、メンテナンス | japonais | 31/12/2019 |
+    | 10140 | A | Configuring, Managing and Maintaining Windows Server 2008 Servers | portugais | 31/12/2019 |
+    | 10142 | A | Manutenção de um banco de dados do Microsoft® SQL Server® 2008 | portugais | 31/12/2019 |
+    | 10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | portugais | 31/12/2019 |
+    | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | allemand | 31/12/2019 |
+    | 10217 | A | Microsoft® Exchange Server 2010 の構成、管理、トラブルシューティング | japonais | 31/12/2019 |
+    | 10219 | A | Configuration, gestion et résolution des problèmes de Microsoft® Exchange Server 2010 | français | 31/12/2019 |
+    | 10220 | A | Planen und Verwalten von Windows® 7-Desktopbereitstellungen und -umgebungen | allemand | 31/12/2019 |
+    | 10222 | A | Configuração e solução de problemas dos Serviços de Domínio Active Directory® no Windows Server® 2008 | portugais | 31/12/2019 |
+    | 10223 | A | Planification et gestion des environnements et des déploiements de postes de travail Windows®7 | français | 31/12/2019 |
+    | 10224 | A | Installation et configuration du client Windows® 7 | français | 31/12/2019 |
+    | 10225 | A | Installieren und Konfigurieren von Windows® 7 Client | allemand | 31/12/2019 |
+    | 10226 | A | Windows® 7 クライアントのインストールおよび構成 | japonais | 31/12/2019 |
+    | 10228 | A | Instalação e configuração do cliente Windows® 7 | portugais | 31/12/2019 |
+    | 10229 | A | Konfigurieren von Identitäts- und Zugriffslösungen und Problembehandlung mit Windows Server® 2008 Active Directory® | allemand | 31/12/2019 |
+    | 10230 | A | Configuração e solução de problemas de soluções de identidade e acesso no Windows Server® 2008 Active Directory® | portugais | 31/12/2019 |
+    | 10555 | A | Configuração, gerenciamento e solução de problemas do Microsoft® Exchange Server 2010 | portugais | 31/12/2019 |
+    | 10557 | A | Introduction au développement Web avec Microsoft® Visual Studio® 2010 | français | 31/12/2019 |
+    | 10560 | A | Introdução ao Desenvolvimento na Web com o Microsoft® Visual Studio® 2010 | portugais | 31/12/2019 |
+    | 10561 | A | Windows® 7 客户端的安装与配置 | chinois Simplifié | 31/12/2019 |
+    | 10563 | A | Microsoft® Visual Studio® 2010 C# 编程 | chinois Simplifié | 31/12/2019 |
+    | 10564 | A | Microsoft® Visual Studio® 2010 Web 开发基础 | chinois Simplifié | 31/12/2019 |
+    | 10701 | A | Configuration et gestion de Microsoft SharePoint 2010 | français | 31/12/2019 |
+    | 10702 | A | Konfiguration und Verwaltung von Microsoft SharePoint 2010 | allemand | 31/12/2019 |
+    | 10704 | A | Configuração e gerenciamento do Microsoft SharePoint 2010 | portugais | 31/12/2019 |
+    | 10707 | A | Instalowanie i konfigurowanie klienta systemu Windows® 7 | polonais | 31/12/2019 |
+    | 10708 | A | Instalación y configuración del cliente de Windows® 7 | espagnol | 31/12/2019 |
+    | 10709 | A | Установка и настройка клиента Windows® 7 | Russion | 31/12/2019 |
+    | 10714 | A | Desenvolvimento de aplicativos Web com o Microsoft® Visual Studio® 2010 | portugais | 31/12/2019 |
+    | 10755 | A | Implémentation et gestion de la virtualisation de serveurs Microsoft® | français | 31/12/2019 |
+    | 10756 | A | Implementierung und Verwaltung von Microsoft® Server Virtualization | allemand | 31/12/2019 |
+    | 10757 | A | Implementação e gerenciamento da virtualização de servidores da Microsoft® | portugais | 31/12/2019 |
+    | 10758 | A | Implémentation et gestion de la virtualisation de postes de travail Microsoft | français | 31/12/2019 |
+    | 10759 | A | Implementierung und Verwaltung von Microsoft Desktop Virtualization | allemand | 31/12/2019 |
+    | 10947 | A | 使用Visual Studio 2010 开发数据访问应用程序 | chinois Simplifié | 31/12/2019 |
+    | 10948 | A | 使用Visual Studio 2010 开发WCF应用程序 | chinois Simplifié | 31/12/2019 |
+    | 10949 | A | 使用Visual Studio 2010 开发 Windows 应用程序 | chinois Simplifié | 31/12/2019 |
+    | 10951 | A | Implementing and Managing Microsoft® Server Virtualization (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
+    | 10952 | A | Microsoft SharePoint 2010 配置与管理 | chinois Simplifié | 31/12/2019 |
+    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | allemand | 31/12/2019 |
+    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | portugais | 31/12/2019 |
+    | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | portugais | 31/12/2019 |
+    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows® Server 2003 Active Directory® Infrastructure | portugais | 31/12/2019 |
+    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows Server™ 2003 Active Directory® Infrastructure | portugais | 31/12/2019 |
+    | 22413 | B | Conception et implémentation d’une infrastructure de serveur | français | 31/12/2019 |
+    | 22415 | B | Implémentation d'une infrastructure de bureau | français | 31/12/2019 |
+    | 23331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | japonais | 31/12/2019 |
+    | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | japonais | 31/12/2019 |
+    | 23687 | B | Configuring Windows 8 | japonais | 31/12/2019 |
+    | 23688 | A | Managing and Maintaining Windows 8 | japonais | 31/12/2019 |
+    | 24687 | B | Configuring Windows 8 | portugais | 31/12/2019 |
+    | 24688 | A | Managing and Maintaining Windows 8 | portugais | 31/12/2019 |
+    | 28533 | D | 实施Microsoft Azure基础架构解决方案 | chinois Simplifié | 31/12/2019 |
+    | 29533 | D | 實作 Microsoft Azure 基礎架構解決方案 | chinois Simplifié | 31/12/2019 |
+    | 50287 | A | Microsoft Virtualization Technology Overview (Version 2) | japonais | 31/12/2019 |
+    | 50288 | A | Install and Configure Hyper-V (Version 2) | japonais | 31/12/2019 |
+    | 50403 | B | Implementing Active Directory Rights Management Services with Exchange and SharePoint | anglais | 31/12/2019 |
+    | 50412 | B | Implementing Active Directory Federation Services 2.0 | anglais | 31/12/2019 |
+    | 50497 | A | Microsoft SQL Server 2008 System Administration (Preparation for MCTS 70-432) | japonais | 31/12/2019 |
+    | 50498 | A | Planning and Management for Windows 7 Desktop Deployment Environment | japonais | 31/12/2019 |
+    | 50525 | A | Team Foundation Server 2010 Fundamentals | japonais | 31/12/2019 |
+    | 50590 | A | Microsoft Client Virtualization Solutions – Remote Desktop and VDI | japonais | 31/12/2019 |
+    | 50591 | A | Installing, Configuring, and Deploying Windows 7 Clients | japonais | 31/12/2019 |
+    | 50600 | A | Designing a Business Intelligence Infrastructure Using Microsoft SQL Server 2008 | japonais | 31/12/2019 |
+    | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | japonais | 31/12/2019 |
+    | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | japonais | 31/12/2019 |
+    | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | japonais | 31/12/2019 |
+    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | allemand | 31/12/2019 |
+    | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | français | 31/12/2019 |
+    | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | français | 31/12/2019 |
+    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | allemand | 31/12/2019 |
+    | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | allemand | 31/12/2019 |
+    | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
+    | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (chinois Simplifié) | chinois Simplifié | 31/12/2019 |
+    | 6854 | A | Windows Server® 2008 Internet 信息服务的配置与故障排除 | chinois Simplifié | 31/12/2019 |
 
 * Courseware retirements on 27 Novembre 2019
 
@@ -348,8 +365,8 @@ The following tables list courseware which is either retired or will retire soon
     | 20774 | A | Perform Cloud Data Science with Azure Machine Learning | anglais | 6/30/2019
     | 20775 | A | Perform Data Engineering on Microsoft HD Insight | anglais | 6/30/2019
     | 20776 | A | Engineering Data with Microsoft Cloud Services | anglais | 6/30/2019
-    | 32410 | B | Installing and Configuring Windows Server 2012  | turc | 6/30/2019
-    | 32411 | B | Administering Windows Server 2012  | turc | 6/30/2019
+    | 32410 | B | Installing and Configuring Windows Server 2012 | turc | 6/30/2019
+    | 32411 | B | Administering Windows Server 2012 | turc | 6/30/2019
     | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | anglais | 6/30/2019
     | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | anglais | 6/30/2019
     | 40520 | G | Microsoft Cloud Workshop: Optimized Architecture | anglais | 6/30/2019
@@ -489,213 +506,213 @@ The following tables list courseware which is either retired or will retire soon
     | 50572 | A | Premier Support for Lync Partners Tier 1 | anglais | 07/31/2018
     | 50573 | A | Premier Support for Lync Partners Tier 2 | anglais | 07/31/2018
 
-* Courseware retirements on 30 Juin 2018
+* Courseware retirements on samedi 30 juin 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | 1846 | A | Microsoft® Solutions Framework Essentials | anglais | 6/30/2018
-    | 1913 | A | Exchanging and Transforming Data Using XML and XSLT | anglais | 6/30/2018
-    | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 Toolkit | anglais | 6/30/2018
-    | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 - Delivery Guide | anglais | 6/30/2018
-    | 2097 | A | Conception d'une infrastructure réseau et Active Directory® Microsoft® Windows Server™ 2003 | français | 6/30/2018
-    | 2144 | B | Administration d'un environnement Microsoft® Windows Server™ 2003 | français | 6/30/2018
-    | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | allemand | 6/30/2018
-    | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | français | 6/30/2018
-    | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | allemand | 6/30/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | français | 6/30/2018
-    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | allemand | 6/30/2018
-    | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | français | 6/30/2018
-    | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | portugais | 6/30/2018
-    | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | anglais | 6/30/2018
-    | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | anglais | 6/30/2018
-    | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | anglais | 6/30/2018
-    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET  | anglais | 6/30/2018
-    | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | français | 6/30/2018
-    | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | français | 6/30/2018
-    | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET) | anglais | 6/30/2018
-    | 2368 | A | Zarzadzanie srodowiskiem systemu Microsoft® Windows Server™ 2003 | polonais | 6/30/2018
-    | 2373 | B | Programming with Microsoft® Visual Basic® .NET | anglais | 6/30/2018
-    | 2389 | B | Programming with Microsoft® ADO.NET | anglais | 6/30/2018
-    | 2433 | B | Microsoft® Visual Basic® Scripting and Microsoft Windows Script Host Essentials | anglais | 6/30/2018
-    | 2441 | A | Bereitstellen und Verwalten von Microsoft® Windows® XP Service Pack 2 | allemand | 6/30/2018
-    | 2500 | A | Introduction to XML and the Microsoft® .NET Platform | anglais | 6/30/2018
-    | 2541 | B | Core Data Access with Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2542 | A | Advanced Data Access With Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2543 | B | Core Web Application Technologies With Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2544 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2546 | B | Core Windows® Forms Technologies With Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2547 | A | Advanced Windows® Forms Technologies With Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2548 | B | Core Distributed Application Development With Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2549 | A | Advanced Distributed Application Development With Microsoft® Visual Studio® 2005 | anglais | 6/30/2018
-    | 2555 | A | Developing Microsoft.NET Applications for Windows (Visual C#.NET) | anglais | 6/30/2018
-    | 2556 | A | Developing Mobile Applications Using the Microsoft® .NET Compact Framework | anglais | 6/30/2018
-    | 2559 | B | Introduction to Visual Basic® .NET Programming with Microsoft® .NET | anglais | 6/30/2018
-    | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | portugais | 6/30/2018
-    | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | portugais | 6/30/2018
-    | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | anglais | 6/30/2018
-    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment  | russe | 6/30/2018
-    | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | russe | 6/30/2018
-    | 2667 | A | Introduction to Programming | anglais | 6/30/2018
-    | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | anglais | 6/30/2018
-    | 2717 | C | Introduction to Microsoft® .NET Development  | anglais | 6/30/2018
-    | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | anglais | 6/30/2018
-    | 2810 | A | Fundamentals of Network Security | anglais | 6/30/2018
-    | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | anglais | 6/30/2018
-    | 2821 | A | Designing and Managing a Windows® Public Key Infrastructure | anglais | 6/30/2018
-    | 2823 | B | Implementing and Administering Security in a Microsoft® Windows Server™ 2003 Network | anglais | 6/30/2018
-    | 2830 | B | Designing Security for Microsoft® Networks | anglais | 6/30/2018
-    | 2933 | A | Developing Business Process and Integration Solutions Using Microsoft® BizTalk® Server 2006 | anglais | 6/30/2018
-    | 2956 | B | Core Foundations of Microsoft® .NET 2.0 Development | anglais | 6/30/2018
-    | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | anglais | 6/30/2018
-    | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | anglais | 6/30/2018
-    | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | allemand | 6/30/2018
-    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005  | allemand | 6/30/2018
-    | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | anglais | 6/30/2018
-    | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | anglais | 6/30/2018
-    | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | anglais | 6/30/2018
-    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007  | anglais | 6/30/2018
-    | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | anglais | 6/30/2018
-    | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | anglais | 6/30/2018
-    | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | anglais | 6/30/2018
-    | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | anglais | 6/30/2018
-    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition  | anglais | 6/30/2018
-    | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | anglais | 6/30/2018
-    | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | anglais | 6/30/2018
-    | 5105 | C | Deploying Windows Vista® Business Desktops | anglais | 6/30/2018
-    | 5115 | B | Installing, Configuring, and Troubleshooting Windows Vista® | anglais | 6/30/2018
-    | 5117 | A | Installing, Configuring, Troubleshooting, and Maintaining Windows Vista® | anglais | 6/30/2018
-    | 5118 | B | Supporting Windows Vista® and Applications in the Enterprise | anglais | 6/30/2018
-    | 5177 | A | Implementing and Maintaining Instant Messaging Using Microsoft Office Communications Server 2007 | anglais | 6/30/2018
-    | 5178 | A | Implementing and Maintaining Audio/Visual Conferencing and Web Conferencing Using Microsoft Office Communications Server 2007 | anglais | 6/30/2018
-    | 5179 | A | Implementing and Maintaining Telephony Using Microsoft Office Communications Server 2007 | anglais | 6/30/2018
-    | 5909 | A | Introduction à l`installation et à la gestion de Microsoft® Exchange Server 2007 | français | 6/30/2018
-    | 5910 | A | Einführung in die Installation und Verwaltung von Microsoft® Exchange Server 2007 | allemand | 6/30/2018
-    | 5911 | A | Introduction to Installing and Managing Microsoft Exchange Server 2007 | japonais | 6/30/2018
-    | 5912 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | français | 6/30/2018
-    | 5913 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | allemand | 6/30/2018
-    | 5914 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange Server 2007 | français | 6/30/2018
-    | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange | allemand | 6/30/2018
-    | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange Server 2007 | allemand | 6/30/2018
-    | 5916 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | français | 6/30/2018
-    | 5917 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | allemand | 6/30/2018
-    | 5942 | A | Implémentation de Microsoft® Windows® SharePoint® Services 3.0 | français | 6/30/2018
-    | 5943 | A | Implementieren von Microsoft® Windows® SharePoint® Services 3.0 | allemand | 6/30/2018
-    | 5944 | A | Implementing Microsoft® Office SharePoint® Server 2007 | français | 6/30/2018
-    | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | allemand | 6/30/2018
-    | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops - allemand | allemand | 6/30/2018
-    | 5949 | A | Installing and Configuring the Windows Vista Operating System | allemand | 6/30/2018
-    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System  | allemand | 6/30/2018
-    | 5951 | A | Configuring Windows Vista™ Applications and Tools - | allemand | 6/30/2018
-    | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | français | 6/30/2018
-    | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | allemand | 6/30/2018
-    | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista™ | allemand | 6/30/2018
-    | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | allemand | 6/30/2018
-    | 5970 | A | Installing and Configuring the Windows Vista Operating System - | japonais | 6/30/2018
-    | 5971 | A | Configuring Windows Vista Mobile Computing and Applications - | japonais | 6/30/2018
-    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | japonais |  6/30/2018
-    | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | anglais | 6/30/2018
-    | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | anglais | 6/30/2018
-    | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | chinois | 6/30/2018
-    | 6112 | A | Advanced Data Access with Microsoft® Visual Studio® 2005 | chinois | 6/30/2018
-    | 6113 | A | Core Web Application Technologies with Microsoft® Visual Studio® 2005 | chinois | 6/30/2018
-    | 6114 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | chinois | 6/30/2018
-    | 6115 | A | Core development with the Microsoft® .NET Framework 2.0 Foundation | chinois | 6/30/2018
-    | 6116 | A | Advanced Development with the Microsoft® .NET Framework 2.0 Foundation | chinois | 6/30/2018
-    | 6142 | A | Implementing Microsoft Office SharePoint Server 2007 | japonais | 6/30/2018
-    | 6160 | A | Einführung in die Programmierung von Microsoft® .NET Framework- Anwendungen mit Microsoft Visual Studio® 2005 | allemand | 6/30/2018
-    | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | arabe | 6/30/2018
-    | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | arabe | 6/30/2018
-    | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | anglais | 6/30/2018
-    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | anglais | 6/30/2018
-    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | anglais | 6/30/2018
-    | 6730 | B | Erweitern Ihrer Kenntnisse der Netzwerkinfrastruktur- und Active Directory-Technologie für Windows Server 2008 | allemand | 6/30/2018
-    | 6731 | B | Erweitern Ihrer Kenntnisse der Anwendungsinfrastruktur-Technologie für Windows Server 2008 | allemand | 6/30/2018
-    | 6734 | A | Updating your Network Infrastructure and Active Directory® Technology Skills to Windows Server® 2008 | français | 6/30/2018
-    | 6734 | A | Mise à jour de vos compétences en matière d'infrastructure réseau et de technologie Active Directory® dans Windows Server® 2008 | français | 6/30/2018
-    | 6735 | A | Updating your Application Platform Technology Skills to Windows Server® 2008 | français | 6/30/2018
-    | 6738 | A | Configuration et administration des services Windows Media® dans Windows Server® 2008 | français | 6/30/2018
-    | 6741 | A | Configuration et dépannage d'une infrastructure réseau Windows Server 2008 | français | 6/30/2018
-    | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server® 2008 | allemand | 6/30/2018
-    | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (japonais) | japonais | 6/30/2018
-    | 6747 | A | Planification et administration de serveurs Windows Server® 2008 | français | 6/30/2018
-    | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | chinois | 6/30/2018
-    | 6853 | A | Deploying Windows Server® 2008 | chinois | 6/30/2018
-    | 6855 | A | Configuring and Troubleshooting Windows Server® 2008 Terminal Services (chinois Simplifié) | chinois | 6/30/2018
-    | 6856 | A | Fundamentals of Windows Server 2008 Active Directory | allemand | 6/30/2018
-    | 6857 | A | Fundamentals of Windows Server 2008 Active Directory | français | 6/30/2018
-    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (japonais) | japonais | 6/30/2018
-    | 7193 | A | Developing Managed Applications for Windows Mobile 6 | chinois | 6/30/2018
-    | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | chinois | 6/30/2018
-    | 10036 | A | Designing a Windows Server® 2008 Network Infrastructure - français | français | 6/30/2018
-    | 10079 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server (chinois Simplifié) | chinois | 6/30/2018
-    | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | chinois | 6/30/2018
-    | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | chinois | 6/30/2018
-    | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | chinois | 6/30/2018
-    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | chinois | 6/30/2018
-    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | chinois | 6/30/2018
-    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | chinois | 6/30/2018
-    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | chinois | 6/30/2018
-    | 10184 | A | Designing Windows Server 2008 Network Infrastructure | chinois | 6/30/2018
-    | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | chinois | 6/30/2018
-    | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(japonais) | japonais | 6/30/2018
-    | 10326 | A | Implementieren und Verwalten von Windows Small Business Server 2008 | allemand | 6/30/2018
-    | 10562 | A | Developing Web Applications with Microsoft® Visual Studio® 2010(chinois Simplifié) | chinois | 6/30/2018
-    | 80307 | A | Enterprise Portal Development in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80308 | A | Procurement in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80310 | A | LEAN Manufacturing in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80312 | A | Development III in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80313 | A | Development IV in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80314 | A | Discrete Manufacturing Basics in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80315 | A | Discrete Manufacturing Advanced in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80318 | A | Reporting in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80338 | A | Microsoft Dynamics® AX 2012 Public Sector - Financials | anglais | 6/30/2018
-    | 80414 | A | Service Management in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80416 | A | Application Integration Framework and Services in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80419 | A | Manufacturing Execution in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80420 | A | Data Upgrade and Code Upgrade to Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80421 | A | Sales and Marketing in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80422 | A | Intercompany Setup and Order Processing in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80423 | A | Master Planning in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80424 | A | Product Configuration in Microsoft Dynamics® AX 2012 | anglais | 6/30/2018
-    | 80489 | A | Diskrete Fertigung I in Microsoft Dynamics® AX 2012 | allemand | 6/30/2018
-    | 80492 | A | Diskrete Fertigung II in Microsoft Dynamics® AX 2012 | allemand | 6/30/2018
-    | 80526 | A | Beschaffung in Microsoft Dynamics® AX 2012 | allemand | 6/30/2018
-    | 80530 | A | Serviceverwaltung in Microsoft Dynamics® AX 2012 | allemand | 6/30/2018
-    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | anglais | 6/30/2018
-    | 80538 | A | Human Resource Management in Microsoft Dynamics® AX 2012 R2 | anglais | 6/30/2018
-    | 80539 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 | anglais | 6/30/2018
-    | 80541 | A | Payroll in Microsoft Dynamics® AX 2012 R2 | anglais | 6/30/2018
-    | 80542 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 | anglais | 6/30/2018
-    | 80544 | A | Warehouse Management System in Microsoft Dynamics® AX 2012 R2 | anglais | 6/30/2018
-    | 80545 | A | Customer Service in Microsoft Dynamics® CRM 2013 | anglais | 6/30/2018
-    | 80546 | A | Sales Management in Microsoft Dynamics® CRM 2013 | anglais | 6/30/2018
-    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | anglais | 6/30/2018
-    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | anglais | 6/30/2018
-    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | anglais | 6/30/2018
-    | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 6/30/2018
-    | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | allemand | 6/30/2018
-    | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | espagnol | 6/30/2018
-    | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics® CRM 2013 | français | 6/30/2018
-    | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 6/30/2018
-    | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | français | 6/30/2018
-    | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics® CRM 2013 | allemand | 6/30/2018
-    | 80623 | A | Installation et déploiement dans Microsoft Dynamics® CRM 2013 | français | 6/30/2018
-    | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | espagnol | 6/30/2018
-    | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics® CRM 2013 | allemand | 6/30/2018
-    | 80626 | A | Gestion des ventes dans Microsoft Dynamics® CRM 2013 | français | 6/30/2018
-    | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 6/30/2018
-    | 80628 | A | Kundenservice in Microsoft Dynamics® CRM 2013 | allemand | 6/30/2018
-    | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | espagnol | 6/30/2018
-    | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | français | 6/30/2018
-    | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 6/30/2018
+    | 1846 | A | Microsoft® Solutions Framework Essentials | anglais | 30/6/2018
+    | 1913 | A | Exchanging and Transforming Data Using XML and XSLT | anglais | 30/6/2018
+    | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 Toolkit | anglais | 30/6/2018
+    | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 - Delivery Guide | anglais | 30/6/2018
+    | 2097 | A | Conception d'une infrastructure réseau et Active Directory® Microsoft® Windows Server™ 2003 | français | 30/6/2018
+    | 2144 | B | Administration d'un environnement Microsoft® Windows Server™ 2003 | français | 30/6/2018
+    | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | allemand | 30/6/2018
+    | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | français | 30/6/2018
+    | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | allemand | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | français | 30/6/2018
+    | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | allemand | 30/6/2018
+    | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | français | 30/6/2018
+    | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | portugais | 30/6/2018
+    | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | anglais | 30/6/2018
+    | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | anglais | 30/6/2018
+    | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | anglais | 30/6/2018
+    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET | anglais | 30/6/2018
+    | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | français | 30/6/2018
+    | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | français | 30/6/2018
+    | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET) | anglais | 30/6/2018
+    | 2368 | A | Zarzadzanie srodowiskiem systemu Microsoft® Windows Server™ 2003 | polonais | 30/6/2018
+    | 2373 | B | Programming with Microsoft® Visual Basic® .NET | anglais | 30/6/2018
+    | 2389 | B | Programming with Microsoft® ADO.NET | anglais | 30/6/2018
+    | 2433 | B | Microsoft® Visual Basic® Scripting and Microsoft Windows Script Host Essentials | anglais | 30/6/2018
+    | 2441 | A | Bereitstellen und Verwalten von Microsoft® Windows® XP Service Pack 2 | allemand | 30/6/2018
+    | 2500 | A | Introduction to XML and the Microsoft® .NET Platform | anglais | 30/6/2018
+    | 2541 | B | Core Data Access with Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2542 | A | Advanced Data Access With Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2543 | B | Core Web Application Technologies With Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2544 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2546 | B | Core Windows® Forms Technologies With Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2547 | A | Advanced Windows® Forms Technologies With Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2548 | B | Core Distributed Application Development With Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2549 | A | Advanced Distributed Application Development With Microsoft® Visual Studio® 2005 | anglais | 30/6/2018
+    | 2555 | A | Developing Microsoft.NET Applications for Windows (Visual C#.NET) | anglais | 30/6/2018
+    | 2556 | A | Developing Mobile Applications Using the Microsoft® .NET Compact Framework | anglais | 30/6/2018
+    | 2559 | B | Introduction to Visual Basic® .NET Programming with Microsoft® .NET | anglais | 30/6/2018
+    | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | portugais | 30/6/2018
+    | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | portugais | 30/6/2018
+    | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | anglais | 30/6/2018
+    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment | russe | 30/6/2018
+    | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | russe | 30/6/2018
+    | 2667 | A | Introduction to Programming | anglais | 30/6/2018
+    | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | anglais | 30/6/2018
+    | 2717 | C | Introduction to Microsoft® .NET Development | anglais | 30/6/2018
+    | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | anglais | 30/6/2018
+    | 2810 | A | Fundamentals of Network Security | anglais | 30/6/2018
+    | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | anglais | 30/6/2018
+    | 2821 | A | Designing and Managing a Windows® Public Key Infrastructure | anglais | 30/6/2018
+    | 2823 | B | Implementing and Administering Security in a Microsoft® Windows Server™ 2003 Network | anglais | 30/6/2018
+    | 2830 | B | Designing Security for Microsoft® Networks | anglais | 30/6/2018
+    | 2933 | A | Developing Business Process and Integration Solutions Using Microsoft® BizTalk® Server 2006 | anglais | 30/6/2018
+    | 2956 | B | Core Foundations of Microsoft® .NET 2.0 Development | anglais | 30/6/2018
+    | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | anglais | 30/6/2018
+    | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | anglais | 30/6/2018
+    | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | allemand | 30/6/2018
+    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | allemand | 30/6/2018
+    | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | anglais | 30/6/2018
+    | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | anglais | 30/6/2018
+    | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | anglais | 30/6/2018
+    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | anglais | 30/6/2018
+    | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | anglais | 30/6/2018
+    | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | anglais | 30/6/2018
+    | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | anglais | 30/6/2018
+    | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | anglais | 30/6/2018
+    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition | anglais | 30/6/2018
+    | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | anglais | 30/6/2018
+    | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | anglais | 30/6/2018
+    | 5105 | C | Deploying Windows Vista® Business Desktops | anglais | 30/6/2018
+    | 5115 | B | Installing, Configuring, and Troubleshooting Windows Vista® | anglais | 30/6/2018
+    | 5117 | A | Installing, Configuring, Troubleshooting, and Maintaining Windows Vista® | anglais | 30/6/2018
+    | 5118 | B | Supporting Windows Vista® and Applications in the Enterprise | anglais | 30/6/2018
+    | 5177 | A | Implementing and Maintaining Instant Messaging Using Microsoft Office Communications Server 2007 | anglais | 30/6/2018
+    | 5178 | A | Implementing and Maintaining Audio/Visual Conferencing and Web Conferencing Using Microsoft Office Communications Server 2007 | anglais | 30/6/2018
+    | 5179 | A | Implementing and Maintaining Telephony Using Microsoft Office Communications Server 2007 | anglais | 30/6/2018
+    | 5909 | A | Introduction à l`installation et à la gestion de Microsoft® Exchange Server 2007 | français | 30/6/2018
+    | 5910 | A | Einführung in die Installation und Verwaltung von Microsoft® Exchange Server 2007 | allemand | 30/6/2018
+    | 5911 | A | Introduction to Installing and Managing Microsoft Exchange Server 2007 | japonais | 30/6/2018
+    | 5912 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | français | 30/6/2018
+    | 5913 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | allemand | 30/6/2018
+    | 5914 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange Server 2007 | français | 30/6/2018
+    | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange | allemand | 30/6/2018
+    | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange Server 2007 | allemand | 30/6/2018
+    | 5916 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | français | 30/6/2018
+    | 5917 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | allemand | 30/6/2018
+    | 5942 | A | Implémentation de Microsoft® Windows® SharePoint® Services 3.0 | français | 30/6/2018
+    | 5943 | A | Implementieren von Microsoft® Windows® SharePoint® Services 3.0 | allemand | 30/6/2018
+    | 5944 | A | Implementing Microsoft® Office SharePoint® Server 2007 | français | 30/6/2018
+    | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | allemand | 30/6/2018
+    | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops - allemand | allemand | 30/6/2018
+    | 5949 | A | Installing and Configuring the Windows Vista Operating System | allemand | 30/6/2018
+    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System | allemand | 30/6/2018
+    | 5951 | A | Configuring Windows Vista™ Applications and Tools - | allemand | 30/6/2018
+    | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | français | 30/6/2018
+    | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | allemand | 30/6/2018
+    | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista™ | allemand | 30/6/2018
+    | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | allemand | 30/6/2018
+    | 5970 | A | Installing and Configuring the Windows Vista Operating System - | japonais | 30/6/2018
+    | 5971 | A | Configuring Windows Vista Mobile Computing and Applications - | japonais | 30/6/2018
+    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | japonais | 30/6/2018
+    | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | anglais | 30/6/2018
+    | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | anglais | 30/6/2018
+    | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | chinois | 30/6/2018
+    | 6112 | A | Advanced Data Access with Microsoft® Visual Studio® 2005 | chinois | 30/6/2018
+    | 6113 | A | Core Web Application Technologies with Microsoft® Visual Studio® 2005 | chinois | 30/6/2018
+    | 6114 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | chinois | 30/6/2018
+    | 6115 | A | Core development with the Microsoft® .NET Framework 2.0 Foundation | chinois | 30/6/2018
+    | 6116 | A | Advanced Development with the Microsoft® .NET Framework 2.0 Foundation | chinois | 30/6/2018
+    | 6142 | A | Implementing Microsoft Office SharePoint Server 2007 | japonais | 30/6/2018
+    | 6160 | A | Einführung in die Programmierung von Microsoft® .NET Framework- Anwendungen mit Microsoft Visual Studio® 2005 | allemand | 30/6/2018
+    | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | arabe | 30/6/2018
+    | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | arabe | 30/6/2018
+    | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | anglais | 30/6/2018
+    | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | anglais | 30/6/2018
+    | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | anglais | 30/6/2018
+    | 6730 | B | Erweitern Ihrer Kenntnisse der Netzwerkinfrastruktur- und Active Directory-Technologie für Windows Server 2008 | allemand | 30/6/2018
+    | 6731 | B | Erweitern Ihrer Kenntnisse der Anwendungsinfrastruktur-Technologie für Windows Server 2008 | allemand | 30/6/2018
+    | 6734 | A | Updating your Network Infrastructure and Active Directory® Technology Skills to Windows Server® 2008 | français | 30/6/2018
+    | 6734 | A | Mise à jour de vos compétences en matière d'infrastructure réseau et de technologie Active Directory® dans Windows Server® 2008 | français | 30/6/2018
+    | 6735 | A | Updating your Application Platform Technology Skills to Windows Server® 2008 | français | 30/6/2018
+    | 6738 | A | Configuration et administration des services Windows Media® dans Windows Server® 2008 | français | 30/6/2018
+    | 6741 | A | Configuration et dépannage d'une infrastructure réseau Windows Server 2008 | français | 30/6/2018
+    | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server® 2008 | allemand | 30/6/2018
+    | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (japonais) | japonais | 30/6/2018
+    | 6747 | A | Planification et administration de serveurs Windows Server® 2008 | français | 30/6/2018
+    | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | chinois | 30/6/2018
+    | 6853 | A | Deploying Windows Server® 2008 | chinois | 30/6/2018
+    | 6855 | A | Configuring and Troubleshooting Windows Server® 2008 Terminal Services (chinois Simplifié) | chinois | 30/6/2018
+    | 6856 | A | Fundamentals of Windows Server 2008 Active Directory | allemand | 30/6/2018
+    | 6857 | A | Fundamentals of Windows Server 2008 Active Directory | français | 30/6/2018
+    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (japonais) | japonais | 30/6/2018
+    | 7193 | A | Developing Managed Applications for Windows Mobile 6 | chinois | 30/6/2018
+    | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | chinois | 30/6/2018
+    | 10036 | A | Designing a Windows Server® 2008 Network Infrastructure - français | français | 30/6/2018
+    | 10079 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server (chinois Simplifié) | chinois | 30/6/2018
+    | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | chinois | 30/6/2018
+    | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | chinois | 30/6/2018
+    | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | chinois | 30/6/2018
+    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | chinois | 30/6/2018
+    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | chinois | 30/6/2018
+    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | chinois | 30/6/2018
+    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | chinois | 30/6/2018
+    | 10184 | A | Designing Windows Server 2008 Network Infrastructure | chinois | 30/6/2018
+    | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | chinois | 30/6/2018
+    | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(japonais) | japonais | 30/6/2018
+    | 10326 | A | Implementieren und Verwalten von Windows Small Business Server 2008 | allemand | 30/6/2018
+    | 10562 | A | Developing Web Applications with Microsoft® Visual Studio® 2010(chinois Simplifié) | chinois | 30/6/2018
+    | 80307 | A | Enterprise Portal Development in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80308 | A | Procurement in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80310 | A | LEAN Manufacturing in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80312 | A | Development III in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80313 | A | Development IV in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80314 | A | Discrete Manufacturing Basics in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80315 | A | Discrete Manufacturing Advanced in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80318 | A | Reporting in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80338 | A | Microsoft Dynamics® AX 2012 Public Sector - Financials | anglais | 30/6/2018
+    | 80414 | A | Service Management in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80416 | A | Application Integration Framework and Services in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80419 | A | Manufacturing Execution in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80420 | A | Data Upgrade and Code Upgrade to Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80421 | A | Sales and Marketing in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80422 | A | Intercompany Setup and Order Processing in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80423 | A | Master Planning in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80424 | A | Product Configuration in Microsoft Dynamics® AX 2012 | anglais | 30/6/2018
+    | 80489 | A | Diskrete Fertigung I in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
+    | 80492 | A | Diskrete Fertigung II in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
+    | 80526 | A | Beschaffung in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
+    | 80530 | A | Serviceverwaltung in Microsoft Dynamics® AX 2012 | allemand | 30/6/2018
+    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | anglais | 30/6/2018
+    | 80538 | A | Human Resource Management in Microsoft Dynamics® AX 2012 R2 | anglais | 30/6/2018
+    | 80539 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
+    | 80541 | A | Payroll in Microsoft Dynamics® AX 2012 R2 | anglais | 30/6/2018
+    | 80542 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
+    | 80544 | A | Warehouse Management System in Microsoft Dynamics® AX 2012 R2 | anglais | 30/6/2018
+    | 80545 | A | Customer Service in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
+    | 80546 | A | Sales Management in Microsoft Dynamics® CRM 2013 | anglais | 30/6/2018
+    | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | anglais | 30/6/2018
+    | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | anglais | 30/6/2018
+    | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | anglais | 30/6/2018
+    | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 30/6/2018
+    | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | allemand | 30/6/2018
+    | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | espagnol | 30/6/2018
+    | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics® CRM 2013 | français | 30/6/2018
+    | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 30/6/2018
+    | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | français | 30/6/2018
+    | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics® CRM 2013 | allemand | 30/6/2018
+    | 80623 | A | Installation et déploiement dans Microsoft Dynamics® CRM 2013 | français | 30/6/2018
+    | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | espagnol | 30/6/2018
+    | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics® CRM 2013 | allemand | 30/6/2018
+    | 80626 | A | Gestion des ventes dans Microsoft Dynamics® CRM 2013 | français | 30/6/2018
+    | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 30/6/2018
+    | 80628 | A | Kundenservice in Microsoft Dynamics® CRM 2013 | allemand | 30/6/2018
+    | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | espagnol | 30/6/2018
+    | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | français | 30/6/2018
+    | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (japonais) | japonais | 30/6/2018
 
-* Courseware retirements on 30 Mars 2018
+* Courseware retirements on vendredi 30 mars 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 20696 | C | Administering System Center Configuration Manager and Intune | anglais | 03/30/2018
 
-* Courseware retirements on 31 janvier 2018
+* Courseware retirements on mercredi 31 janvier 2018
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -704,7 +721,7 @@ The following tables list courseware which is either retired or will retire soon
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | anglais | 01/31/2018
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | anglais | 01/31/2018
 
-* Courseware retirements on 30 juin 2017
+* Courseware retirements on vendredi 30 juin 2017
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -742,13 +759,13 @@ The following tables list courseware which is either retired or will retire soon
     | 80580 | A | Microsoft Dynamics AX 2012 の個別の製造の詳細 | japonais | 6/30/2017
     | 80581 | A | Microsoft Dynamics AX 2012 の個別の製造の基本 | japonais | 6/30/2017
 
-* Courseware retirements on 15 avril 2017
+* Courseware retirements on samedi 15 avril 2017
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | anglais | 4/15/2017
 
-* Courseware retirements on 31 mars 2017
+* Courseware retirements on vendredi 31 mars 2017
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -782,7 +799,7 @@ The following tables list courseware which is either retired or will retire soon
     | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | anglais | 3/31/2017
     | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | anglais | 3/31/2017
 
-* Courseware retirements on 31 Décembre 2016
+* Courseware retirements on samedi 31 décembre 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -838,66 +855,66 @@ The following tables list courseware which is either retired or will retire soon
     | 80565 | A | Microsoft Dynamics AX 2012 中的供应链基础 | chinois Simplifié | 12/31/2016
     | 80569 | A | Microsoft Dynamics AX 2012 中的财务 I | chinois Simplifié | 12/31/2016
 
-* Courseware retirements on 31 Octobre 2016
+* Courseware retirements on lundi 31 octobre 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | anglais | 10/31/2016
     | 20497 | A | Software Testing with Visual Studio 2013 | anglais | 10/31/2016
 
-* Courseware retirements on 15 août 2016
+* Courseware retirements on lundi 15 août 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | anglais | 8/15/2016
 
-* Courseware retirements on 1 août 2016
+* Courseware retirements on lundi 1 août 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | anglais | 8/1/2016
 
-* Courseware retirements on 24 juin 2016
+* Courseware retirements on vendredi 24 juin 2016
 
-  [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
-* Courseware retirements on 15 juin 2016
+* Courseware retirements on mercredi 15 juin 2016
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | anglais | 6/15/2016
 
-* Courseware retirements on 18 avril 2016
+* Courseware retirements on lundi 18 avril 2016
 
-    | Course number | Title | Language | Retirement date |
+    | numéro de formation | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
-    | 38 | Office 2013 and Office 365 Demonstration Sessions | japonais | 4/18/2016
-    | 37 | Office 2013 and Office 365 Demonstration Sessions | espagnol | 4/18/2016
-    | 36 | Office 2013 and Office 365 Demonstration Sessions | allemand  | 4/18/2016
-    | 35 | Office 2013 and Office 365 Demonstration Sessions | russe | 4/18/2016
-    | 34 | Office 2013 and Office 365 Demonstration Sessions | portugais brésilien | 4/18/2016
-    | 33 | Office 2013 and Office 365 Demonstration Sessions | chinois (Simplifié) | 4/18/2016
-    | 32 | Office 2013 and Office 365 Demonstration Sessions | français | 4/18/2016
-    | 31 | Office 2013 and Office 365 Demonstration Sessions | anglais | 4/18/2016
-    | 23 | Windows 8 Demonstration Sessions | anglais | 4/18/2016
-    | 22 | Office 2010 Running Start: Demonstration Sessions | Dutch | 4/18/2016
-    | 21 | Office 2010 Running Start: Demonstration Sessions | coréen | 4/18/2016
-    | 20 | Office 2010 Running Start: Demonstration Sessions | russe | 4/18/2016
-    | 19 | Office 2010 Running Start: Demonstration Sessions | chinois (Traditionnel) | 4/18/2016
-    | 18 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié) | 4/18/2016
-    | 17 | Office 2010 Running Start: Demonstration Sessions | portugais brésilien | 4/18/2016
-    | 16 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié), italien | 4/18/2016
-    | 15 | Office 2010 Running Start: Demonstration Sessions | espagnol | 4/18/2016
-    | 14 | Office 2010 Running Start: Demonstration Sessions | japonais | 4/18/2016
-    | 13 | Office 2010 Running Start: Demonstration Sessions | français | 4/18/2016
-    | 12 | Office 2010 Running Start: Demonstration Sessions | allemand | 4/18/2016
-    | 11 | Office 2010 Running Start: Demonstration Sessions | anglais | 4/18/2016
+    | 38 | Office 2013 and Office 365 Demonstration Sessions | japonais | 18/4/2016
+    | 37 | Office 2013 and Office 365 Demonstration Sessions | espagnol | 18/4/2016
+    | 36 | Office 2013 and Office 365 Demonstration Sessions | allemand | 18/4/2016
+    | 35 | Office 2013 and Office 365 Demonstration Sessions | russe | 18/4/2016
+    | 34 | Office 2013 and Office 365 Demonstration Sessions | portugais brésilien | 18/4/2016
+    | 33 | Office 2013 and Office 365 Demonstration Sessions | chinois (Simplifié) | 18/4/2016
+    | 32 | Office 2013 and Office 365 Demonstration Sessions | français | 18/4/2016
+    | 31 | Office 2013 and Office 365 Demonstration Sessions | anglais | 18/4/2016
+    | 23 | Windows 8 Demonstration Sessions | anglais | 18/4/2016
+    | 22 | Office 2010 Running Start: Demonstration Sessions | néerlandais | 4/18/2016
+    | 21 | Office 2010 Running Start: Demonstration Sessions | coréen | 18/4/2016
+    | 20 | Office 2010 Running Start: Demonstration Sessions | russe | 18/4/2016
+    | 19 | Office 2010 Running Start: Demonstration Sessions | chinois (Traditionnel) | 18/4/2016
+    | 18 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié) | 18/4/2016
+    | 17 | Office 2010 Running Start: Demonstration Sessions | portugais brésilien | 18/4/2016
+    | 16 | Office 2010 Running Start: Demonstration Sessions | chinois (Simplifié), italien | 18/4/2016
+    | 15 | Office 2010 Running Start: Demonstration Sessions | espagnol | 18/4/2016
+    | 14 | Office 2010 Running Start: Demonstration Sessions | japonais | 18/4/2016
+    | 13 | Office 2010 Running Start: Demonstration Sessions | français | 18/4/2016
+    | 12 | Office 2010 Running Start: Demonstration Sessions | allemand | 18/4/2016
+    | 11 | Office 2010 Running Start: Demonstration Sessions | anglais | 18/4/2016
 
-* Courseware retirements on 31 Décembre 2015
+* Courseware retirements on jeudi 31 décembre 2015
 
-  [Download the complete list of retiring instructor-led courses](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Téléchargez la liste complète des instructor-led courses à la retraite](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Courseware retirements on 31 août 2015
+* Courseware retirements on lundi 31 août 2015
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -914,11 +931,11 @@ The following tables list courseware which is either retired or will retire soon
     | 50430 | B | Administering Team Foundation Server 2010 | anglais | 8/31/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | anglais | 8/31/2015
 
-* Courseware retirements on 30 juin 2015
+* Courseware retirements on mardi 30 juin 2015
 
-  [Download the complete list of retiring instructor-led learning courses](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Téléchargez la liste complète des cours de instructor-led earning à la retraite](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
-* Courseware retirements on 31 janvier 2015
+* Courseware retirements on samedi 31 janvier 2015
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -927,14 +944,14 @@ The following tables list courseware which is either retired or will retire soon
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | anglais | 1/31/2015
     | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | anglais | 1/31/2015
 
-* Courseware retirements on 31 Octobre 2014
+* Courseware retirements on vendredi 31 octobre 2014
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | anglais | 10/31/2014
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | anglais | 10/31/2014
 
-* Courseware retirements on 25 Août 2014
+* Courseware retirements on lundi 25 août 2014
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -948,7 +965,7 @@ The following tables list courseware which is either retired or will retire soon
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | anglais | 8/25/2014
     | 10953 | A | HTML5 Programming | anglais | 8/25/2014
 
-* Courseware retirements on 31 Décembre 2013
+* Courseware retirements on mardi 31 décembre 2013
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -985,7 +1002,7 @@ The following tables list courseware which is either retired or will retire soon
     | 40005 | B | First Look Clinic: Windows Server 2012 | anglais | 12/31/2013
     | 40006 | B | Hands On Lab: Windows Server 2012 | anglais | 12/31/2013
 
-* Courseware retirements on 30 Septembre 2013
+* Courseware retirements on lundi 30 septembre 2013
 
     | numéro de formation | Version | titre | langue | date de retrait |
     | --- | --- | --- | --- | --- |
@@ -995,87 +1012,87 @@ The following tables list courseware which is either retired or will retire soon
     | 2278 | B | Planning and Maintaining a Microsoft Windows Server 2003 Network Infrastructure | anglais | 9/30/2013
     | 2279 | B | Planning, Implementing, and Maintaining a Microsoft Windows Server 2003 Active Directory Infrastructure | anglais | 9/30/2013
 
-* Revisions and associated retirements
+* Révisions et retraits associés
 
-  Microsoft occasionally combines courses or revises courses in such a way as to warrant the retirement of older, different courseware. This list communicates the connection between new, revised courses and any retiring courses that are associated with them.
+  Parfois, Microsoft rassemble des cours ou en révise d'autres pour assurer le retrait de didacticiels différents ou obsolètes. Cette liste indique le lien entre les nouveaux cours, les cours révisés et les cours retirés qui y sont associés.
 
-    | Retiring June 30 Course number | Version | Title | Language | Notes |
+    | retirés le 30 juin Numéro de formation | Version | titre | langue | Notes |
     | --- | --- | --- | --- | --- |
-    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | anglais | Replaced by Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
-    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | anglais | Replaced by Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
-    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | anglais | Replaced by Course 6435B: Designing Windows Server 2008 Network and Applications Infrastructure
+    | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | anglais | Remplacé par le Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
+    | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | anglais | Remplacé par le Course 6439: Configuring and Troubleshooting Windows Server 2008 Application Infrastructure
+    | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | anglais | Remplacé par le Course 6435B: Designing Windows Server 2008 Network and Applications Infrastructure
 
-## Formations retirées: Online learning
+## Formations retirées: Apprentissage en ligne
 
-* Courseware retirements on 29 Décembre 2017
+* Courseware retirements on vendredi 29 décembre 2017
 
-  * [Download the complete list of retiring SA e-learning courses](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [Download the complete list of retiring MSIA e-learning courses](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Courseware retirements on 15 Août 2017
+* Courseware retirements on mardi 15 août 2017
 
-    | Course number | Title | Language | Retirement date |
+    | numéro de formation | titre | langue | date de retrait |
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | anglais | 8/15/2017 |
 
-* Courseware retirements on 30 Juin 2017
+* Courseware retirements on vendredi 30 juin 2017
 
-  * [Download the complete list of retiring SA e-learning courses](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Download the complete list of retiring MSIA e-learning courses](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Téléchargez la liste complète des cours de SA e-learning à la retraite](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Téléchargez la liste complète des cours de MSIA e-learning à la retraite](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Courseware retirements on 30 Juin 2015
+* Courseware retirements on mardi 30 juin 2015
 
-  * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
-* Courseware retirements on 12 Mars 2014
+* Courseware retirements on mercredi 12 mars 2014
 
-  * [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Téléchargez la liste complète des cours de e-learning à la retraite](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Courseware and MOC On-Demand Retirement Frequently Asked Questions (FAQ)
+## Questions fréquemment posées (FAQ) concernant le retrait des cours et des MOC On-Demand
  
-**Q : Why are courses retired?**
+**Q: Pourquoi les cours sont-ils retirés ?**
   
-Microsoft continuously monitors industry trends and revises certification requirements to keep pace with changes in technology. To ensure that we offer you the most relevant training opportunities, we regularly introduce new courses and revise or discontinue older courses. 
+Microsoft suit en permanence les tendances du secteur et révise les exigences de certification pour rester en phase avec la technologie. Afin de garantir que nous vous offrons les possibilités de formation les plus pertinentes, nous offrons régulièrement de nouveaux cours et révisons ou supprimons les anciens cours. 
 
-**Q : What criteria are used to determine that a course should be retired?**
+**Q: Quels critères sont-ils utilisés pour déterminer si un cours doit être retiré ?**
  
-Typically, a course will be retired in one of the following scenarios:
+Un cours est  généralement retiré dans l'un des cas suivants:
 
-- The course has been replaced. A new course is released which replaces one or more previous courses and which covers the material in a substantially new manner.
-- If the technology covered in a course is no longer supported by Microsoft, the courseware will typically be retired.
-- Business decisions related to the success of a course or the costs of keeping a course up to date may lead to retirement.
-- The certification is retired. If the course was designed for a certification that is no longer offered, the courseware may be retired.
-- Courses that are offered by non-Microsoft authors through the community-authoring program may be retired for any reason, at the author’s request.
-- Quality concerns may result in course retirement. If quality concerns are identified with a course, it may be retired until the quality can be improved.
+- Le cours a été remplacé. Si un nouveau cours est publié. Il remplace un ou plusieurs cours précédents et couvre la matière d'une manière substantiellement nouvelle.
+- Si la technologie abordée dans un cours n’est plus gérée par Microsoft, alors le cours sera généralement retiré.
+- Des prises de décisions internes liées au succès d’un cours ou à son coût opérationnel peuvent mener à son retrait.
+- La certification est retirée. Si le cours a été conçu pour une certification qui n'est plus offerte, le didacticiel peut être retiré.
+- Les cours proposés par des auteurs non-affiliés à Microsoft via le programme de création communautaire peuvent être retirés pour n’importe quelle raison, à la demande de l'auteur.
+- Des problèmes de qualité peuvent entraîner le retrait d'un cours. Si un cours présente des problèmes de qualité, celui-ci peut être retiré jusqu'à ce que la qualité soit améliorée.
   
-**Q : How will I know if a course is retired?**
+**Q: Comment puis-je savoir si un cours est retiré ?**
   
-Microsoft publishes a quarterly list of courses that are retired and those that are scheduled for retirement within the next three to six months. Retirement announcements are shared through communications with training partners, trainers, vendors, and other interested audiences. The course descriptions on the Microsoft Training Catalog and the Courseware Library Catalog are updated with an announcement of the retirement date.
+Microsoft publie une liste trimestrielle des cours qui sont retirés et de ceux dont le retrait est prévu dans les trois à six prochains mois. Les annonces de retrait sont communiquées par le biais de communications avec les partenaires de formation, les formateurs, les fournisseurs et d'autres publics intéressés. Les descriptions de cours sur le catalogue de formation Microsoft et le catalogue de la bibliothèque de didacticiels sont mises à jour avec l'annonce de la date de retrait.
 
-**Q : How can I purchase a course after its retirement date?**
+**Q: Comment puis-je acheter des cours après la date de retrait ?**
 
-After their retirement date, courses are no longer sold. The retirement date is published through the catalog webpage for each course and through regular communication channels for each audience. On the effective retirement date, the courseware is marked as no longer for sale. To avoid confusion, the course remains listed as not for sale for a period of time after the effective retirement, until it is archived and removed from the catalog entirely.
+Les cours ne sont plus vendus après les dates de retrait. La date de retrait est publiée sur la page web du catalogue pour chaque cours et par le biais de canaux de communication réguliers pour chaque public. À la date effective de retrait, le didacticiel est marqué comme n'étant plus à vendre. Pour éviter toute confusion, le cours reste inscrit comme non à vendre pendant un certain temps après le retrait effectif, jusqu'à ce qu'il soit archivé et entièrement retiré du catalogue.
 
-**Q : Can I purchase the digital version of a course before retirement and download or use it after the retirement date?**
+**Q: Puis-je acheter la version numérique d'un cours avant qu’il ne soit retiré, et le télécharger ou l’utiliser après sa date de retrait ?**
 
-After the course is retired, you no longer have access to download it. If you downloaded or received the courseware prior to the retirement date, you may use it according to the licensing terms.
+Une fois le cours retiré, il n’est plus possible de le télécharger. Si vous avez téléchargé ou reçu le didacticiel avant la date de retrait, vous pouvez l'utiliser conformément aux conditions de la licence.
 
-**Q : What happens to retired courses that were assigned to me, prior to their retirement, in my Learning Plan and/or added under the “My Courses” section?**
+**Q: Qu’en est-il des cours retirés que l’on avait assigné, avant leur retrait, à mon Plan d'apprentissage et/ou ajouté à la section « Mes Cours » ?**
 
-You will continue to see these courses in the “My Courses” section after their retirement, but attempting to launch a retired course will result in an error message.
+Vous verrez toujours ces cours dans la section « Mes Cours » après leur retrait, mais vous obtiendrez un message d’erreur si vous tentez de l’ouvrir.
 
-**Q : If I didn’t complete a course before its retirement, will I be allowed to complete it after it has been retired?**
+**Q: Si je n'ai pas complété un cours avant son retrait, serais-je autorisé à le terminer après qu’il ait été retiré ?**
 
-No. After a course is retired, you can no longer access it.
+No. Après le retrait d’un cours, vous ne pouvez plus y avoir accès.
   
-**Q : How will course activity reports reflect in-progress courses at the time of their retirement?**
+**Q: Comment les rapports d'activité des cours afficheront les cours non terminés au moment de leur retrait ?**
 
-The course activity reports reflect your progress on a course at the time of its retirement. For example, if a course is at 60% completion by a user when the course is retired, the course activity reports will show 60% completion progress. The completion percentage of a course cannot be changed after a course is retired.
+Les rapports d'activité des cours reflètent votre progression dans un cours au moment de son retrait. Par exemple, si un cours est achevé à 60 % par un utilisateur au moment de son retrait, les rapports d'activité du cours indiqueront une progression de 60 %. Le pourcentage d'achèvement d'un cours ne peut pas être modifié après qu'un cours a été retiré.
 
-**Q : Will I still be able to find a retired course on the online learning site?**
+**Q: Sera-t-il toujours possible de trouver les cours retirés sur le site d'apprentissage en ligne ?**
 
-No. Retired courses no longer appear in search results or in the course catalog.
+No. Les cours retirés n'apparaissent plus dans les résultats de recherche ou dans le catalogue de formation.
 
-**Q : When a course retires, will the associated MOC On-Demand (MOD) retire also?**
+**Q: Lorsqu’un cours est retiré, les MOC On-Demand (MOD) correspondantes sont-elles également retirées ?**
 
-Oui. Because the MOD aligns with courseware, when a course retires, the MOD will retire on the same date.
+Oui. Étant donné que le MOD correspond au didacticiel, lorsqu'un cours est retiré, il est retiré à la même date.

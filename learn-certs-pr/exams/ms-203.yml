@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft 365 Messaging
+metadata:
+  title: 'Exam MS-203: Microsoft 365 Messaging'
+  description: 'Exam MS-203: Microsoft 365 Messaging'
+uid: exam.ms-203
+displayName: MS-203
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent les destinataires, les autorisations, la protection du courrier, le flux de courrier et les dossiers publics dans les environnements d’entreprise hybrides et dans le cloud.
+
+  Les administrateurs de messagerie sont responsables de la gestion de l’hygiène, de l’infrastructure de messagerie, de la configuration hybride, de la migration, du transport, des boîtes de messagerie, et de l’accès des clients.
+
+  Les administrateurs de messagerie collaborent avec l’administrateur de sécurité et l’administrateur Microsoft 365 Enterprise pour mettre en œuvre une topologie sécurisée hybride ou dans le cloud seulement qui répond aux besoins professionnels d’une entreprise.
+
+  Messaging Administrator doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365.
+subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: la gestion des paramètres et des ressources organisationnelles, la planification et la gestion de l’architecture de messagerie électronique, la planification et la mise en œuvre d’une configuration et migration hybrides, et la sécurisation de l’environnement de messagerie.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Gérer les paramètres et les ressources organisationnelles (30 à 35%)
+- Planifier et gérer l’architecture de messagerie électronique (20 à 25%)
+- Planifier et mettre en œuvre une configuration et une migration hybrides (20-25%)
+- Sécuriser l'environnement de messagerie (20 à 25%)
+roles:
+- administrator
+products:
+- m365
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

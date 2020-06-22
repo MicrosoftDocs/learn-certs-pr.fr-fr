@@ -7,12 +7,10 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 1 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le jeudi 7 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des utilisateurs qui cherchent à améliorer leur productivité en automatisant les processus d'affaires, en analysant des données pour avoir des perspectives du marché et en agissant plus efficacement en créant des expériences d'application simples.
-
-  Cet examen couvre les compétences suivantes &#58; décrire les composants de Power Platform&#58; Power Apps, Power BI, Microsoft Automate, Common Data Service (CDS), les connecteurs et AI Builder, décrire les scénarios transcloud avec une représentation dans Microsoft 365, Dynamics 365, Microsoft Azure et des services de tiers, identifier les avantages et les capacités de la Power Platform, identifier les composants fonctionnels et de valeur commerciale de base de Power Platform, mettre en oeuvre des solutions simples avec Microsoft Automate, Power BI et AI Builder et créer une application simple dans un environnement sans code.
+  Les candidats à cet examen sont des utilisateurs qui aspirent à améliorer la productivité par une compréhension des capacités de Power Platform, à automatiser les processus opérationnels de base avec Power Automate, à effectuer des analyses de données de base avec Power BI afin de produire des renseignements commerciaux, à agir de manière plus efficace par le biais de la création d’un canevas simple Power Apps d’expériences dans les applications, et à créer des bots conversationnels sans utiliser de code.
 subTitle: Cet examen évalue votre capacité à comprendre la valeur commerciale de Power Platform, à comprendre les élémentss essentiels de Power Platform, à prouver la valeur commerciale de Power BI et à prouver la valeur commerciale de Microsoft Automate.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -27,12 +25,13 @@ providers:
 levels:
 - beginner
 skills:
-- Le contenu de cet examen sera mis à jour le 1 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
-- Comprendre la valeur commerciale de Power Platform (20-25%)
-- Comprendre les éléments essentiels de Power Platform (20-25%)
-- Prouver la valeur commerciale de Power BI (15-20%)
-- Prouver la valeur commerciale de Power Apps (20-25%)
-- Prouver la valeur commerciale de Power Automate (15-20%)
+- Le contenu de cet examen sera mis à jour le jeudi 7 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Décrire la valeur commerciale de Power Platform (20-25%)
+- Identifier les composants de base de Power Platform (15 à 20%)
+- Décrire la valeur commerciale de Power BI (10 à 15%)
+- Décrire la valeur commerciale de Power Apps (15 à 20%)
+- Décrire la valeur commerciale de Power Automate (15 à 20%)
+- Démontrer la valeur commerciale des Power Virtual Agents (10 à 15%)
 roles:
 - developer
 products:
@@ -46,7 +45,7 @@ relatedCertifications:
     uid: certification.power-platform-fundamentals
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -54,11 +53,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

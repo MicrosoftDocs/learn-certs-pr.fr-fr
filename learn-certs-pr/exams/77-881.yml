@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2010
+metadata:
+  title: 'Exam 77-881: Word 2010'
+  description: 'Exam 77-881: Word 2010'
+uid: exam.77-881
+displayName: 77-881
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Microsoft Office Word 2010 au niveau principal doit pouvoir naviguer dans les logiciels Microsoft Office Word 2010 au niveau de la fonctionnalité et des fonctions. Il doit connaître et savoir utiliser au moins 80 % des fonctions et fonctionnalités de Microsoft Office Word 2010. L'utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Word 2010 pour créer et éditer des documents de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des gens d’une variété de rôles d’emploi,fonctions, presque deans tous les domaines de la vie professionnelle, estudiantine et personnelle.
+subTitle: Microsoft Office Word 2010 au niveau principal doit pouvoir naviguer dans les logiciels Microsoft Office Word 2010 au niveau de la fonctionnalité et des fonctions. Il doit connaître et savoir utiliser au moins 80 % des fonctions et fonctionnalités de Microsoft Office Word 2010. L'utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Word 2010 pour créer et éditer des documents de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des gens d’une variété de rôles d’emploi,fonctions, presque deans tous les domaines de la vie professionnelle, estudiantine et personnelle.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-881&examname=Word%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-881
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Partager et maintenir des documents
+- Formatage du contenu
+- Appliquer la mise en page et le contenu réutilisable
+- Inclure des illustrations et des graphiques dans un document
+- Vérifier des documents
+- Appliquer des références et des hyperliens
+- Effectuer des opérations de fusion de courrier
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

@@ -1,47 +1,44 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Supply Chain Management​
 metadata:
-  title: 'Examen MB-330: Microsoft Dynamics 365 Supply Chain Management​'
-  description: 'Examen MB-330: Microsoft Dynamics 365 Supply Chain Management​'
+  title: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
+  description: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
 uid: exam.mb-330
 displayName: MB-330
-summary: >-
-  Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
+  Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
   <br/>
 
+  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur site, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
 
-  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur le terrain, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
-
-
-  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Microsoft Dynamics 365 Finance, y compris la finance, la fabrication et la gestion de la chaîne logistique.
-
+  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Microsoft Dynamics 365 pour les finances, y compris la finance, la fabrication et la gestion de la chaîne logistique.
 
   Les candidats doivent avoir des connaissances des pratiques de gestion de la chaîne logistique, y compris de l'approvisionnement, du commerce, de la logistique, de la gestion des entrepôts et la gestion du transport.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: mettre en œuvre la gestion des informations produit, mettre en œuvre la gestion de l’inventaire, mettre et gérer les processus de la chaîne logistique et mettre en œuvre la gestion des entrepôts et des transports et effectuer les processus d’entreprise.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-330&examname=Examen%20MB-330:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 levels:
 - intermediate
 skills:
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Mettre en œuvre la gestion des informations sur le produit (25 à 30%)
-- Mettre en œuvre la gestion de l’inventaire (20 à 25%)
+- Mettre en œuvre la gestion de l’inventaire 20 à 25%)
 - Mettre en œuvre et gérer les processus de la chaîne logistique (25 à 30%)
 - Mettre en œuvre la gestion des entrepôts et la gestion du transport et exécuter les processus opérationnels (25 à 30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance-operations
+exams:
+- uid: exam.mb-300
 courses:
-- uid: course.mb-330t01
-- uid: course.mb-330t02
-- uid: course.mb-330t03
+- uid: course.mb-330t00
 paths:
 - uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
 - uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
@@ -53,23 +50,27 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-supply-chain-management
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
-- title: Support pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

@@ -1,21 +1,29 @@
 ### YamlMime:Examination
 title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
 metadata:
-  title: 'Examen 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
-  description: 'Examen 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  title: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: "Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de la création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et appliquent correctement les principales fonctionnalités d'Access 2016 et sont capables de créer et de gérer des objets de bases de données Access de base, notamment des tableaux, des relations, des formulaires de saisie de données, des rapports multiniveaux et des requêtes multitableaux.\n\nLes examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour dans le but d'améliorer les tests del'évaluation des connaissances, des compétences et des aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;\n- Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation communecourante des la fonctionnalités du programme, afin de pouvoir réaliser les tâches dans chacun des projets. \n- Le format d'examen MOS 2016 intègre plusieurs projets.\n"
-subTitle: Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de la création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et appliquent correctement les principales fonctionnalités d'Access 2016 et sont capables de créer et de gérer des objets de bases de données Access de base, notamment des tableaux, des relations, des formulaires de saisie de données, des rapports multiniveaux et des requêtes multitableaux.
+summary: |+
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et font preuve d'une application correcte des principales fonctionnalités d'Access 2016 et démontrent leur capacité à créer et gérer des objets de bases de données Access de base, notamment des tables, des liens, des formulaires de saisie, des rapports multiniveaux et des requêtes multi-tables
+
+  Les examens de certification Microsoft Office Specialist (MOS) 2016 introduisent un nouveau format basé sur les performances pour améliorer les tests de connaissances, compétences et aptitudes d'un candidat à l'aide des programmes MOS 2016&#58;
+  - Les instructions de tâche d'examen MOS 2016 n'incluent généralement pas le nom de la commande, comme dans les versions précédentes. À titre d'exemple, les noms de fonction ne sont pas utilisés et sont remplacés par des descripteurs. Cela signifie que les candidats doivent comprendre la finalité et l'utilisation commune des fonctionnalités du programme afin de pouvoir réaliser les tâches dans chacun des projets.
+  - Le format d'examen MOS 2016 intègre plusieurs projets.
+subTitle: Les candidats qui réussissent l’examen maîtrisent les principes de base de l'environnement de l'application Access 2016. Ils comprennent les principes de base de création des bases de données et peuvent effectuer des tâches de manière indépendante. Ils connaissent et font preuve d'une application correcte des principales fonctionnalités d'Access 2016 et démontrent leur capacité à créer et gérer des objets de bases de données Access de base, notamment des tables, des liens, des formulaires de saisie, des rapports multiniveaux et des requêtes multi-tables
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
 providers:
 - providerType: certiport
-  examUrl: https://www.certiport.com/locator
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
 - zh-tw
+- nl
 - es
 - fr
 - ja
@@ -24,11 +32,12 @@ locales:
 levels:
 - intermediate
 skills:
-- Créer et gérer une base de données (20 à 25%)
-- Construire des tableaux (25 à 30%)
-- Créer des requêtes (20 à 25%)
-- Créer des formulaires (15 à 20%)
-- Créer des rapports (15 à 20%)
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Créer et gérer une base de données (20-25 %)
+- Construire des tables (25-30 %)
+- Créer des requêtes (20 à 25 %)
+- Créer des formulaires (15-20 %)
+- Créer des rapports (15-20 %)
 roles:
 - developer
 products:
@@ -44,8 +53,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

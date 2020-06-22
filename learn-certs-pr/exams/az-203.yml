@@ -8,7 +8,7 @@ displayName: AZ-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/az-204">AZ-204</a>, SERA DISPONIBLE LE 24 FÉVRIER. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du lundi 31 août 2020. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Cet examen sera retiré le dimanche 31 mai 2020. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des développeurs Azure qui conçoivent et développent des solutions de cloud telles que des applications et des services. Ils participent à toutes les phases du développement, de la conception de la solution au développement et au déploiement, en passant par les tests et la maintenance. Ils collaborent avec des architectes de solutions de cloud, des DBA de cloud, des administrateurs de cloud et des clients pour mettre en œuvre la solution.
@@ -19,7 +19,7 @@ summary: |-
   Les candidats doivent avoir au moins un an d'expérience dans la mise au point de solutions évolutives au cours de toutes les phases de la mise au point de logiciels et maîtriser au moins un langage de programmation compatible avec le cloud.
 
   <div style='font-weight&#58; bold;'><br/>REMARQUE&#58; Si vous réussissez dans cet examen, vous obtiendrez la certification suivante&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : mettre au point des solutions de calcul de l’infrastructure Azure en tant que service, mettre au point des solutions de calcul de la plateforme Azure en tant que service, mettre au point pour le stockage Azure, mettre en œuvre la sécurité Azure, surveiller, dépanner et optimiser des solutions et se connecter et consommer les services Azure et les services de tiers.'
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: mettre au point des solutions de calcul de l’infrastructure Azure en tant que service, mettre au point des solutions de calcul de la plateforme Azure en tant que service, mettre au point pour le stockage Azure, mettre en œuvre la sécurité Azure, surveiller, dépanner et optimiser des solutions et se connecter et consommer les services Azure et les services de tiers.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 locales:
@@ -33,13 +33,12 @@ providers:
 levels:
 - intermediate
 skills:
-- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-204, SERA DISPONIBLE LE 24 FÉVRIER. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du lundi 31 août 2020. Veuillez télécharger le document des compétences mesurées ci-dessous pour consulter les informations détaillées relatives aux modifications.
-- Mettre au point des solutions de calcul de l’infrastructure Azure en tant que service (10-15%)
-- Mettre au point des solutions de calcul de la plateforme Azure en tant que service (20-25%)
-- Mettre au point pour le stockage Azure (15-20%)
-- Mettre en œuvre la sécurité Azure (10-15%)
-- Surveiller, dépanner et optimiser des solutions (10-15%)
-- Se connecter et consommer les services Azure et les services de tiers (20-25%)
+- Mettre au point des solutions de calcul de l’infrastructure Azure en tant que service (10-15 %)
+- Mettre au point des solutions de calcul de la plateforme Azure en tant que service (20-25 %)
+- Mettre au point pour le stockage Azure (15-20 %)
+- Mettre en œuvre la sécurité Azure (10-15 %)
+- Surveiller, dépanner et optimiser des solutions (10-15 %)
+- Se connecter et consommer les Azure et les services de tiers (20-25 %)
 retirementDate: 08/31/2020
 roles:
 - developer
@@ -55,6 +54,7 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
+- uid: course.az-020t00
 - uid: course.az-203t01
 - uid: course.az-203t02
 - uid: course.az-203t03
@@ -75,20 +75,17 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

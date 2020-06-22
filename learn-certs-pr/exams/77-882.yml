@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Excel 2010
+metadata:
+  title: 'Exam 77-882: Excel 2010'
+  description: 'Exam 77-882: Excel 2010'
+uid: exam.77-882
+displayName: 77-882
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Microsoft Office Excel 2010 au niveau principal doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau de la fonctionnalité et des fonctions. Il doit connaître et savoir utiliser au moins 80 % des fonctions et fonctionnalités de Microsoft Office Excel 2010. L'utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des gens d’une variété de rôles d’emploi,fonctions, presque deans tous les domaines de la vie professionnelle, estudiantine et personnelle.
+subTitle: Microsoft Office Excel 2010 au niveau principal doit pouvoir naviguer dans les logiciels Microsoft Office Excel 2010 au niveau de la fonctionnalité et des fonctions. Il doit connaître et savoir utiliser au moins 80 % des fonctions et fonctionnalités de Microsoft Office Excel 2010. L'utilisateur de niveau de base doit pouvoir utiliser Microsoft Office Excel 2010 pour créer et éditer des feuilles de calcul de qualité professionnelle pour une variété d’objectifs et de situations. Les utilisateurs peuvent inclure des gens d’une variété de rôles d’emploi,fonctions, presque deans tous les domaines de la vie professionnelle, estudiantine et personnelle.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-882&examname=Excel%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-882
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gérer l’environnement de la feuille de calcul
+- Créer des données de cellules
+- Formater des cellules et des feuilles de calcul
+- Gestion des feuilles de calcul et des classeurs
+- Appliquer des formules et des fonctions
+- Présenter des données visuellement
+- Partager des données d’une feuille de calcul avec d'autres utilisateurs
+- Analyser et organiser des données
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

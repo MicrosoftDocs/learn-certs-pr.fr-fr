@@ -1,0 +1,46 @@
+### YamlMime:Examination
+title: Microsoft Outlook (Outlook and Outlook 2019)
+metadata:
+  title: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+  description: 'MO-400: Microsoft Outlook (Outlook and Outlook 2019)'
+uid: exam.mo-400
+displayName: MO-400
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  L'examen couvre la capacité d'améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d'application incluent la coordination la construction des ressources, l'envoi de messages pour les campagnes marketing, la planification des réunions du personnel et l'affectation des éléments de la réunion. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités d’Outlook et de compléter les tâches de façon indépendante.
+subTitle: Cet examen mesure les compétences pour personnaliser le contenu du format de message de l’interface utilisateur Outlook, de créer ou insérer des éléments graphiques et d'envoyer et de répondre à des e-mails et demandes de réunion. L'examen couvre la capacité d'améliorer la correspondance professionnelle, créer des calendriers et planifier des rendez-vous. Les exemples d'application incluent la coordination la construction des ressources, l'envoi de messages pour les campagnes marketing, la planification des réunions du personnel et l'affectation des éléments de la réunion.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4mURd
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Gérer les paramètres et les processus d’Outlook (15 à 20%)
+- Gérer les messages (30 à 35%)
+- Gérer les horaires (30 à 35%)
+- Gérer les contacts et les tâches (15 à 20%)
+roles:
+- business-user
+products:
+- office
+- office-outlook
+relatedCertifications:
+- related:
+    uid: certification.mos-outlook-2019
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

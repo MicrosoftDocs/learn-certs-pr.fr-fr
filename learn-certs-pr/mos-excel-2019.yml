@@ -2,19 +2,24 @@
 title: 'Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)'
-  description: Cette certification démontre que vous disposez des compétences nécessaires pour tirer pleinement profit de Microsoft Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique.
+  description: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti d’Excel en obtenant la certification Microsoft Office Specialist: Excel Associate.'
 uid: certification.mos-excel-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Cette certification démontre que vous disposez des compétences nécessaires pour tirer pleinement profit de Microsoft Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique.
-subTitle: Cette certification démontre que vous disposez des compétences nécessaires pour tirer pleinement profit de Microsoft Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti d’Excel en obtenant la certification Microsoft Office Specialist&#58; Excel Associate. Cette certification démontre les compétences dans les bases fondamentales de la création et la gestion des feuilles de travail et des classeurs, la création des cellules et des plages, la création de tables, l’application de formules et de fonctions et la création de graphiques et d’objets.
+
+  Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principales fonctionnalités de Excel et peut compléter les tâches de manière indépendante.
+subTitle: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti d’Excel en obtenant la certification Microsoft Office Specialist: Excel Associate.'
 levels:
 - intermediate
 skills:
 - Gérer des feuilles de calcul et des classeurs
 - Gérer des cellules et des plages de données
-- Gérer des tables et des données de tables
-- Effectuer des opérations à l’aide de formules et de fonctions
-- Gérer des graphiques
+- Gérer des tableaux et des données de tables
+- Effectuer des opérations avec des formules et des fonctions
+- Gestion des données
 roles:
 - business-user
 type: mos
@@ -31,9 +36,10 @@ resources:
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

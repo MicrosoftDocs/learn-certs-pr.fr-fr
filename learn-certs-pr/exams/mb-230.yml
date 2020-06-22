@@ -6,17 +6,20 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'> Le contenu de cet examen sera mis à jour en avril 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour en apprendre plus.<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
+  </div>
+
   Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 ayant une expertise du service client. Les candidats sont responsables de la mise en œuvre de solutions omnicanal axées sur le service, la qualité, la fiabilité, l'efficacité et la satisfaction de la clientèle.
   <br/>
 
   Les candidats conçoivent et mettent en œuvre des visualisations et des rapports de gestion de services fournis par et en collaboration avec l’architecte de solutions. Les candidats collaborent avec l'administrateur Dynamics 365 pour mettre en œuvre et mettre à niveau les composants de Power Platform, y compris la base de connaissances et Forms Pro.
-  
+
   Les candidats doivent posséder de solides connaissances appliquées répondant aux besoins des utilisateurs via le service client Dynamics 365, y compris une compréhension approfondie des cas, de la base de connaissances, des files d'attente, des droits, des accords de niveau de service (SLA), des visualisations et de Unified Service Desk.
-  
+
   Les candidats doivent comprendre la terminologie, les priorités, les normes, les méthodologies, les activités du service clientèle et les meilleures pratiques de l'industrie. Les candidats doivent comprendre parfaitement le rôle de l'application de service clientèle en relation avec la suite d'applications Dynamics 365, ainsi qu'avoir une compréhension de base de l'architecture de la solution et de l'assurance de la qualité.
-subTitle: "Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la configuration, gérer les cas et la base de connaissances, gérer les files d'attente, les attributions et les SLA et configurer la voix du client."
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: effectuer la configuration; gérer des cas et la base de connaissances; gérer les files d’attente, les attributions et les accords de niveau de service; et configurer Forms Pro.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
@@ -25,15 +28,14 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour en avril 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour en apprendre plus.
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
-- Effectuer la configuration (25 à 30 %)
-- Gérer les cas et la base de connaissances (30 à 35 %)
-- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA) (25 à 30 %)
-- Configurer la voix du client (15 à 20 %)
+- Le contenu de cet examen sera mis à jour le vendredi 1 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Effectuer la configuration (25 à 30%)
+- Gérer les cas et la base de connaissances (30 à 35%)
+- Gérer les files d'attente, les attributions et les accords de niveau de service (SLA) (25 à 30%)
+- Configurer les Pro des formulaires(15 -20%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-customer-service
 exams:
@@ -50,7 +52,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -58,18 +60,19 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

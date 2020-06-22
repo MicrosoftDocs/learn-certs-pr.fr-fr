@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: Cette certification sera disponible aux alentours du vendredi 17 juillet 2020. Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, et l’analyse des processus.
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></><br/><br/ font></div>
+
+  Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, et l’analyse des processus.
+
+  <div><strong><br/>Remarque&#58; Cette certification sera disponible aux alentours de juillet 2020.</strong></div>
+subTitle: Cette certification sera disponible aux alentours de juillet 2020. Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, et l’analyse des processus.
+levels:
+- intermediate
+skills:
+- Concevoir des solutions
+- Créer des solutions
+- Analyser données
+- Mettre en œuvre et de gérer des solutions.
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+exams:
+- uid: exam.pl-100
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,43 +1,46 @@
 ### YamlMime:Examination
 title: Deploying SharePoint Server Hybrid
 metadata:
-  title: 'Examen MS-301: Deploying SharePoint Server Hybrid'
-  description: 'Examen MS-301: Deploying SharePoint Server Hybrid'
+  title: 'Exam MS-301: Deploying SharePoint Server Hybrid'
+  description: 'Exam MS-301: Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  div style='font-weight&#58; bold;'>Cet examen sera retiré le lundi 31 août 2020. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/></div>
+  </div>
+
   Les candidats à cet examen sont des administrateurs Teamwork responsables de la configuration, du déploiement et de la gestion des charges de travail d’Office 365 et Azure qui se concentrent sur la collaboration et l’adoption efficaces et effectives. Les administrateurs Teamwork gèrent des applications, des services et prennent en charge l’infrastructure pour répondre aux exigences de l’entreprise. L’administrateur Teamwork doit être capable de déployer, gérer, migrer et sécuriser SharePoint (en ligne, sur site et hybride), OneDrive et Teams.
-
   <br/>
-
 
   L'administrateur Teamwork est impliqué dans les décisions de la gouvernance et des travaux avec d'autres administrateurs pour mettre en œuvre de nombreuses décisions prises par les organes dirigeants. L'administrateur Teamwork collabore avec l’administrateur de messagerie pour configurer les options et la sécurité relatives aux tâches de courrier électronique, avec l’administrateur de la voix pour intégrer les capacités vocales dans les organisations et avec l’administrateur de la sécurité pour assurer la sécurité de bout en bout.
 
-
-  Les candidats à cet examen comprennent les points d'intégration dans les applications et services suivants&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et services tiers y compris les applications du secteur d'activité. Les candidats doivent aussi comprendre les concepts de gestion de SQL Server, Azure Active Directory, PowerShell, le réseautage, l’administration du serveur Windows, le système de noms de domaine (DNS), la gestion des périphériques mobiles Active Directory, et les systèmes d’exploitation alternatifs.
+  Les candidats à cet examen comprennent les points d'intégration dans les applications et services suivants&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner et Project. L'administrateur comprend comment intégrer les applications et services tiers y compris les applications du secteur d'activité. Les candidats doivent aussi comprendre les concepts de gestion de SQL Server, Azure Active Directory, PowerShell, le réseautage, l’administration du serveur Windows, le système de noms de domaine (DNS), la gestion des périphériques mobiles Active Directory, et les systèmes d’exploitation alternatifs
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: configurer et gérer SharePoint sur site, configurer et gérer les scénarios hybrides et migrer vers SharePoint Online.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-301&examname=Exam%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-301
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-301&examname=Examen%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
-- Configurer et gérer SharePoint sur site (55 à 60%)
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon  d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Configurer et gérer SharePoint On-Premises (55 à 60%)
 - Configurer et gérer les scénarios hybrides (30 à 35%)
 - Migrer vers SharePoint Online (5 à 10%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-300
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-300
 courses:
 - uid: course.ms-301t01
 - uid: course.ms-301t02
@@ -48,23 +51,27 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Teamwork Administrator Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Teamwork Administrator Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
-- title: Support pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

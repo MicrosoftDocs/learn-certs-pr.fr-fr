@@ -6,9 +6,12 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>CET EXAMEN A ÉTÉ RETIRÉ LE mardi 31 décembre 2019. Remarque: Les examens sont retirés à 23 h 59 CST (heure normale du Centre)</div>
+  <div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'> THIS EXAM sera retiré ON mardi 31 décembre 2019. L’examen de remplacement MB-901 est disponible. Pour plus d’informations, consultez la page<a href="/learn/certifications/exams/mb-901"> des détails de l’examen MB-901.
   <br/>
-  Cet examen a été conçu pour les candidats qui cherchent à démontrer leur connaissances fondamentales des services des application Microsoft Dynamics 365, des applications de la Power Platform et du modèle de calcul sur le cloud. Cet examen portera sur les considérations et avantages de l’adoption des applications de Dynamics 365, de Power Platform et des services de cloud en général. Cet examen peut être passé comme un précurseur aux certifications et formations de Dynamics 365.
+  </div>
+  Cet examen a ete conçu pour les candidats qui cherchent à démontrer leur connaissances fondamentales des services des application Microsoft Dynamics 365, des applications de la plateforme Power et du modèle de calcul sur le cloud. Cet examen portera sur les considérations et avantages de l’adoption des applications de Dynamics 365, de Power Platform et des services de cloud en général. Cet examen peut être passé comme un précurseur aux certifications et formations de Dynamics 365.
 
   Les candidats à cet examen doivent avoir des connaissances générales ou une expérience de travail appropriée dans un environnement informatique. Les candidats doivent également avoir des connaissances de base des scénarios de gestion et de l’expérience dans le traitement d’exigences professionnelles, légales et sécuritaires des projets informatiques.
 subTitle: Cet examen évalue votre compréhension de Microsoft Dynamics 365, de la Power Platform; des concepts du Cloud; de l’octroi de licences, et des options de déploiement et de publication.
@@ -24,10 +27,10 @@ skills:
 - Comprendre Dynamics 365 (40 à 45 %)
 - Comprendre les concepts de cloud (25 à 30 %)
 - Comprendre les déploiements et les diffusions (20 à 25 %)
-retirementDate: 31/12/2019
+retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -38,7 +41,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Fundamentals.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -47,14 +50,15 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

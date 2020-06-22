@@ -1,0 +1,300 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+uid: course.da-100t00
+courseNumber: 'DA-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Acquérir, nettoyer et transformer des données.
+- skill: Modeler des données pour la performance et l’évolutivité.
+- skill: Concevoir et créer des rapports pour l’analyse des données.
+- skill: Appliquer et réaliser des analyses de rapports avancées.
+- skill: Gérer et partager des éléments de rapports.
+- skill: Créer des rapports paginés dans Power BI.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- sql-server
+exams:
+- uid: exam.da-100
+summary: |-
+  Cette formation abordera les diverses méthodes et les meilleures pratiques conformes aux exigences professionnelles et techniques de la modélisation, visualisation et analyse des données avec Power BI. Cette formation montrera également comment accéder et traiter les données provenant d’une gammes de sources de données, y compris des données à la fois relationnelles et non relationnelles. Cette formation explorera également la mise en œuvre des normes de sécurité et des politiques adéquates dans le spectre de Power BI, y compris les jeux de données et les groupes. Cette formation traitera aussi de la gestion et du déploiement des rapports et des tableaux de bord pour le partage et la distribution de contenu. Finalement, cette formation vous montrera comment élaborer des rapports paginés dans le service Power BI et les publier sur votre espace de travail aux fins d’inclusion dans Power BI.
+
+  #### Profil de l’audience
+  Cette formation est adressée aux professionnels des données et de business intelligence qui souhaitent apprendre à effectuer une analyse de données précises à l’aide de Power BI. Cette formation est également adressée à ceux qui développent des rapports qui visualisent des données provenant des technologies de plateformes de données qui existent sur le cloud et sur le site.
+prerequisitesSection: |-
+  Outre leur expérience professionnelle, les étudiants qui suivent cette formation doivent posséder des connaissances techniques équivalentes aux informations incluses dans le cours Azure Fundamentals.
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  Ce module explore le paysage du portefeuille Power BI et décrit plusieurs cas d’utilisation de Power BI. La formation identifie ensuite et décrit le rôle et les responsabilités des analystes de données.
+  #### Leçons
+  - Le portefeuille Power BI.
+  - Identifier les tâches de l’analyste des données.
+
+
+  #### Laboratoire &#58; Démarrage
+  - Démarrage.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire le paysage Power BI des produits et des services.
+  - Décrire les cas d’utilisation de Power BI.
+  - Identifier les tâches effectuées par un analyste de données.
+
+
+  ### Module 2&#58; Obtenir et profiler les données
+  Ce module explore l’identification et la connexion à différentes sources de données. L’étudiant apprendra également les bases de l’identification et de l’optimisation des questions de requêtes relatives à la performance. Il apprendra également à effectuer un profilage de données adéquat pour se préparer à l’étape suivante qui consiste à nettoyer et mettre en forme les données avant de les charger.
+  #### Leçons
+  - Sources de données.
+  - Modes de stockage.
+  - Performance des requêtes.
+  - Profilage des données.
+
+
+  #### Laboratoire &#58; Préparation des données dans Power BI Bureau
+  - Préparer des données.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Identifier les différentes sources de données.
+  - Expliquer les différentes méthodes de connexion et leurs causes.
+  - Identifier les problèmes de requête et optimiser.
+  - Identifier les anomalies des données.
+  - Examiner des structures de données.
+
+
+  ### Module 3&#58; Nettoyage et transformation des données
+  Ce module enseigne les concepts fondamentaux de la conception d’un modèle de données pour une performance et une évolutivité adéquates. Il inculque à l’étudiant une liste d’éléments à prendre en considération avant de construire le modèle.
+  #### Leçons
+  - Convivialité.
+  - Combiner les requêtes.
+  - Nettoyer et transformer des données.
+  - Aptitudes avancées.
+  - Configuration le chargement des données et résoudre les erreurs.
+
+
+  #### Laboratoire &#58; Chargement des données dans Power BI Bureau
+  - Chargement des données.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Résoudre les incohérences des données.
+  - Appliquer les transformations de mise en forme des données.
+  - Évaluer et transformer des types de données en colonnes.
+  - Résoudre les erreurs d’importation des données.
+
+
+  ### Module 4&#58; Concevoir un modèle de données
+  Ce module enseigne les concepts fondamentaux de la conception d’un modèle de données pour une performance et une évolutivité adéquates. Il inculque à l’étudiant une liste d’éléments à prendre en considération avant de construire le modèle.
+  #### Leçons
+  - Bases de la modélisation des données.
+  - Mesures et dimensions.
+  - Performance des modèles.
+
+
+  #### Laboratoire &#58; Modélisation des données dans Power BI Bureau
+  - Créer des relations de modèles.
+  - Configurer des tables.
+  - Réviser l’interface des modèles.
+  - Créer des mesures rapides.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Définir des relations et leur cardinalité.
+  - Configurer les propriétés des tables et des colonnes.
+  - Définir des mesures rapides.
+  - Comprendre l’impact de la conception du modèle sur la performance.
+
+
+  ### Module 5&#58; Développement d’un modèle de données
+  Dans ce module, l’étudiant appliquera les étapes apprises dans le module précédent et développera un modèle de données tout en découvrant et mettant en œuvre des éléments supplémentaires afin de créer la fondation du modèle. Dans ce module, l’étudiant découvrira les concepts de sécurité initiale et la fonctionnalité des questions/réponses.
+  #### Leçons
+  - Techniques courantes de modélisation des données.
+  - Ajouter des colonnes pour prendre en charge le modèle de données.
+  - Sécurité au niveau des lignes.
+  - Considérations des questions/réponses.
+
+
+  #### Laboratoire &#58; Modélisation avancée des données
+  - Créer une relation plusieurs à plusieurs.
+  - Appliquer une sécurité au niveau des lignes.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Résoudre des relations circulaires et plusieurs à plusieurs.
+  - Créer des groupages et des répartitions.
+  - Décrire et installer la fonctionnalité des questions/réponses.
+
+
+  ### Module 6&#58; Création des calculs de modèles avec DAX
+  Ce module introduit d’abord l’étudiant à DAX et quelques fonctions et opérateurs critiques nécessaires pour améliorer un modèle de données, y compris les concepts des mesures, les colonnes et tables calculées, et Time-Intelligence.
+  #### Leçons
+  - Introduction à DAX.
+  - Créer des tables et des colonnes.
+  - Mesures.
+  - L’expression CALCULATE.
+  - Les fonctions Time-Intelligence.
+
+
+  #### Laboratoire &#58; Utilisation de DAX dans Power BI - 1ère partie
+  - Créer des tables de calcul.
+  - Créer des mesures.
+
+  #### Laboratoire &#58; Utilisation de DAX dans Power BI - 2e partie
+  - Travailler avec le contenu du filtre.
+  - Travailler avec Time-Intelligence.
+  - Publier le fichier de Power BI Bureau.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Utiliser DAX pour des formules et expressions simples.
+  - Créer des tables et des colonnes de calcul.
+  - Construire des mesures simples.
+
+
+  ### Module 7&#58; Optimisation de la performance d’un modèle
+  Dans ce module, l’étudiant découvre les étapes, processus, et concepts nécessaires pour optimiser le modèle de données pour obtenir une performance de niveau entreprise.
+  #### Leçons
+  - Mettre au point le modèle de données.
+  - Cardinalité.
+  - Identifier les problèmes de performance.
+
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Analyser les plans et les dépendances des requêtes.
+  - Identifier les mesures et relations de mauvaise performance.
+  - Travailler avec les regroupements.
+  - Améliorer les niveaux de cardinalité.
+
+
+  ### Module 8&#58; Création de rapports
+  Ce module introduit l’étudiant aux concepts et principes fondamentaux de la création des rapports, notamment la sélection des visuels adéquats, la conception d’une mise en page, et l’application de la fonctionnalité de base mais critique, y compris la segmentation et le filtrage. Le thème important de la conception pour l’accessibilité est également traité.
+  #### Leçons
+  - Sélectionner une visualisation.
+  - Configuration des visualisations.
+  - Formater des pages.
+  - Améliorer le rapport.
+
+
+  #### Laboratoire &#58; Conception d’un rapport dans Power BI Bureau - 1ère partie
+  - Créer un rapport.
+  - Se connecter au service Power BI.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Concevoir une mise en page.
+  - Sélectionner et ajouter un type de visualisation approprié.
+  - Ajouter une fonctionnalité basique de rapport.
+  - Comprendre et concevoir pour l’accessibilité.
+
+
+  ### Module 9&#58; Amélioration des rapports pour une meilleure exploitabilité et performance
+  Ce module aide l’étudiant à réfléchir au-delà des bases de création de rapports et traite les thèmes d’amélioration du rapport en matière d’utilisation et de performance. À la fin de ce module, l’étudiant saura qu’un rapport ne représente pas uniquement une chose à regarder mais plutôt une toile mouvante qui raconte une histoire, et doit donc être conçu comme tel.
+  #### Leçons
+  - Signets et navigation.
+  - Concevoir des pages et des interactions homogènes.
+  - Améliorer les rapports.
+
+
+  #### Laboratoire &#58; Conception d’un rapport dans Power BI Bureau - 2e partie
+  - Configurer la synchronisation de segments.
+  - Configurer l’extraction.
+  - Ajouter un formatage conditionnel.
+  - Ajouter des signets et des boutons.
+  - Explorer le rapport.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Ajouter Quick Insights.
+  - Configurer la synchronisation de segments.
+  - Configurer les interactions entre les visualisations.
+  - Identifier les améliorations de l’utilisation.
+
+
+  ### Module 10&#58; Création de tableaux de bord.
+  Dans ce module, l’étudiant découvre les tableaux de bord et les nombreuses caractéristiques et fonctionnalités qu’ils comportent. L’étudiant apprend à prendre le rapport qu’il a créé dans le module précédent et à l’épingler sur un tableau de bord, puis à améliorer le tableau de bord pour une utilisation et des informations supplémentaires.
+  #### Leçons
+  - Conception du tableau de bord.
+  - Tableaux de bord en temps réel.
+  - Améliorations du tableau de bord.
+
+
+  #### Laboratoire &#58; Création d’un tableau de bord Power BI
+  - Créer un tableau de bord.
+  - Actualiser les jeux de données.
+  - Réviser le tableau de bord.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Créer un tableau de bord.
+  - Mettre au point la fonction des questions/réponses.
+  - Gérer les tuiles et travailler avec les pages des rapports.
+  - Expliquer et définir la vue mobile.
+
+
+  ### Module 11&#58; Amélioration des rapports et application des analyses avancées
+  Ce module aide l’étudiant à appliquer des fonctionnalités supplémentaires pour améliorer le rapport et obtenir de meilleures informations en matière de données, afin d’équiper l’étudiant avec les étapes à utiliser dans le rapport pour l’analyse actuelle des données. Ce module fournira également à l’étudiant des étapes et concepts supplémentaires afin d’appliquer et d’effectuer des analyses avancées sur le rapport et obtenir des informations plus profondes et significatives sur les données.
+  #### Leçons
+  - Navigation.
+  - Analyse de base.
+  - Groupement, répartition et clustering.
+  - Analyse au fil du temps.
+  - Analyse avancée.
+
+
+  #### Laboratoire &#58; Analyse des données dans Power BI Bureau
+  - Créer un rapport.
+  - Créer un graphique de nuage de points.
+  - Créer une prévision.
+  - Travailler avec un arbre de décomposition.
+  - Travailler avec les influenceurs clés.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Explorer le résumé statistique.
+  - Identifier les aberrations dans les données.
+  - Utiliser le visuel des questions/réponses.
+  - Effectuer une analyse du top N.
+
+
+  ### Module 12&#58; Gestion et partage des ressources de Power BI
+  Dans ce module, l’étudiant apprendra les concepts de gestion des ressources de Power BI, notamment les jeux de données et les espaces de travail, ainsi que l’application de la sécurité selon le niveau de la fonction à un jeu de données. Ce module enseigne à l’étudiant la création et gestion des espaces de travail, ainsi que le partage du contenu, notamment les rapports et le tableau de bord, et la distribution d’une application.
+  #### Leçons
+  - Gestion des jeux de données.
+  - Améliorer des jeux de données.
+  - Configurer une sécurité au niveau des lignes.
+  - Créer et gérer des espaces de travail.
+  - Améliorer des jeux de données et des rapports dans l’espace de travail.
+  - Partager et distribuer du contenu.
+
+
+  #### Laboratoire &#58; Publication et partage du contenu de Power BI
+  - Configurer la sécurité des jeux de données.
+  - Partager un tableau de bord.
+  - Publier une APP.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Configurer l’actualisation des jeux de données.
+  - Configurer une sécurité au niveau des lignes dans l’ensemble des données.
+  - Créer et gérer un espace de travail.
+  - Publier ou mettre à jour des ressources dans un espace de travail.
+  - Comprendre la collaboration dans un espace de travail.
+
+
+  ### Module 13&#58; Travailler avec les rapports paginés dans Power BI
+  Ce modèle présentera les rapports paginés à l’étudiant. Ce dernier les découvrira, apprendra leur fonction dans le spectre de Power BI, puis examinera la manière d’élaborer et de publier un rapport.
+  #### Leçons
+  - Introduction aux rapports paginés.
+  - Sources de données et jeux de données.
+  - Ajouter des éléments visuels.
+  - Améliorer et publier des rapports.
+
+
+  #### Laboratoire &#58; Création d’un rapport paginé
+  - Démarrage.
+  - Développer le rapport.
+
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Expliquer les rapports paginés.
+  - Créer un rapport paginé.
+  - Créer et configurer une source de données et un jeu de données.
+  - Travailler avec les graphiques et les tables dans le rapport.
+

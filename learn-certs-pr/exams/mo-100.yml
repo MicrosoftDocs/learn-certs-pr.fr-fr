@@ -5,22 +5,36 @@ metadata:
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principales fonctionnalités de Word et peut compléter les tâches de manière indépendante.
-subTitle: Cette application évalue les compétence de l’utilisation correcte des principales fonctionnalités de Word en créant et en modifiant des documents à diverses fins et dans diverses situations. L’examen couvre l’aptitude à créer et maintenir des rapports à l’apparence professionnelle, des lettres d'informations multicolonnes, des résumés et une correspondance professionnelle.
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Cet examen couvre l’aptitude à créer et maintenir des rapports à l’apparence professionnelle, des lettres d'informations multicolonnes, des résumés et une correspondance professionnelle. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités de Word et de compléter les tâches de façon indépendante.
+subTitle: Cette application évalue les compétence de l’utilisation correcte des principales fonctionnalités de Word en créant et en modifiant des documents à diverses fins et dans diverses situations. L’examen couvre l’aptitude à créer et maintenir des rapports à l’apparence professionnelle, des lettres d'informations multicolonnes, des résumés et une correspondance professionnelle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- id-id
+- ko
+- es
+- nl
+- ja
+- ru
+- fr
+- it
+- pt-br
 levels:
 - intermediate
 skills:
-- Gérer des documents (20 à 25%)
+- Gérer des documents (20-25%)
 - Insérer et formater un texte, des paragraphes et des sections (20 à 25%)
-- Gérer des tables et des listes (15 à 20%)
-- Créer et gérer des références (5 à 10%)
+- Gérer des tableaux et des listes (15 à 20%)
+- Créer et gérer des références (5-10%)
 - Insérer et mettre en forme des éléments graphiques (15 à 20%)
 - Gérer la collaboration entre les documents (5 à 10%)
 roles:
@@ -39,8 +53,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

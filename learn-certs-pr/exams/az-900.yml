@@ -7,13 +7,17 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 28 mai 2020. REMARQUE &#58; les mises à jour qui ont été annoncées avant le 15 avril 2020 seront mises en œuvre le 15 septembre 2020. Les mises à jour actuellement planifiées pour le 28 mai sont des mises à jour mineures de la formulation. Veuillez télécharger les compétences évaluées ci-dessous pour savoir ce qui changera le 28 mai.</div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+  <div><strong> Le contenu de cet examen sera mis à jour le jeudi 28 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.</strong><br/><br/></div>
   </div>
 
-  Cet examen est conçu pour les candidats qui souhaitent démontrer avoir des connaissances de base dans les services du cloud et la manière dont ces services sont fournis avec Microsoft Azure. Cet examen est destiné aux candidats ayant une formation non technique, tels que ceux qui vendent ou achètent des solutions et services de cloud ou qui sont impliqués dans des solutions et services de cloud, ainsi que ceux qui ont une formation technique et qui doivent valider leurs connaissances de base dans les services de cloud. Aucune expérience technique en informatique n’est requise, mais des connaissances ou une expérience générales en informatique seront utiles.
+  Les candidats à cet examen doivent posséder des connaissances fondamentales des services de cloud et de la manière dont ces services sont fournis avec Microsoft Azure.
 
-  Cet examen peut constituer une première étape facultative de l’apprentissage des services du cloud et de la façon dont ces concepts sont illustrés par Microsoft Azure. Il peut être utilisé comme un précurseur aux examens Microsoft Azure ou Microsoft Cloud Services. Bien qu'il soit bénéfique comme première étape, car il valide les connaissances de base, cet examen n’est pas un prérequis pour les autres certifications basées sur Azure.
+  L’examen Azure Fundamentals fournit une opportunité de prouver la connaissance des concepts du cloud, les services de base d’Azure, la tarification d’Azure, SLA, et le cycle de vie ainsi que les bases de la sécurité, la confidentialité, la conformité et la confiance dans le cloud.
+
+  Cet examen est destiné aux personnes qui débutent leur travail avec des solutions et des services basés dans le cloud. Les candidats doivent pouvoir démontrer des connaissances fondamentales des concepts de cloud, ainsi que des services Azure, des charges de travail, de la sécurité, de la confidentialité, de la tarification, et du support. En outre, vous devez être familiarisé avec les concepts de mise en réseau, de stockage, de calcul, de support aux applications, et de développement d’applications.
+
+  Azure Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles ou spécialisées, sans être un prérequis pour elles.
 subTitle: "Cet examen mesure votre capacité à comprendre les concepts suivants: les concepts du cloud, les services de base Azure, la sécurité, la confidentialité, la conformité et la confiance et la tarification et le support d'Azure."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -31,26 +35,24 @@ locales:
 levels:
 - beginner
 skills:
-- 'Le contenu de cet examen sera mis à jour le 28 mai 2020. REMARQUE : les mises à jour qui ont été annoncées avant le 15 avril 2020 seront mises en œuvre le 15 septembre 2020. Les mises à jour actuellement planifiées pour le 28 mai sont des mises à jour mineures de la formulation. Veuillez télécharger les compétences évaluées ci-dessous pour savoir ce qui changera le 28 mai.'
-- Comprendre les concepts de cloud (15-20%)
-- Comprendre les services essentiels d’Azure (30-35%)
-- Comprendre la sécurité, la confidentialité, la conformité et la confiance (25-30%)
-- Comprendre la tarification et le support d’Azure (20-25%)
+- Le contenu de cet examen sera mis à jour le jeudi 28 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.'
+- Décrire la Concepts le cloud (15-20%)
+- Décrire les services essentiels d’Azure (30 à 35%)
+- Décrire la sécurité, la confidentialité, la conformité et la confiance (25 à 30%)
+- Décrire les accords de niveau de service de tarification d’Azure et les cycles de vie (20 à 25%)
 roles:
 - developer
 products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -58,7 +60,7 @@ resources:
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

@@ -5,7 +5,18 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>\r\n  \r\nL’administrateur Azure met en œuvre, gère et surveille l’identité, la gouvernance, le stockage, le calcul et les réseaux virtuels dans un environnement de Cloud. L’administrateur Azure mettra en service, dimensionnera, surveillera et ajustera les ressources comme il convient.\r\n\r\nLes candidats doivent posséder une expérience pratique de six mois au moins dans l’administration d’Azure. Les candidats doivent bien maîtriser les services de base d’Azure, les charges de travail, la sécurité et la gouvernance d’Azure. Les candidats à cet examen doivent posséder une expérience pratique de PowerShell, de l’interface de ligne de commande, du portail Azure et des modèles ARM.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sur la valeur et l’importance des examens bêta</a>.</div>"
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre, la gestion et la surveillance de l’environnement Microsoft Azure d’une organisation.
+
+  Les responsabilités d’un Administrateur Azure englobent la mise en œuvre, la gestion et la surveillance de l’identité, la gouvernance, el stockage, le calcul et les réseaux virtuels dans un environnement de cloud, ainsi que le provisionnement, la taille, le suivi et le réglage des ressources, le cas échéant.
+
+  Un administrateur Azure fait souvent partie d’une équipe plus importante dédiée à la mise en œuvre de l’infrastructure de cloud de l’organisation.
+
+  Le candidat à cet examen doit avoir une expérience pratique de six mois ou plus dans l’administration d’Azure, ainsi que de solides connaissances des services fondamentaux d’Azure, des charges de travail d’Azure, de la sécurité et de la gouvernance. En outre, ce rôle doit maîtriser l’utilisation de PowerShell, Azure CLI, le portail Azure, et les modèles Azure Resource Manager.
+
+  <div style='font-weight&#58; bold;'><br/>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</div>
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer les identités et la gouvernance d’Azure; mettre en œuvre et gérer le stockage; déployer et gérer des ressources informatiques d’Azure; configurer et gérer des réseaux virtuels; et surveiller et sauvegarder les ressources d’Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -25,19 +36,15 @@ roles:
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
@@ -48,11 +55,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

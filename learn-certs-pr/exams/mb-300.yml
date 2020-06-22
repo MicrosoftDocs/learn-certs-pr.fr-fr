@@ -1,48 +1,47 @@
 ### YamlMime:Examination
 title: 'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
-  title: 'Examen MB-300: Microsoft Dynamics 365: Core Finance and Operations'
-  description: 'Examen MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  title: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
 uid: exam.mb-300
 displayName: MB-300
-summary: >-
-  Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
+  Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
   <br/>
 
+  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur site, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
 
-  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur le terrain, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
-
-
-  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Microsoft Dynamics 365 Finance and Operations, y compris la finance, la fabrication et la gestion de la chaîne logistique.
+  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Finance and Operations de Microsoft Dynamics 365, y compris la finance, la fabrication et la gestion de la chaîne logistique.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: utiliser les outils communs de fonctionnalité et de mise en œuvre, configurer la sécurité, les processus et les options, effectuer la migration des données et valider et soutenir la solution.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-300&examname=Examen%20MB-300:%20Microsoft%20Dynamics%20365%20Unified%20Operations%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 levels:
 - intermediate
 skills:
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Utiliser les outils communs de fonctionnalité et de mise en œuvre (20 à 25%)
 - Configurer la sécurité, les processus et les options (45 à 50%)
 - Effectuer la migration des données (15 à 20%)
 - Valider et soutenir la solution (15 à 20%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-310
-- uid: exam.mb-320
-- uid: exam.mb-330
 products:
 - dynamics
 - dynamics-finance-operations
 - dynamics-finance
+exams:
+- uid: exam.mb-310
+- uid: exam.mb-320
+- uid: exam.mb-330
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
+- uid: course.mb-300t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -58,18 +57,22 @@ resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
-- title: Support pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

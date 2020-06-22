@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Excel 2007'
+metadata:
+  title: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+  description: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+uid: exam.77-602
+displayName: 77-602
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen doivent avoir l’équivalent d’une expérience pratique de six mois à un an dans la création de solutions d’affaires avec Microsoft Office Excel 2007 et peuvent avoir de l’expérience dans des versions antérieures d’Office Excel. Ces candidats sont spécialement efficaces et efficients dans la création et la manipulation des données, le formatage de données et de contenu, la création et la modification des formules, la présentation visuelle des données, et la collaboration à la sécurisation des données.
+subTitle: Les candidats à cet examen doivent avoir l’équivalent d’une expérience pratique de six mois à un an dans la création de solutions d’affaires avec Microsoft Office Excel 2007 et peuvent avoir de l’expérience dans des versions antérieures d’Office Excel. Ces candidats sont spécialement efficaces et efficients dans la création et la manipulation des données, le formatage de données et de contenu, la création et la modification des formules, la présentation visuelle des données, et la collaboration à la sécurisation des données.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57x
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-602&examname=MOS:%20Using%20Microsoft%20Office%20Excel%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-602
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- Créer et manipuler des données.
+- Formater des données et du contenu.
+- Créer et modifier des formules.
+- Présenter les données visuellement.
+- Collaborer à la sécurisation des données.
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

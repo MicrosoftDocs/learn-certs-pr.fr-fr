@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Windows 10
 metadata:
   title: 'Exam MD-100: Windows 10'
@@ -6,26 +6,28 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  Si vous avez réussi l’[Exam 70-698] (https://www.microsoft.com/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification "Ordinateur de bureau moderne". Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
 
-  En tant qu'administrateurs, les candidats collaborent typiquement avec l’administrateur Microsoft 365 Entreprise pour concevoir et mettre en œuvre une stratégie de périphériques qui est à la hauteur des attentes d'une organisation moderne.
+  Si vous avez réussi l’[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification « Ordinateur de bureau moderne ». Les candidats à cet examen sont des administrateurs qui déploient, configurent, sécurisent, gèrent et surveillent des périphériques et des applications clients dans un environnement d’entreprise. Les candidats gèrent les identités, l’accès, les politiques, les mises à jour et les applications.
+
+  En tant qu'administrateurs, les candidats collaborent typiquement avec Microsoft 365 Enterprise Administrator pour concevoir et mettre en œuvre une stratégie de périphériques à la hauteur des attentes d'une organisation moderne.
 
   Les candidats doivent être familiers avec les charges de travail Microsoft 365 et doivent maîtriser et avoir de l’expérience dans le déploiement, la configuration et la maintenance des périphériques et technologie Windows 10 et non-Windows.
 subTitle: "Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: déployer Windows, gérer les périphériques et les données, configurer la connectivité et effectuer la maintenance de Windows. Si vous avez réussi l’Exam 70-698 avant son expiration le 31 mars 2019, vous ne devez passer que l'examen MD-101 pour obtenir votre certification 'Ordinateur de bureau moderne'."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
 locales:
 - en
 levels:
 - intermediate
 skills:
-- "REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive."
-- Déployer Windows (15 à 20 %)
-- Gérer les périphériques et les données (35 à 40 %)
-- Configurer la connectivité (15 à 20 %)
-- Maintenir Windows (25 à 30 %)
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Déployer Windows (15 à 20%)
+- Gérer les périphériques et les données (35 à 40%)
+- Configurer la connectivité (15 à 20%)
+- Maintenance de Windows (25 à 30%)
 roles:
 - administrator
 products:
@@ -34,16 +36,15 @@ products:
 exams:
 - uid: exam.md-101
 courses:
-- uid: course.md-100t01
-- uid: course.md-100t02
-- uid: course.md-100t03
-- uid: course.md-100t04
+- uid: course.md-100t00
+paths:
+- uid: learn-m365.microsoft-365-get-modern
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Modern Desktop Administrator Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -51,18 +52,19 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

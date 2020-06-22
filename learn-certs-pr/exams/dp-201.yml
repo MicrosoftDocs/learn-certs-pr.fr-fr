@@ -5,7 +5,14 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div>\r\n<div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>  \r\n<div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 26 mars 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>\r\n</div>\r\n\r\nLes candidats à cet examen sont des ingénieurs de données Microsoft Azure qui collaborent avec les parties prenantes professionnelles pour identifier et répondre aux exigences de données afin de concevoir des solutions de données qui utilisent les services de données Azure.\r\n\r\nLes ingénieurs en données Azure sont responsables des tâches relatives aux données qui comprennent la conception de solutions de stockage de données Azure utilisant les magasins de données relationnelles et non-relationnelles, les solutions de traitement de données en lots et en temps réel, et les solutions de sécurité et de conformité des données.\r\n\r\nLes candidats à cet examen doivent concevoir des solutions de données qui utilisent les services Azure suivants&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, et Azure Blob storage."
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>  
+    
+  Les candidats à cet examen sont des ingénieurs de données Microsoft Azure qui collaborent avec les parties prenantes professionnelles pour identifier et répondre aux exigences de données afin de concevoir des solutions de données qui utilisent les services de données Azure.
+
+  Les ingénieurs en données Azure sont responsables des tâches relatives aux données qui comprennent la conception de solutions de stockage de données Azure utilisant les magasins de données relationnelles et non-relationnelles, les solutions de traitement de données en lots et en temps réel, et les solutions de sécurité et de conformité des données.
+
+  Les candidats à cet examen doivent concevoir des solutions de données qui utilisent les services Azure suivants &#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, et Azure Blob storage.
 subTitle: 'Cet examen évalue votre capacité à réaliser les tâches techniques suivantes: concevoir des solutions de stockage de données Azure, concevoir des solutions de traitement des données et concevoir la sécurité et la conformité des données.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,11 +26,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 26 mars 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Concevoir des solutions de stockage de données Azure (40-45%)
 - Concevoir des solutions de traitement des données (25-30%)
-- Concevoir la sécurité et la conformité des données (25-30%)
+- Concevoir pour la sécurité et la conformité des données (25-30%)
 roles:
 - data-engineer
 products:
@@ -60,11 +66,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

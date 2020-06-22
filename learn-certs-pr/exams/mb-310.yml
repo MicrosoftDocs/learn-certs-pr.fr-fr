@@ -1,31 +1,28 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Finance
 metadata:
-  title: 'Examen MB-310: Microsoft Dynamics 365 Finance'
-  description: 'Examen MB-310: Microsoft Dynamics 365 Finance'
+  title: 'MB-310: Microsoft Dynamics 365 Finance'
+  description: 'MB-310: Microsoft Dynamics 365 Finance'
 uid: exam.mb-310
 displayName: MB-310
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
   Les candidats à cet examen sont des consultants fonctionnels qui analysent des exigences opérationnelles et les traduisent en des processus et solutions opérationnels pleinement réalisés qui mettent en œuvre les meilleures pratiques du secteur. Les candidats servent de ressource clé à la mise en œuvre et à la configuration des applications pour répondre aux exigences opérationnelles.
-
   <br/>
 
-
-  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur le terrain, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
-
+  Les candidats à cet examen ont une compréhension de base des concepts de principes comptables et d'opérations financières des entreprises, du service à la clientèle, du service sur site, de la fabrication, de la vente au détail et de la gestion de la chaîne logistique.
   <br/>
 
-
-  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Microsoft Dynamics 365 Finance, y compris la finance, la fabrication et la gestion de la chaîne logistique.
-
+  Les candidats à cet examen se spécialisent généralement dans un ou plusieurs ensembles de caractéristiques de Microsoft Dynamics 365 pour les finances, y compris la finance, la fabrication et la gestion de la chaîne logistique.
 
   Les candidats doivent avoir des connaissances de base des principes et des pratiques comptables.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: installer et configurer la gestion financière, gérer et appliquer les processus communs, mettre en œuvre et gérer les comptes créditeurs et débiteurs et gérer la budgétisation et les actifs fixes.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-310&examname=Examen%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -35,15 +32,13 @@ skills:
 - Gérer la budgétisation et les actifs immobilisés (15 à 20%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance
+exams:
+- uid: exam.mb-300
 courses:
-- uid: course.mb-310t01
-- uid: course.mb-310t02
-- uid: course.mb-310t03
+- uid: course.mb-310t00
 paths:
 - uid: learn-dynamics.configure-use-general-ledger-dynamics-365-finance-ops
 - uid: learn-dynamics.configure-use-cash-bank-management-tax-d365-finance-ops
@@ -57,23 +52,27 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-financials
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate​.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
-- title: Support pour les examens de certification
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
   description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

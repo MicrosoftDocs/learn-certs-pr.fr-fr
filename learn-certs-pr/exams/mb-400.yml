@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 22 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le vendredi 22 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
   Les candidats à cet examen sont des développeurs qui travaillent avec des applications de modélisation de Microsoft Power Apps dans Dynamics 365 pour concevoir, mettre au point, sécuriser et étendre une mise en œuvre dans Dynamics 365. Les candidats mettent en œuvre les composants d’une solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
@@ -19,20 +19,20 @@ summary: |-
 subTitle: "Cet examen mesure votre capacité à remplir les tâches techniques suivantes: créer un design technique, configurer Common Data Service (CDS), créer et configurer des Power Apps, configurer l’automatisation du processus d'affaires, étendre l’expérience utilisateur, étendre la plateforme et mettre au point des intégrations."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 22 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
-- Créer un design technique(10-15%)
-- Configurer Common Data Service (CDS) (15-20%)
-- Créer et configurer des applications Power Apps (10-15%)
-- Configurer l’automatisation du processus d'affaires (10-15%)
-- Étendre l’expérience utilisateur (15-20%)
-- Étendre la plateforme (15-20%)
-- Mettre au point des intégrations (10-15%)
+- Le contenu de cet examen sera mis à jour le vendredi 22 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Créer un design technique(10-15 %)
+- Configurer Common Data Service (15-20%)
+- Créer et configurer des applications Power Apps (10-15 %)
+- Configurer l’automatisation du processus d'affaires (10-15 %)
+- Étendre l’expérience utilisateur (15-20 %)
+- Étendre la plateforme (15-20 %)
+- Mettre au point des intégrations (10-15 %)
 roles:
 - developer
 products:
@@ -52,7 +52,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Power Apps + Dynamics 365 Developer Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -60,11 +60,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

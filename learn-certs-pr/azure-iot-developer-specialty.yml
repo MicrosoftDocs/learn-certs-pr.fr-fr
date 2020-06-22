@@ -2,18 +2,23 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Prouvez votre maîtrise de la mise en œuvre des services Azure qui composent la solution IoT, y compris l’analyse des données, le traitement des données, les options de stockage des données, et les options de plateforme en tant que service. Les développeurs IoT doivent être capables de reconnaître les paramètres de configuration du service Azure IoT dans la partie de code d’une solution IoT.
+  description: Le développeur Azure IoT développe les composants du cloud et de bord d’une solution Azure IoT.
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Prouvez votre maîtrise de la mise en œuvre des services Azure qui composent la solution IoT, y compris l’analyse des données, le traitement des données, les options de stockage des données, et les options de plateforme en tant que service. Les développeurs IoT doivent être capables de reconnaître les paramètres de configuration du service Azure IoT dans la partie de code d’une solution IoT.
-subTitle: Prouvez votre maîtrise de la mise en œuvre des services Azure qui composent la solution IoT, y compris l’analyse des données, le traitement des données, les options de stockage des données, et les options de plateforme en tant que service. Les développeurs IoT doivent être capables de reconnaître les paramètres de configuration du service Azure IoT dans la partie de code d’une solution IoT.
+  Les candidats au certificat de spécialisation Azure IoT Developer doivent avoir des connaissances spécialisées dans le développement de composants de cloud et de bord d’une solution Azure IoT.
+
+  Les responsabilités de cette fonction englobent la gestion du cycle de vie du périphérique et son installation, la configuration, et la maintenance à l’aide des services de cloud et d’autres outils. Vous travaillez à mettre en œuvre des solutions Azure IoT comprenant la topologie du périphérique, la connectivité, le débogage, et la sécurité, ainsi que des solutions de gestion, de surveillance et de transformation IoT liées aux pipelines de données. Vous déployez également les composants d’Azure IoT Edge et configurez la mise en réseau des périphériques sur le bord.
+
+  Azure Le développeur IoT collabore avec les ingénieurs de données et les autres parties prenantes pour assurer une intégration commerciale réussie.
+
+  Le candidat à cette certification doit avoir de l’expérience dans la mise en œuvre des services Azure qui forment une solution IoT, notamment les options de stockage de données, l’analyse des données, le traitement des données, et les options de plateforme en tant que service. Ce rôle doit également être capable de reconnaître les paramètres de configuration du service Azure IoT dans la portion de code d’une solution IoT et effectuer des tâches de codage spécifiques à IoT dans un ou plusieurs langages pris en charge par Azure, y compris C#, Node, C, ou Python.
+subTitle: Le développeur Azure IoT développe les composants du cloud et de bord d’une solution Azure IoT.
 levels:
 - intermediate
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Mettre en œuvre l’infrastructure des solutions d’IoT.
 - Provisionner et gérer des appareils mobiles.
 - Mettre en œuvre Edge.
@@ -38,17 +43,23 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1
 exams:
 - uid: exam.az-220
 resources:
+- title: Affiche des certifications Azure
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification de spécialisation Azure IoT Developer ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

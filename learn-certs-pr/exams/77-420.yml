@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Excel 2013
+metadata:
+  title: 'Exam 77-420: Excel 2013'
+  description: 'Exam 77-420: Excel 2013'
+uid: exam.77-420
+displayName: 77-420
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à l'examen Microsoft Excel 2013 doivent maîtriser les principes de base de l'environnement Excel et être capables d'accomplir des tâches sans aide externe. Ils doivent également connaître les principales fonctions d'Excel 2013 et être en mesure de les utiliser. Ils doivent être capables de créer et de modifier un classeur comportant plusieurs feuilles de calcul à diverses fins et dans diverses situations. Il peut par exemple s'agir de budgets professionnels, de tableaux des performances de l'équipe, de factures de vente et de journaux d'exercice. Les candidats intéressés par cet examen peuvent être des étudiants, des employés de bureau, des comptables, des formateurs, etc.
+subTitle: Les candidats à l'examen Microsoft Excel 2013 doivent maîtriser les principes de base de l'environnement Excel et être capables d'accomplir des tâches sans aide externe. Ils doivent également connaître les principales fonctions d'Excel 2013 et être en mesure de les utiliser. Ils doivent être capables de créer et de modifier un classeur comportant plusieurs feuilles de calcul à diverses fins et dans diverses situations. Il peut par exemple s'agir de budgets professionnels, de tableaux des performances de l'équipe, de factures de vente et de journaux d'exercice. Les candidats intéressés par cet examen peuvent être des étudiants, des employés de bureau, des comptables, des formateurs, etc.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Créer et gérer des feuilles de calcul et des classeurs
+- Créer des cellules et des plages
+- Créer des tableaux
+- Application de formules et des fonctions
+- Créer des graphiques et des objets
+roles:
+- business-user
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

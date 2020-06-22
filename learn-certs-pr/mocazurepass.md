@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Accès aux Microsoft Learning Azure Passes pour les étudiants des partenaires d’apprentissage autorisés de Microsoft
 
-<div style='color: red;'><font color="red">En réponse au coronavirus (COVID-19), Microsoft <a href="https://azure.microsoft.com/blog/">donne la priorité à la capacité Azure</a> là où elle est le plus nécessaire. Pour soutenir cette politique, nous avons supprimé les abonnements Azure Pass du marché de didacticiels et le portail MCT Azure Pass indéfiniment.</font></div>
+<div style='color: red;'><font color="red">Microsoft WWL a rétabli l’accès des passes Azure. Veuillez noter qu'il s'agit d'une solution ne faisant pas partie de la SLA et que certaines régions peuvent encore rencontrer des restrictions de ressources.<br/><br/>Veuillez noter que c’est une solution indépendante des accords de niveau de service et certaines régions pourraient encore être soumises à des restrictions en matière de ressources. Pensez à utiliser une autre région prise en charge par l'abonnement qui ne connaît pas de demandes importantes ni de restrictions de taille.<br/><br/>Considérez l’utilisation d’une autre région prise en charge par l’inscription qui n’enregistre pas des exigences importantes ou des restrictions en matière de volumes.</font></div>
 
-Dernière mise à jour : **26 mars 2020**
+Dernière mise à jour: **vendredi 22 Mai 2020**
 
 Microsoft offre à vos étudiants l’accès à un Microsoft Azure Pass gratuit de 30 jours lorsqu’ils s’inscrivent à une formation éligible connexe à Azure grâce aux formations officielles Microsoft. Les Passes pour les étudiants ne peuvent être obtenus que par le partenaire d’apprentissage de Microsoft autorisé par le biais du marché des didacticiels. Ils sont directement liés à l’achat d’une formation MOC et sont limités à un Pass par formation MOC commandée. Aucun autre mécanisme d’obtention des Passes pour les étudiants ne sera disponible. Si un partenaire d’apprentissage commande une formation MOC sans sélectionner le Azure Pass disponible avec la formation au moment de l’achat, il pourra revenir au marché des didacticiels et commander le Pass par la suite si nécessaire.
 
@@ -26,7 +26,7 @@ Les MCT peuvent demander un Pass pour les besoins de leur préparation à une fo
 
 Il existe un nombre limité de Passes disponibles à la distribution pour les partenaires d’apprentissage et les MCT. La disponibilité est uniquement garantie tant qu’il y a des stocks et uniquement dans les [pays](https://www.windowsazure.com/pricing/faq/) où Microsoft Azure est pris en charge.
 
-**Éligibilité** : Les formations éligibles pour l'Azure Pass pour étudiants sont énumérées dans la liste ci-dessous. Les versions localisées équivalentes sont également éligibles:
+**Éligibilité**: Les formations éligibles pour l'Azure Pass pour étudiants sont énumérées dans la liste ci-dessous. Les versions localisées équivalentes sont également éligibles:
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
@@ -110,7 +110,7 @@ Il existe un nombre limité de Passes disponibles à la distribution pour les pa
 - MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
-Remarque : Cette liste peut être modifiée et des titres peuvent y être ajoutés ou retirés au fur et à mesure que de nouvelles versions ou formations sont publiées et que d’anciennes versions ou formations sont retirées.
+Remarque: Cette liste peut être modifiée et des titres peuvent y être ajoutés ou retirés au fur et à mesure que de nouvelles versions ou formations sont publiées et que d’anciennes versions ou formations sont retirées.
 
 ## Comment demander un Pass
 
@@ -120,9 +120,9 @@ Remarque : Cette liste peut être modifiée et des titres peuvent y être ajout
 
 ## Informations sur le Microsoft Learning Azure Pass
 
-Ce Pass étudiant disponible pour les partenaires d’apprentissage de Microsoft fonctionne effectivement de la même manière que [l’abonnement d’essai Azure de Microsoft accessible au public](https://azure.microsoft.com/pricing/free-trial/) avec des limites similaires. Ce Pass ne nécessite aucun moyen de paiement, c’est-à-dire qu’aucune information de carte de crédit n’est requise pour l’activer. Vous trouverez ci-dessous un résumé de la fonctionnalité du Microsoft Learning Azure Pass utilisé par nos partenaires d’apprentissage Microsoft et leurs instructeurs :
+Ce Pass étudiant disponible pour les partenaires d’apprentissage de Microsoft fonctionne effectivement de la même manière que [l’abonnement d’essai Microsoft Azure accessible au public](https://azure.microsoft.com/pricing/free-trial/) avec des limites similaires. Ce Pass ne nécessite aucun moyen de paiement, c’est-à-dire qu’aucune information de carte de crédit n’est requise pour l’activer. Vous trouverez ci-dessous un résumé de la fonctionnalité du Microsoft Learning Azure Pass utilisé par nos partenaires d’apprentissage Microsoft et leurs instructeurs:
 
-| Microsoft Learning Azure Pass chez un partenaire d’apprentissage |
+| Learning Partner Microsoft Student Azure Pass |
 | --- |
 | Aucune information de carte de crédit ne sera demandée pour obtenir le Microsoft Learning Azure Pass |
 | Limite en dollars - Il y aura une limite en dollars associée au Pass. Le montant est déterminé par la formation en question. |
@@ -141,6 +141,6 @@ Ce Pass étudiant disponible pour les partenaires d’apprentissage de Microsoft
 | Ne peut être utilisé pour acheter des produits vendus par Marketplace ou Store ou des produits vendus de quelque manière que ce soit séparément d’Azure (par exemple, Microsoft Azure Active Directory Premium). |
 | Possibilité de le convertir en un abonnement normal payant et de conserver tout travail créé dans Azure avec le Microsoft Learning Azure Pass. |
 
-Une liste complète de toutes les fonctionnalités légales disponibles pour l’abonnement d’essai accessible au public peut être visionnée sur le site suivant : [https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
+Une liste complète de toutes les fonctionnalités légales disponibles pour l’abonnement d’essai accessible au public peut être visionnée sur le site suivant: [https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
 
 (Veuillez remarquer que ce lien n’est fourni qu’à titre d’information supplémentaire et n’est pas uniquement lié à cette version du Microsoft Student Azure Pass.)

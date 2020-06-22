@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Outlook 2010
+metadata:
+  title: 'Exam 77-884: Outlook 2010'
+  description: 'Exam 77-884: Outlook 2010'
+uid: exam.77-884
+displayName: 77-884
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats peuvent formater le contenu des messages électroniques à l'aide des outils de formatage des paragraphes et caractères, créer ou insérer des éléments graphiques, tels que des graphiques, des tableaux et graphiques SmartArt, dans les messages. Ils peuvent également envoyer des messages à des destinataires privés à l'aide du champ Cci. Les candidats sont capables de créer des enregistrements de contact, des tâches et des rendez-vous à partir de messages entrants. Ils sont également capables de configurer des groupes de contact pour faciliter la communication avec d'autres utilisateurs d'Outlook. Ils savent également partager des informations de planification avec d'autres utilisateurs d'Outlook. Les candidats savent planifier des réunions impliquant des personnes et des ressources système et ils sont capables de déléguer des tâches à d'autres utilisateurs. Les utilisateurs de base savent personnaliser la fenêtre de programme Outlook et la barre d'outils d'accès rapide pour maximiser leur efficacité. Ils organisent les messages et d'autres éléments Outlook et ils affichent différentes vues des dossiers de messagerie et du calendrier, du carnet d'adresses et de la liste des tâches. Ils savent également afficher plusieurs calendriers et partager des calendriers avec d'autres utilisateurs d'Outlook.
+subTitle: Les candidats peuvent formater le contenu des messages électroniques à l'aide des outils de formatage des paragraphes et caractères, créer ou insérer des éléments graphiques, tels que des graphiques, des tableaux et graphiques SmartArt, dans les messages. Ils peuvent également envoyer des messages à des destinataires privés à l'aide du champ Cci. Les candidats sont capables de créer des enregistrements de contact, des tâches et des rendez-vous à partir de messages entrants. Ils sont également capables de configurer des groupes de contact pour faciliter la communication avec d'autres utilisateurs d'Outlook. Ils savent également partager des informations de planification avec d'autres utilisateurs d'Outlook. Les candidats savent planifier des réunions impliquant des personnes et des ressources système et ils sont capables de déléguer des tâches à d'autres utilisateurs. Les utilisateurs de base savent personnaliser la fenêtre de programme Outlook et la barre d'outils d'accès rapide pour maximiser leur efficacité. Ils organisent les messages et d'autres éléments Outlook et ils affichent différentes vues des dossiers de messagerie et du calendrier, du carnet d'adresses et de la liste des tâches. Ils savent également afficher plusieurs calendriers et partager des calendriers avec d'autres utilisateurs d'Outlook.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWg
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-884&examname=Outlook%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-884
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gérer l’environnement Outlook (15 à 20 %)
+- Créer et formater du contenu d’un élément (25 à 30 %)
+- Gérer des messages électroniques (25 à 30 %)
+- Gérer les identités (15 à 20 %)
+- Gérer les objets du calendrier (15 à 20 %)
+- Travailler avec des tâches, des notes et des entrées de journal (5 à 10 %)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

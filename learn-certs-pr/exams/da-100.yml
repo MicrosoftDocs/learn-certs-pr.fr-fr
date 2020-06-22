@@ -23,15 +23,17 @@ locales:
 levels:
 - intermediate
 skills:
-- Préparer les données (20-25%)
-- Modéliser les données (25-30%)
-- Visualiser les données (20-25%)
-- Analyser les données (10-15%)
-- Déployer et maintenir les produits (10-15%)
+- Préparer les données (20-25 %)
+- Modéliser les données (25-30 %)
+- Visualiser les données (20-25 %)
+- Analyser les données (10-15 %)
+- Déployer et maintenir les produits (10-15 %)
 roles:
 - data-analyst
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate
@@ -42,11 +44,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

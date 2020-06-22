@@ -1,0 +1,97 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform App Maker (beta)'
+metadata:
+  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+uid: exam.pl-100
+displayName: PL-100
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+    
+  Le créateur d’applications développe des solutions pour simplifier, automatiser et transformer des tâches et des processus pour lui-même et son équipe dans leurs domaines d’expertise en solutions. Ils doivent maîtriser les principales tâches de l’analyste opérationnel technique telles que la modélisation des données, la conception UX de base, l’analyse des exigences, l’analyse des processus, etc.<br/><br/>
+
+  Le créateur d’applications crée et soutient les processus opérationnels, structure la collecte numérique des informations, améliore l’efficacité des tâches répétitives, et automatise les processus opérationnels.
+
+  Le créateur d’applications utilise les outils du créateur de Power Platform pour résoudre les problèmes d’entreprise. Il peut posséder de l’expérience dans Visual Basic for Applications, les tableaux croisés dynamiques Excel, Teams, et d’autres outils. Il doit avoir des connaissances de base des modèles de données, de l’interface utilisateur, et des processus. Le créateur d’applications est conscient des capacités et des limites des outils disponibles et comprend comment les appliquer.
+
+  Le créateur d’applications est autonome est axé sur la solution. Il n’a pas nécessairement une formation informatique, mais il utilise facilement la technologie pour résoudre les problèmes d’entreprise, avec une mentalité de croissance personnelle. Il comprend les besoins opérationnels et perçoit le résultat souhaité. Il aborde les problèmes avec des stratégies phasées et itératives.  
+
+  <div style='font-weight&#58; bold;'><br/>Remarque&#58; Cet examen sera disponible aux alentours de juillet 2020.</div>
+subTitle: 'Cet examen sera disponible aux alentours de juillet 2020. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: la conception les des solutions, la création de solutions, l’analyse des données, et la mise en œuvre et la gestion des solutions.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Concevoir des solutions (10 à 15%)
+- Créer des solutions (50 à 55%)
+- Analyser données (5 à 10%)
+- Mettre en œuvre et de gérer des solutions (15 à 20	%)
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- functional-consultant
+- maker
+- technology-manager
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-app-maker
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

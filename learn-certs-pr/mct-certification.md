@@ -1,6 +1,6 @@
 ---
-title: 'Devenir un formateur certifié Microsoft | Microsoft Docs'
-description: 'Devenir un formateur certifié Microsoft' 
+title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
+description: 'Become a Microsoft Certified Trainer' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# Devenir un formateur certifié Microsoft
+# Become a Microsoft Certified Trainer
 
 Les Microsoft Certified Trainers (MCT) sont des experts de premier plan en technique et formation sur les technologies Microsoft. Rejoignez ce groupe exclusif de professionnels, spécialistes de la formation technique Microsoft et bénéficiez de tous les avantages de la formation et de l'adhésion MCT.
 
@@ -19,7 +19,7 @@ En tant que formateur certifié Microsoft, vous devez obtenir une certification 
 
 Le programme de formateur certifié Microsoft est un programme d'adhésion annuelle. Vous devez satisfaire aux exigences du programme, remplir un formulaire de demande en ligne et vous acquitter des frais annuels pour renouveler votre certification de formation pour l’année prochaine.
 
-L’[équipe d’aide MCT](https://aka.ms/mctforum) peut répondre à vos questions concernant le processus de certification MCT et les conditions du programme.
+Contactez [L’assistance MCT](https://aka.ms/mctforum) si vous avez des questions sur les exigences du programme MCT, le processus d’inscription ou de renouvellement MCT, ou pour toute autre question sur le programme MCT.
 
 ## Avantages du programme MCT
 
@@ -42,9 +42,10 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
 (Voir ci-dessous pour obtenir une liste des certifications éligibles).
 - Démontrer des compétences pédagogiques attestées par:
   - Certification des compétences de formation
-    - CompTIA CTT +
+    - CompTIA CTT+
     - Formateur essentiel d’éducation (certification interne Microsoft)
-    - Friesen Kaye et associés
+	- Fourth Dimension Technologies, Inc.
+    - Friesen Kaye and Associates
     - Certification de compétences de formation Global Knowledge
     - Formateur technique approuvé IAMCT (IAMCT ATT)
     - IPM (Institut für Personalberatung und Managemententwicklung)
@@ -81,7 +82,7 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(lundi 31 août 2020)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -99,12 +100,12 @@ Pour en savoir plus sur les conditions liées au programme MCT, consultez le gui
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
-- [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (retrait le dimanche 31 janvier 2021), Microsoft Dynamics 365 for Operations (retrait le dimanche 31 janvier 2021), SQL 2016 BI Development (retrait le dimanche 31 janvier 2021), SQL 2016 Database Administration (retrait le dimanche 31 janvier 2021), SQL 2016 Database Development (retrait le dimanche 31 janvier 2021), SQL Server 2012/2014 (retrait le dimanche 31 janvier 2021), Universal Windows Platform (retrait le dimanche 31 janvier 2021), Web Applications (retrait le dimanche 31 janvier 2021), Windows Server 2012 (retrait le dimanche 31 janvier 2021) ou Windows Server 2016 (retrait le dimanche 31 janvier 2021)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (retrait le dimanche 31 janvier 2021), Data Management and Analytics (retrait le dimanche 31 janvier 2021), Productivity (retrait le dimanche 31 janvier 2021) ou Core Infrastructure (retrait le dimanche 31 janvier 2021)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (retrait le dimanche 31 janvier 2021)
 - Dynamics CRM Dynamics Technical (Retraité le 31 décembre 2019) - [Comprendre les exigences associées à chaque qualification et certification Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) ou [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) ou [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Remarque** Les certifications et qualifications Microsoft donnant accès au programme MCT sont sujettes à modification. La toute nouvelle certification basée sur la fonction sera éligible pour le programme MCT dès sa publication. Les certifications retirées seront éligibles pour le programme MCT jusqu’à six mois après leur date de retrait. [Pour en savoir plus sur les certifications retirées](https://www.microsoft.com/learning/retired-certifications.aspx).
 
@@ -132,20 +133,12 @@ Les candidatures en ligne au programme MCT sont disponibles à partir de l'[outi
 
 Si vous êtes Microsoft Office Specialist et que vous n'avez pas d'identifiant de certification Microsoft (MCID), envoyez un courrier électronique à [customerservices@certiport.com](mailto:customerservices@certiport.com) pour en obtenir un. Ensuite, rendez-vous sur l’[outil d'inscription MCT](https://mcp.microsoft.com/Authenticate/MCT) Avant de compléter le formulaire de candidature en ligne, prenez connaissance des informations détaillées disponibles sur l'inscription MCT dans la section qui suit.
 
-Utilisez l'outil d'inscription MCT pour :
+Utilisez l'outil d'inscription MCT pour:
 
 - **Consulter les exigences du programme MCT et signer le contrat et le guide du programme MCT.** Votre signature électronique atteste que vous acceptez les conditions générales de l'accord MCT.
 - **Mettez à jour les informations de votre profil.** Les informations de contact que vous devez fournir sont utilisées pour les communications MCT.
 - **Précisez votre statut professionnel.** Si vous êtes employé par un partenaire de formation ou une Microsoft Imagine Academy, vous avez besoin du numéro d’identification du partenaire de formation ou du Microsoft Imagine Academy de votre employeur.
 - **Sélectionnez votre mode de paiement.** Les frais de programme à acquitter varient,en fonction de votre pays/région et de votre statut professionnel. Pour avoir accès aux frais d'adhésion MCT et MCT Alumni correspondant à votre pays/région, utilisez l'outil de recherche qui se trouve dans le bas de la page.
-
-**Remarque** Si vous êtes employé par un partenaire de formation qui prend en charge les frais de programme MCT, procédez comme suit :
-
-1. Achetez un bon MCR sur le [marché des didacticiels](https://shop.courseware-marketplace.com/)
-2. Remplissez une candidature sur l’[outil d'inscription MCT](https://mcp.microsoft.com/Authenticate/MCT).
-3. Saisissez le code de votre bon MCT lorsque vous serez invité à effectuer le paiement des frais de votre programme.
-
-Après le dépôt de votre candidature et le paiement, vous recevrez un courrier électronique de bienvenue de MCT. Vous pouvez ensuite évaluer le contenu de MCT sur votre [tableau de bord de certification](https://www.microsoft.com/learning/dashboard.aspx).
 
 ## Le programme alumni MCT
 
@@ -162,7 +155,7 @@ Les frais de programme à acquitter varient en fonction de votre pays/région et
 
 En tant que membre des anciens étudiants de MCT, vous avez un accès exclusif au contenu des anciens étudiants de MCT sur votre [tableau de bord de certification](https://www.microsoft.com/learning/dashboard.aspx). Vous pouvez aussi accéder au [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx), où vous trouverez la liste des actualités et des événements, ainsi qu'une large gamme de ressources spécialement conçues pour le programme Alumni MCT et où vous avez la possibilité d'être en contact avec l'ensemble de la communauté MCT.
 
-Le programme MCT Alumni propose les avantages suivants :
+Le programme MCT Alumni propose les avantages suivants:
 
 - des réductions sur les examens, afin de vous aider à maintenir votre certification à niveau et faciliter une nouvelle inscription au programme MCT,
 - l'accès à des réductions sur les livres électroniques et les livres, qui sont des manuels de référence pour la préparation des examens et le développement professionnel.
@@ -187,7 +180,7 @@ Les membres du programme Élèves MCT sont invités à rejoindre le programme MC
 Pour revenir au programme MCT:
 
 - **Assurez-vous de satisfaire aux exigences du programme MCT** telles que décrites dans la section [Exigences](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) de cette page. Comparez votre relevé de résultats avec les certifications et qualifications Microsoft donnant actuellement accès au programme MCT.
-- **Inscrivez-vous au programme MCT.** Les membres du programme Élèves MCT peuvent au choix : fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
+- **Inscrivez-vous au programme MCT.** Les membres du programme Élèves MCT peuvent au choix: fournir un justificatif de leur certification de compétences pédagogiques utilisée pour leur précédente candidature au programme MCT ou soumettre un référent attestant qu'ils ont au moins une année d'expérience pédagogique. Ce référent peut être un ancien client, un supérieur hiérarchique ou un collègue.
 
 ## Frais d'adhésion au programme MCT et au programme Élèves MCT
 

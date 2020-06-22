@@ -1,6 +1,6 @@
 ---
-title: Examen Microsoft retiré | Microsoft Docs
-description: Examen Microsoft retiré
+title: Microsoft Retired Exam | Microsoft Docs
+description: Microsoft Retired Exam
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -13,11 +13,11 @@ ms.author: micsullivan
 
 Rechercher les examens devant être retirés au cours des 12 prochains mois, répertoriés par technologie. (Les informations ci-dessous sont sujettes à modification.)
 
-| Retrait le dimanche 31 janvier 2021 | |
+| Retrait le 31 janvier 2021 | |
 | --- | --- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
-| [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016.
+| [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016 |  |
 | [70-345](https://www.microsoft.com/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016 |  |
 | [70-357](https://www.microsoft.com/learning/exam-70-357.aspx): Developing Mobile Apps |  |
 | [70-410](https://www.microsoft.com/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012 |  |
@@ -59,13 +59,17 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| Retrait le 30 septembre 2020 | |
+| Retrait le mercredi 30 septembre 2020 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
 
-| Retrait le lundi 31 août 2020 | |
+| Retrait le 31 août 2020 | |
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
@@ -78,7 +82,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 À des fins de référence, les examens qui ont été retirés au cours de la dernière année contiennent un lien vers leur page de détails d'examen pour une période de 12 mois.
 
 | ITPro/Developer| | |
-|--- | --- | --- |
+| --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 mai, 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 mai, 2019
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 30 juin, 2019
@@ -108,7 +112,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 | 70-532 | Developing Microsoft Azure Solutions | 31 décembre 2018
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 décembre 2018
 | 70-534 | Architecting Microsoft Azure Solutions | 31 décembre 2017
-| 70-535 | Architecting Microsoft Azure Solutions | 31 décembre 2018
+| 70-535 | Architecting Microsoft Azure Solutions | lundi 31 décembre 2018
 | 70-680 | Windows 7, Configuring | 31 juillet 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 juillet 2018
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 31 juillet 2018
@@ -132,7 +136,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 <br/>
 
 | Microsoft Dynamics | | |
-|--- | --- | --- |
+| --- | --- | --- |
 | [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 31 décembre 2019
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 31 décembre 2019
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 31 décembre 2019
@@ -158,7 +162,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 ## Autres examens retirés
 
 | ITPro/Developer | | |
-|--- | --- | --- |
+| --- | --- | --- |
 | 70-086 | Implementing and Supporting Microsoft Systems Management Server 2.0 | 2008
 | 70-089 | Designing, Implementing, and Managing Microsoft Systems Management Server 2003 | 31 octobre 2010
 | 70-123 | Planning, Implementing, and Maintaining a Software Asset Management (SAM) Program | 31 octobre 2010
@@ -416,7 +420,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 1 janvier 2014
 | 88-968 | Lync Server 2010 Knowledge Exam | 1 janvier 2014
 | 88-969 | Lync Server 2010 Lab Exam | 1 janvier 2014
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 31 décembre 2013
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | mardi 31 décembre 2013
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 1 janvier 2014
 | 98-362 | Windows Development Fundamentals | 31 juillet 2014
 | 98-363 | Web Development Fundamentals | 31 juillet 2015
@@ -428,7 +432,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 <br/>
 
 | Microsoft Dynamics | | |
-|--- | --- | --- |
+| --- | --- | --- |
 | MB2-421 | CRM 3.0 Installation & Configuration | 12 avril 2011
 | MB2-422 | CRM 3.0 Customization | 12 avril 2011
 | MB2-423 | CRM 3.0 Applications | 12 avril 2011
@@ -465,14 +469,14 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 | MB3-637 | GP 10.0 Manufacturing Applications | 31 décembre 2013
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 31 juillet 2015
 | MB3-701 | Microsoft Dynamics GP 2013 Financials | vendredi 31 juillet 2015
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 31 décembre 2014
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 31 décembre 2014
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 31 décembre 2014
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31 décembre 2014
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | mercredi 31 décembre 2014
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | mercredi 31 décembre 2014
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | mercredi 31 décembre 2014
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | mercredi 31 décembre 2014
 | MB4-348 | SL 6.5 Financials | 31 mars 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31 mars 2011
-| MB4-534 | SL 7.0 Installation & Configuration | 31 décembre 2013
-| MB4-535 | SL 7.0 Financials | 31 décembre 2013
+| MB4-534 | SL 7.0 Installation & Configuration | mardi 31 décembre 2013
+| MB4-535 | SL 7.0 Financials | mardi 31 décembre 2013
 | MB4-536 | SL 7.0 Project Series | 31 décembre 2013
 | MB4-640 | SL 7.0 Customization Manager | 31 décembre 2013
 | MB4-641 | SL 7.0 Tools for VB | 31 décembre 2013
@@ -562,7 +566,7 @@ Rechercher les examens devant être retirés au cours des 12 prochains mois, r�
 | MB7-842 | NAV 2009 Trade & Inventory | 30 juin 2014
 | MB7-843 | NAV 2009 Warehouse Management | 30 juin 2014
 | MB7-846 | NAV 2009 Relationship Management | 30 juin 2014
-| MB7-848 | NAV 2009 Service Management  | 30 juin 2014
+| MB7-848 | NAV 2009 Service Management | 30 juin 2014
 | MB7-849 | NAV 2009 Manufacturing | 30 juin 2014
 | MB7-849 | NAV 2009-Produktion (Danish) | 30 juin 2014
 | MB7-849 | NAV 2009-Produktion (Allemand) | 30 juin 2014

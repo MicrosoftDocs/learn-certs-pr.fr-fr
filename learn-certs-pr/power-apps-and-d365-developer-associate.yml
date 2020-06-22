@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
-  description: Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, du développement, de la sécurisation et de l’extension d’une implémentation Dynamics 365. Les candidats mettent en œuvre des composants de la solution qui incluent des améliorations d’application, l’expérience utilisateur personnalisée, les intégrations de systèmes, les conversions de données, l’automatisation des processus personnalisés et les visualisations personnalisées.
+  description: Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, du développement, de la sécurisation et de l’extension d’une implémentation Dynamics 365. Les candidats mettent en œuvre les composants de la solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
-  Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, du développement, de la sécurisation et de l’extension d’une implémentation Dynamics 365. Les candidats mettent en œuvre des composants de la solution qui incluent des améliorations d’application, l’expérience utilisateur personnalisée, les intégrations de systèmes, les conversions de données, l’automatisation des processus personnalisés et les visualisations personnalisées.
+  Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, du développement, de la sécurisation et de l’extension d’une implémentation Dynamics 365. Les candidats mettent en œuvre les composants de la solution qui incluent des améliorations de l’application, l’expérience client de l’utilisateur, l'intégration des systèmes, la conversion de données, l’automatisation personnalisée du processus et les visualisations personnalisées.
 subTitle: Les développeurs qui travaillent avec Microsoft Power Apps et Dynamics 365 sont responsables de la conception, du développement, de la sécurisation et de l’extension d’une implémentation Dynamics 365.
 levels:
 - intermediate
@@ -20,7 +20,7 @@ skills:
 - Mettre en œuvre l'intégration
 - Effectuer le déploiement et l’essai des solutions
 - Créer un design technique
-- Configurer Common Data Service (CDS)
+- Configurer Common Data Service
 - Créer et configurer des applications Power Apps
 - Configurer l’automatisation du processus d'affaires
 - Étendre l’expérience utilisateur
@@ -56,7 +56,7 @@ exams:
 - uid: exam.mb-400
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Power Apps + Dynamics 365 Developer Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -64,11 +64,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

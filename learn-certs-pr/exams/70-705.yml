@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Designing and Providing Microsoft Licensing Solutions to Large Organizations
+metadata:
+  title: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+  description: 'Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations'
+uid: exam.70-705
+displayName: 70-705
+summary: |-
+  <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><strong>Cet examen sera retiré le 31 janvier 2021 à 23 h 59 heure du Centre. Vous ne pourrez plus passer cet examen après cette date. Pour en savoir plus sur <a href='/learn/certifications/retired-certification-exams'>les prochains retraits d’examens</a>.<br/><br/></strong></div>
+  </div>
+
+  Les candidats à cet examen sont des professionnels qui proposent/vendent des solutions de licence à de grandes organisations. Les organisations de cette catégorie ont le plus souvent 250, voire davantage, appareils ou utilisateurs. Les candidats doivent avoir au moins six mois d’expérience dans la vente des solutions d’octroi de licences Microsoft, ainsi qu'une compréhension des principes de base des solutions d’octroi de licences d’entreprise Microsoft, notamment Enterprise Agreement, Enterprise Subscription Agreement, Cloud Solution Provider (CSP), MPSA, OEM, Open et Open Value.
+
+  Les candidats doivent également comprendre les principes de base de différents types de produits Microsoft tels les systèmes d’exploitation, les applications de serveurs, les applications de bureau, les services en ligne et leurs modèles respectifs de licence. Les candidats doivent être capables de trouver une solution qui répond le mieux à la question du client'
+subTitle: Les candidats à cet examen sont des professionnels qui proposent/vendent des solutions de licence à de grandes organisations. Les organisations de cette catégorie ont le plus souvent 250, voire davantage, appareils ou utilisateurs. Les candidats doivent avoir au moins six mois d’expérience dans la vente des solutions d’octroi de licences Microsoft, ainsi qu'une compréhension des principes de base des solutions d’octroi de licences d’entreprise Microsoft, notamment Enterprise Agreement, Enterprise Subscription Agreement, Cloud Solution Provider (CSP), MPSA, OEM, Open et Open Value.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+- ko
+- ru
+- es
+levels:
+- beginner
+skills:
+- Proposer la solution technologique appropriée (de 60 à 65 %)
+- Recommandation des avantages liés à Software Assurance (de 10 à 15 %)
+- Recommandation de solutions d’octroi de licence (de 20 à 25 %)
+roles:
+- administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

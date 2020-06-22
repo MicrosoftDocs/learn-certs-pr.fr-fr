@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'MOS: PowerPoint 2010'
+metadata:
+  title: 'Exam 77-883: MOS: PowerPoint 2010'
+  description: 'Exam 77-883: MOS: PowerPoint 2010'
+uid: exam.77-883
+displayName: 77-883
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Le candidat typique à cet examen est un étudiant, travailleur de bureau ou instructeur qui a besoin de naviguer dans PowerPoint 2010 au niveau des options et des fonctionnalités.
+
+  L'utilisateur principal de PowerPoint 2010 doit maîtriser les outils de productivité et collaborer fréquemment avec d'autres sur des projets et personnaliser son environnement de travail pour plus d’efficacité. Les candidats doivent savoir créer et produire efficacement des diaporamas.
+subTitle: Le candidat typique à cet examen est un étudiant, travailleur de bureau ou instructeur qui a besoin de naviguer dans PowerPoint 2010 au niveau des options et des fonctionnalités.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gérer l’environnement PowerPoint
+- Créer une présentation de diapositives
+- Travailler avec des éléments graphiques et multimédias
+- Créer des diagrammes et des tableaux
+- Appliquer des transitions et des animations
+- Collaborer sur des présentations
+- Préparer des présentations pour la livraison
+- Délivrer des présentations
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

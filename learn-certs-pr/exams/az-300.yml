@@ -8,11 +8,17 @@ displayName: AZ-300
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/az-303">AZ-303</a>, SERA DISPONIBLE AUX ENVIRONS DU 29 juin 2020. Vous pourrez passer cet examen avant son retrait aux alentours du 30 septembre 2020.<br/><br/>En outre, le contenu de cet examen sera mis à jour le 2 juin 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/az-303">AZ-303</a>, SERA DISPONIBLE AUX ENVIRONS DU lundi 29 juin 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du 30 septembre 2020.<br/><br/>Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des Azure Solution Architects qui conseillent les parties prenantes et traduisent les exigences des entreprises en solutions sécurisées, évolutives et fiables. Les candidats doivent posséder une expérience et des connaissances avancées dans divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des activités, la reprise après sinistre, la gestion des données, la budgétisation et la gouvernance. Ce rôle nécessite de gérer la manière dont les décisions dans chaque domaine affectent une solution globale. Les candidats doivent maîtriser l'administration Azure, le développement Azure et DevOps, ainsi que des compétences de niveau expert dans au moins un de ces domaines.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : déployer et configurer des infrastructures, mettre en œuvre des charges de travail et la sécurité, créer et déployer des applications, mettre en œuvre l’authentification et sécuriser les données et mettre au point pour le cloud et le stockage Azure.'
+  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception et la mise en œuvre de solutions exécutables sur Microsoft Azure, comprenant les aspects de calcul, de réseau, de stockage et de sécurité.
+
+  Les responsabilités d’un architecte de solutions Azure à cet examen englobent la prestation de conseils aux parties prenantes et la traduction des exigences de l’entreprise en solutions dans le cloud sécurisées, évolutives et fiables.
+
+  Un architecte de solution Azure collabore avec des administrateurs de cloud, des DBA de cloud, et des clients afin de mettre en œuvre des solutions.
+
+  Le candidat à cet examen doit posséder une expérience et des connaissances avancées dans les divers aspects des opérations informatiques, notamment la mise en réseau, la virtualisation, l’identité, la sécurité, la continuité des affaires, la récupération après désastre, la gestion des données, la budgétisation, et la gouvernance – ce rôle doit gérer l’impact des décisions prises dans chaque secteur sur la solution globale. En outre, ce rôle doit maîtriser au moins un des domaines de connaissances d’Azure suivants &#58; l’administration, le développement, ou DevOps.
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: déployer et configurer des infrastructures, mettre en œuvre des charges de travail et la sécurité, créer et déployer des applications, mettre en œuvre l’authentification et sécuriser les données et mettre au point pour le cloud et le stockage Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,11 +31,11 @@ locales:
 levels:
 - advanced
 skills:
-- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-303, SERA DISPONIBLE AUX ENVIRONS DU 29 JUIN 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du 30 septembre 2020. En outre, le contenu de cet examen sera mis à jour le 2 juin 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
-- Déployer et configurer l'infrastructure (40-45%)
+- UNE NOUVELLE VERSION DE CET EXAMEN, AZ-303, SERA DISPONIBLE AUX ENVIRONS DU lundi 29 juin 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du mercredi 30 septembre 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Déployer et configurer des infrastructures (40-45%)
 - Mettre en œuvre des charges de travail et la sécurité (25-30%)
 - Créer et déployer des applications (5-10%)
-- Mettre en œuvre une authentification et des données sécurisées (5-10%)
+- Implémenter l'authentification et sécuriser les données (5-10%)
 - Mettre au point pour le cloud et le stockage Azure (15-20%)
 retirementDate: 09/30/2020
 roles:
@@ -78,20 +84,17 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

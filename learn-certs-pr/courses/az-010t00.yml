@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Azure Administration for AWS SysOps
+metadata:
+  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+uid: course.az-010t00
+courseNumber: 'AZ-010T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-103
+- uid: exam.az-104
+summary: |-
+  Cette formation de deux jours est conçue pour les administrateurs AWS Sysops qui s’intéressent à découvrir les différences entre Azure et AWS, et comment Azure est administré. Les principaux sujets de l’atelier sont l’Administration Azure, la mise en réseau Azure, Azure Compute, le stockage Azure, et la gouvernance Azure. Cet atelier combine une conférence avec des exercices pratiques et des discussions/revues. Au cours de l’atelier, les étudiants développeront une architecture de bout en bout pour démontrer les principales fonctionnalités discutées dans la formation.
+
+  #### Profil de l’audience
+  Cette formation s’adresse aux administrateurs associés AWS Sysops ou aux fonctions équivalentes. Cette personne est dotée d’une à deux années d’expérience dans le déploiement, la gestion et les opérations d’AWS. Les étudiants qui suivent cette formation s’intéressent à découvrir les différences entre Azure et AWS, et comment Azure est administré. Les étudiants peuvent également s’intéresser à passer l’examen de certification AZ-103 Microsoft Azure Administrator ou l’examen AZ-900 Azure Fundamentals.
+prerequisitesSection: |-
+  Les SysOps AWS débutent cette formation en ayant de l’expérience dans les systèmes d’exploitation, la virtualisation, l’infrastructure du cloud, les structures du cloud, les solutions d’identité, et la mise en réseau. Les étudiants devraient spécifiquement avoir&#58;
+  - Des connaissances de travail sur la construction des commandes CLI, y compris l’utilisation des pages d’assistance pour déterminer les paramètres appropriés et la structure de la commande.
+  - Une compréhension des concepts de réseaux virtuels, de système de nom de domaine (DNS), de réseaux virtuels privés (VPN), de pare-feu, de passerelles, et des technologies de cryptage.
+  - Une compréhension des machines virtuelles, leur utilisation, et les options de configuration telles que la performance du CPU et les disques.
+  - Une compréhension des concepts de stockage virtuel tels que les comptes de stockage, les blobs, le partage des fichiers, et les types de disques.
+  - Une compréhension des concepts de gouvernance, y compris les contrôles d’accès en fonction du rôle, la gestion des identités, et la protection de l’identité.
+outlineSection: |-
+  ### Module 1&#58; Administration d'Azure.
+  Dans ce module, vous découvrirez les outils et les concepts de principe nécessaires pour l’administration d’Azure. Les sujets traités sont&#58; Le gestionnaire de ressources, les groupes de ressources, le portail Azure, Azure CLI, les modèles Azure, Cloud Shell, la place de marché Azure, et Azure PowerShell.
+
+
+  ### Module 2&#58; Mise en réseau d’Azure
+  Dans ce module, vous découvrirez les fonctionnalités de la mise en réseau d’Azure. Les sujets traités sont&#58; Les régions d’Azure, les réseaux virtuels et les sous-réseaux, l’adressage IP, les groupes de sécurité de réseau, l’appairage des réseaux virtuels, les connexions VNet à VNet, ExpressRoute, les équilibreurs de charge, et Network Watcher.
+
+
+  ### Module 3&#58; Azure Compute
+  Dans ce module, vous découvrirez la configuration et la surveillance des machines virtuelles d’Azure. Les sujets traités sont&#58; Les machines virtuelles Azure, création de machines virtuelles, les tailles des machines virtuelles, les disques des machines virtuelles, les zones de disponibilité, les connexions de machines virtuelles Windows, les connexions de machines virtuelles Linux, Azure Monitor, et les alertes Azure.
+
+
+  ### Module 4&#58; stockage Azure
+  Dans ce module, vous découvrirez les fonctionnalités de stockage et la mise en œuvre d’Azure. Les sujets traités sont&#58; Les comptes de stockage, le stockage Blob, les niveaux de performance des blob, le partage des fichiers, la synchronisation des fichiers, le Data Box, le réseau de livraison de contenu, les signatures d’accès partagé et les points d’extrémité des services.
+
+
+  ### Module 5&#58; Identité d’Azure
+  Dans ce module, vous découvrirez les solutions d’identité d’Azure. Les sujets traités sont&#58; Les domaines Azure, le contrôle d’accès en fonction du rôle, Azure Active Directory, l’authentification multifacteur, la protection de l’identité Azure AD, et la politique d’Azure.
+

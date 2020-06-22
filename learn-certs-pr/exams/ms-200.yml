@@ -1,63 +1,72 @@
 ### YamlMime:Examination
 title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Examen MS-200: Planning and Configuring a Messaging Platform'
-  description: 'Examen MS-200: Planning and Configuring a Messaging Platform'
+  title: 'Exam MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Exam MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: >-
-  Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent des destinataires, des autorisations, la protection du courrier, le flux de courrier et des dossiers publics dans des environnements d'entreprise sur site et dans le cloud.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNE NOUVELLE VERSION DE CET EXAMEN, <a href="/learn/certifications/exams/ms-203">MS-203</a>, SERA DISPONIBLE LE mardi 2 juin 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du lundi 31 août 2020. Remarque&#58; Les examens sont retirés à 23 h 59 CST (heure normale du Centre)<br/><br/></div>
+  </div>
 
+  Les candidats à cet examen sont des administrateurs de messagerie qui déploient, configurent, gèrent, résolvent et surveillent les destinataires, les autorisations, la protection du courrier, le flux de courrier et les dossiers publics dans les environnements d'entreprise sur site et dans le Cloud.
 
-  Les administrateurs de messagerie sont responsables de la gestion de l'hygiène, de l'infrastructure de messagerie, de la configuration hybride, de la migration, de la reprise après sinistre, de la haute disponibilité et de l'accès des clients.
+  Les Messaging Administrators sont responsables de la gestion de l'hygiène, de l'infrastructure de messagerie, de la configuration hybride, de la migration, de la reprise après sinistre, de la haute disponibilité et de l'accès des clients.
 
+  Les Messaging Administrators collaborent avec l'administrateur de sécurité et l'administrateur Microsoft 365 Enterprise pour mettre en œuvre une topologie hybride sécurisée qui répond aux besoins de l'entreprise dans une organisation moderne.
 
-  Les administrateurs de messagerie collaborent avec l'administrateur de sécurité et l'administrateur Microsoft 365 Enterprise pour mettre en œuvre une topologie hybride sécurisée qui répond aux besoins de l'entreprise dans une organisation moderne.
+  Messaging Administrator doit avoir une connaissance pratique des types d'authentification, des licences et de l'intégration aux applications Microsoft 365.
 
-
-  L'administrateur de messagerie doit avoir une connaissance pratique des types d'authentification, des licences et de de l'intégration aux applications Microsoft 365.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : gérer l’infrastructure de la messagerie moderne, gérer la topologie du flux du courrier électronique et gérer les destinataires et les périphériques.'
+  <div style='font-weight&#58; bold;'><br/>Remarque &#58; Si vous réussissez dans cet examen, vous obtiendrez la certification suivante&#58; <a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer l’infrastructure de la messagerie moderne, gérer la topologie du flux du courrier électronique et gérer les destinataires et les périphériques.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MS-200&examname=Examen%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
-- Gérer une infrastructure de messagerie moderne (45 à 50%)
-- Gérer la topologie du flux de courrier électronique (35 à 40%)
-- Gérer les destinataires et les périphériques (15 à 20%)
+- Gérer une infrastructure de messagerie moderne (45 à 50 %)
+- Gérer la topologie du flux de courrier électronique (35 à 40 %)
+- Gérer les destinataires et les périphériques (15 à 20 %)
+retirementDate: 08/31/2020
 roles:
 - administrator
-exams:
-- uid: exam.ms-201
 products:
 - m365
+exams:
+- uid: exam.ms-201
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02
 - uid: course.ms-200t03
 relatedCertifications:
 - related:
-    uid: certification.m365-messaging-administrator
+    uid: none
 resources:
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Retransmission de l'examen
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: Découvrez-en plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

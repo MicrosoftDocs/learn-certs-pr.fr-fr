@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Data Fundamentals'
+  description: Cette certification sera disponible aux alentours du 8 juin 2020. Azure Data Fundamentals valide les connaissances fondamentales des concepts des données de base et leur mise en œuvre à l’aide des services de données de Microsoft Azure.
+uid: certification.azure-data-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong><font color='red'>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</font></strong><br/><br/></div>
+
+  Les candidats à la certification Azure Data Fundamentals doivent posséder des connaissances fondamentales des concepts des données de base et de leur mise en œuvre à l’aide des services de données de Microsoft Azure.  
+
+  Cette certification est destinée aux candidats qui viennent de commencer à travailler avec des données sur le cloud.  
+
+  Les candidats doivent être familiarisés avec les concepts des données relationnelles et non relationnelles, et avec les différents types de charges de travail de données tels que les transactionnelles et les analytiques.  
+
+  La certification Azure Data Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles tels que Azure Database Administrator Associate ou Azure Data Engineer Associate, sans être un prérequis pour elles.  
+
+  <div><br/><strong>Remarque&#58; Cette certification sera disponible aux alentours du 8 juin 2020.</strong></div>
+subTitle: Cette certification sera disponible aux alentours du 8 juin 2020. Azure Data Fundamentals valide les connaissances fondamentales des concepts des données de base et leur mise en œuvre à l’aide des services de données de Microsoft Azure.
+levels:
+- beginner
+skills:
+- Décrire les concepts des données de base.
+- Décrire le travail avec les données relationnelles sur Azure.
+- Décrire le travail avec les données non relationnelles sur Azure.
+- Décrire une charge de travail analytique sur Azure.
+roles:
+- data-engineer
+- database-administrator
+type: fundamentals
+products:
+- azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
+exams:
+- uid: exam.dp-900
+resources:
+- title: Affiche des certifications Azure
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

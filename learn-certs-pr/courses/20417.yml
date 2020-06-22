@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: Upgrading Your Skills to MCSA Windows Server® 2012
+metadata:
+  title: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+  description: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+uid: course.20417
+courseNumber: '20417-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installation et configuration de Windows Server 2012.
+- skill: Gérer Windows Server 2012 à l’aide de Windows PowerShell®.
+- skill: Gérer le stockage dans Windows Server 2012.
+- skill: Mettre en œuvre des services de réseau.
+- skill: Mise en œuvre de l’Accès à Distance.
+- skill: Mettre en œuvre le clustering de basculement.
+- skill: Mettre en œuvre Hyper-V™.
+- skill: Configuration du clustering de basculement avec Hyper-V.
+- skill: Mettre en œuvre l’accès aux données sécurisées pour les utilisateurs et les périphériques.
+- skill: Mettre en œuvre des services AD DS (Active Directory® Domain Services).
+- skill: Mise en œuvre des services AD FS (Active Directory Federation Services).
+- skill: Surveiller et maintenir Windows Server 2012.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-417
+summary: |-
+  Obtenez un enseignement pratique et exercez-vous à configurer et mettre en œuvre de nouvelles caractéristiques et fonctionnalités de Windows Server 2012, notamment Windows Server 2012 R2, dans cette formation officielle Microsoft. Cette formation est conçue pour les professionnels de l’informatique qui souhaitent améliorer leurs compétences techniques existantes en Microsoft Server à Windows Server 2012 et Windows Server 2012 R2. Elle suppose un niveau élevé de connaissances sur les technologies antérieures de Windows server et des compétences équivalentes à une accréditation MCSA&#58; Windows Server 2008. 
+
+  Cette formation traite des nouvelles caractéristiques et fonctionnalités de Windows Server 2012 et Windows Server 2012 R2, notamment la gestion, l’infrastructure réseau, le stockage, le contrôle d’accès, la virtualisation, la haute disponibilité, et la fédération des identités. Les technologies spécifiques couvertes comprennent Windows PowerShell, les espaces de stockage et Internet Small Computer System interface (iSCSI), Active Directory, Hyper-V, la mise en œuvre de solutions d’accès à distance telle que DirectAccess, VPN, et le proxy d’applications Web (WAP). Cette formation couvre également le clustering de basculement, les services de fédération ainsi que les technologies d’accès, de provisionnement et de protection des informations telles que le contrôle d’accès dynamique et l’intégration du proxy d’applications Web avec les services de fédération et Workplace Join. 
+
+  Cette formation ne constitue pas un cours de mise à niveau de produit, qui détaille les considérations relatives à la migration et la mise à niveau de votre environnement spécifique à Windows Server 2012. Cette formation mettre plutôt à jour vos connaissances et compétences existantes en matière de Windows Server à Windows Server 2012, y compris Windows Server 2012 R2. 
+
+  Cette formation est directement liée à et constitue le choix privilégié de la préparation pratique à l’examen Microsoft Certified Solutions Associate (MCSA)&#58; Exam [417&#58; à niveau vos compétences vers MCSA Windows Server 2012](http://www.microsoft.com/learning/exam-70-417.aspx), qui constitue l’examen de mise à niveau des certifications possédant des parcours de mise à niveau admissibles. Les détails des divers parcours de mise à niveau admissibles sont disponibles ici [https://www.microsoft.com/learning/en-au/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx)  
+
+  Remarque&#58; Les laboratoires de cette formation se basent sur Windows Server 2012 R2 et Windows 8.1.
+
+  #### Profil de l’audience
+  Cette formation est destinée aux professionnels de l’informatique qui ont de l’expérience en tant qu’administrateurs de système Windows server et qui sont familiers avec les tâches quotidiennes de gestion et de maintenance de Windows server. Cette formation actualisera leurs compétences à Windows Server 2012 et Windows Server 2012 R2. Les candidats appropriés pour ce cours seraient&#58;
+  - Des administrateurs de Windows Server expérimentés qui ont une expérience de travail réelle dans un environnement d’entreprise ou Windows Server.
+  - les professionnels de l’informatique ayant obtenu la certification [MCSA&#58; Windows Server 2008](http://www.microsoft.com/learning/en-gb/mcsa-windows-server-2008-certification.aspx), ou une autre certification extensible admissible, dont les détails se trouvent [ici](https://www.microsoft.com/learning/windows-server-certification.aspx), ou possédant les connaissances équivalentes.
+  - les professionnels de l’informatique souhaitant passer les examens Microsoft Certified Solutions Expert (MCSE) en centre de données, infrastructure bureau, messagerie, collaboration et communications, seront également intéressés par cette formation pendant leurs préparations à l’accréditation Microsoft Certified Solutions Associate (MCSA) Windows Server 2012 qui constitue un prérequis pour leurs spécialités individuelles.
+prerequisitesSection: |-
+  Avant d'assister à cette formation, les étudiants doivent avoir&#58;
+  - de l’expérience avec les tâches d’administration, de gestion et de maintenance quotidiennes du système Windows Server dans un environnement d’Entreprise.
+  - Ceux qui ont obtenu une certification qi les rend admissibles à passer l’examen de mise à niveau 70-417, tels qu’énumérés ici, [https://www.microsoft.com/learning/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx), ou qui possèdent des compétences équivalentes.
+
+  Remarque&#58; Il est possible de suivre cette formation sans détenir la certification extensible admissible si les critères des connaissances équivalentes sont remplis. Toutefois, le passage et la réussite de l’examen de mise à niveau 70-417 ne fourniront pas au candidat l’accréditation MCSA&#58; Windows Server 2012. La mise à niveau de l’accréditation est exclusivement réservée aux détenteurs d’une certification extensible admissible, dont les détails sont disponibles dans l’URL énumérée ci-dessus.
+outlineSection: |-
+  ### Module 1&#58; Installation et configuration de Windows Server 2012
+  Ce module explique l’installation et la configurer de Windows Server 2012. Il traite spécifiquement des exigences et considérations relatives à l’installation ainsi que l’installation des rôles et les types d’installation tels que Server Core. Il couvre également la mise en œuvre et la configuration de la gestion à distance des serveurs opérant sur Windows Server 2012.
+  #### Leçons
+  - Instalation Windows Server 2012 R2.
+  - Configuration Windows Server 2012 R2 et Windows Server 2012.
+  - Configuration la gestion à distance de Windows Server 2012 R2 et Windows Server 2012.
+
+
+  #### Laboratoire &#58; Installation et configuration de Windows Server 2012 R2
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Installer Windows Server 2012 R2.
+  - Configurer Windows Server 2012 R2 et Windows Server 2012.
+  - Configurer la gestion à distance de Windows Server 2012 R2 et Windows Server 2012.
+
+
+  ### Module 2&#58; Gestion de Windows Server 2012 à l’aide de Windows PowerShell
+  Ce module explique l’utilisation de Windows PowerShell pour gérer Windows Server 2012. Il fournira une présentation de Windows PowerShell et de Windows PowerShell Integrated Scripting Environment (ISE). Il traitera également Windows PowerShell dans le contexte d’AD DS et la gestion générale de serveurs.
+  #### Leçons
+  - Présentation de Windows PowerShell.
+  - Utiliser Windows PowerShell pour gérer AD DS.
+  Gérer des serveurs à l’aide de Windows PowerShell.
+
+
+  #### Laboratoire &#58; Gestion des serveurs opérant sur Windows Server 2012 à l’aide de Windows PowerShell
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire l’interface de ligne de commande Windows PowerShell.
+  - Utiliser Windows PowerShell pour gérer Active Directory Domain Services (AD DS).
+  - Gérer les serveurs à l’aide de Windows PowerShell.
+
+
+  ### Module 3&#58; Gestion du stockage dans Windows Server 2012
+  Ce module explique la configuration du stockage dans Windows Server 2012.
+  #### Leçons
+  - Caractéristiques du stockage dans Windows Server 2012.
+  - Configuration du Stockage iSCSI.
+  - Configuration des espaces de stockage dans Windows Server 2012.
+  - Configuration BranchCache dans Windows Server 2012.
+
+
+  #### Laboratoire &#58; Gestion du stockage sur les serveurs opérant sur Windows Server 2012.
+
+  #### Laboratoire &#58; Mise en œuvre de BranchCache
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire les caractéristiques de stockage dans Windows Server 2012.
+  - Configurer du Stockage iSCSI.
+  - Configurer les espaces de stockage.
+  - Configurer BranchCache.
+
+
+  ### Module 4&#58; Implémentation des services de réseau
+  Ce module explique la configuration des caractéristiques avancées de Domain Name System (DNS) et de Dynamic Host Configuration Protocol (DHCP). Il explique également la configuration de la gestion des adresses IP (IPAM) et la protection de l’accès réseau (Network Access Protection - NAP).
+  #### Leçons
+  - Mettre en œuvre des améliorations de DNS et de DHCP.
+  - Implémentation de l’IPAM.
+  - Gestion des espaces d’adresses IP à l’aide d’IPAM
+  - Présentation d’NAP.
+  - Mise en œuvre de l’NAP.
+
+
+  #### Laboratoire &#58; Implémentation des services de réseau
+
+  #### Laboratoire &#58; Déploiement d’un NAP
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Mettre en œuvre des améliorations de DHCP et de DNS.
+  - Mettre en œuvre IPAM.
+  - Gérer des espaces d’adresses IP à l’aide d’IPAM
+  - Décrire NAP.
+  - Mettre en œuvre NAP.
+
+
+  ### Module 5&#58; Mise en œuvre de l’Accès à Distance
+  Ce module traite des options du provisionnement de l’accès à distance avec Windows Server 2012. Il couvrira spécifiquement DirectAccess et les VPN, ainsi que les considérations de la mise en œuvre et de la gestion de ces technologies d’accès à distance dans votre environnement Windows Server 2012, notamment l’utilisation des certificats.
+  #### Leçons
+  - Présentation de l’accès à distance.
+  - Mise en œuvre de DirectAccess à l’aide de l’Assistant de Démarrage.
+  - Mise en œuvre et Gestion d’une Infrastructure Avancée DirectAccess.
+  - Implémentation d’un VPN
+
+
+  #### Laboratoire &#58; Mise en œuvre de DirectAccess
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Installer et gérer le rôle d’accès à distance dans Windows Server 2012.
+  - de mettre en œuvre DirectAccess à l’aide de l’assistant de démarrage,
+  - de mettre en œuvre et de gérer une infrastructure avancée DirectAccess.
+  - Mettre en œuvre un accès VPN dans Windows Server 2012.
+
+
+  ### Module 6&#58; Mise en œuvre d’un clustering avec basculement
+  Ce module explique comment fournir une haute disponibilité pour les services de réseau et les applications par la mise en œuvre du clustering de basculement. Il fournira une présentation des conditions et des technologies, ainsi que des considérations et options spécifiques pour les services et applications sous discussion.
+  #### Leçons
+  - Présentation du Clustering avec Basculement.
+  - Implémentation un cluster de basculement
+  - Configuration les applications et services hautement disponibles sur un cluster de basculement.
+  - Conservation d’un Cluster avec Basculement.
+  - Implémentation d'un cluster de basculement multisites.
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un Clustering avec Basculement
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire le clustering de basculement.
+  - Mettre en œuvre un cluster de basculement.
+  - Configurer les applications et services à haute disponibilité.
+  - de conserver un clustering avec basculement,
+  - Mettre en œuvre le clustering de basculement multisites.
+
+
+  ### Module 7&#58; Implémentation Hyper-V
+  Ce module explique comment installer et configurer des machines virtuelles Hyper-V. Il traitera de la configuration générale ainsi que des considérations de stockage et de mise en réseau. Il couvrira également les différences introduites dans Windows Server 2012 R2.
+  #### Leçons
+  - Configuration des serveurs Hyper-V.
+  - Configuration le stockage Hyper-V.
+  - Configuration la mise en réseaux Hyper-V.
+  - Configuration des machines virtuelles Hyper-V.
+
+
+  #### Laboratoire &#58; Implémentation de la Virtualisation du Serveur avec Hyper-V
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Configurer des serveurs Hyper-V.
+  - Configurer le stockage Hyper-V..
+  - Configurer la mise en réseaux Hyper-V..
+  - de configurer des machines virtuelles Hyper-V,
+
+
+  ### Module 8&#58; Mise en œuvre d’un Clustering avec Basculement avec Windows Server 2012 R2 Hyper-V
+  Ce module explique comment déployer et gérer des machines virtuelles Hyper-V dans un cluster de basculement. Il fournira une présentation des technologies impliquées ainsi que des détails sur la configuration générale et la migration des machines virtuelles.
+  #### Leçons
+  - Présentation de l’Intégration d’Hyper-V Server 2012 avec un Clustering avec Basculement.
+  - Implémentation du Machines Virtuelles Hyper-V sur des Clusters de Basculement
+  - Mettre en œuvre la mouvement des machines virtuelles Hyper-V vers Windows Server 2012.
+  - Implémentation une réplication Hyper-V.
+
+
+  #### Laboratoire &#58; Mise en œuvre d’un Clustering avec Basculement avec Windows Server 2012 Hyper-V
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire comment Hyper-V intègre le clustering de basculement.
+  - Mise en œuvre des Machines Virtuelles Hyper-V sur des Clusterings avec Basculement..
+  - Mettre en œuvre le mouvement des machines virtuelles Hyper-V.
+  - Mettre en œuvre une réplication Hyper-V.
+
+
+  ### Module 9&#58; Mise en œuvre de l’accès aux données sécurisées pour les utilisateurs et les périphériques
+  Ce module explique la configuration de l’accès aux données sécurisées pour les utilisateurs et les périphériques. Il couvrira principalement la mise en œuvre du contrôle d’accès dynamique (DAC) et des dossiers de travail.
+  #### Leçons
+  - Présentation du contrôle d’accès dynamique.
+  - Mise en œuvre des Composants de DAC.
+  - Mise en œuvre de DAC pour le Contrôle de l’Accès.
+  - Mise en œuvre de l’Assistance en cas d’Accès Refusé.
+  - Mise en œuvre et Gestion des Dossiers de Travail.
+
+
+  #### Laboratoire &#58; Mise en œuvre de l’accès aux fichiers sécurisés.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Décrire DAC,
+  - Mettre en œuvre les composants de DAC.
+  - Mettre en œuvre DAC pour le contrôle d’accès.
+  - Mettre en œuvre l’assistance en cas d’accès refusé.
+  - Mettre en œuvre et gérer les dossiers de travail.
+
+
+  ### Module 10&#58; Mise en œuvre d’AD DS
+  Ce module explique la mise en œuvre d’AD DS dans Windows Server 2012. Il couvre le déploiement et la configuration des contrôleurs de domaine ainsi que l’utilisation et la mise en œuvre des comptes de service, de la stratégie de groupe, et des services offerts par Windows Azure Active Directory. Il traite également de la maintenance générale d’AD DS.
+  #### Leçons
+  - Déploiement des Contrôleurs de domaine d’AD DS.
+  - Configuration des contrôleurs de domaine d’AD DS.
+  - Implémentation des comptes de services.
+  - Implémentation de la politique de groupe dans AD DS.
+  - Présentation de Windows Azure Active Directory.
+  - Maintenance AD DS.
+
+
+  #### Laboratoire &#58; Mise en œuvre d’AD DS
+
+  #### Laboratoire &#58; Dépannage et maintenance d’AD DS.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Déployer des contrôleurs de domaine.
+  - Configuration de contrôleurs de domaine..
+  - Mettre en œuvre des comptes de services.
+  - Mise en œuvre de la Stratégie de Groupe.
+  - Décrire Windows Azure Active Directory.
+  - Maintenir AD DS.
+
+
+  ### Module 11&#58; Mise en œuvre d’AD FS
+  Ce module explique la mise en œuvre d’un déploiement d’AD FS. Il couvre le scénario d’usage d’une organisation unique ainsi que le scénario business-to-business. Ce module traite également du proxy d’applications Web et de Workplace Join.
+  #### Leçons
+  - Présentation d’AD FS.
+  - Déploiement d’AD FS.
+  - Implémentation d’AD FS pour une Organisation Unique.
+  - Déploiement d’AD FS dans un Scénario de Fédération d’Entreprise à Entreprise.
+  - Implémentation d’Proxy d’Application Web
+  - Mettre en œuvre Workplace Join.
+
+
+  #### Laboratoire &#58; Implémentation d’AD FS
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Description d’AD FS.
+  - d'expliquer comment déployer la AD FS.
+  - Expliquez comment implémenter AD FS pour une Organisation Unique..
+  - Expliquer le déploiement d’AD FS dans un scénario de fédération business-to-business.
+  - Expliquer la mise en œuvre d’un proxy d’applications Web.
+  - Expliquer la mise en œuvre de Workplace Join.
+
+
+  ### Module 12&#58; Surveillance et maintenance de Windows Server 2012
+  Ce module explique la surveillance et la maintenance de Windows Server 2012. Il couvrira le moniteur de performance et les ensembles du collecteur de données ainsi que les technologies de sauvegarde et de récupération du serveur.
+  #### Leçons
+  - Surveillance de Windows Server 2012.
+  - Mise en œuvre de la Sauvegarde de Windows Server.
+  - Mise en œuvre du Recouvrement des Serveurs et des Données.
+
+
+  #### Laboratoire &#58; Surveillance et maintenance des serveurs Windows 2012.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
+  - Suivi de Windows Server 2012..
+  - Mettre en œuvre la sauvegarde de Windows Server.
+  - Restaurer les données et les serveurs à l’aide de la sauvegarde de Windows Server.
+

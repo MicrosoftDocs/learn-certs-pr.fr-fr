@@ -1,17 +1,19 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: Les ingénieurs d'Azure AI utilisent les services cognitifs, l'apprentissage machine et l'exploitation des connaissances pour créer et mettre en œuvre des solutions Microsoft Al qui impliquent le traitement automatique du langage naturel, la parole, la vision par ordinateur, les bots et les agents.
+  description: "Les ingénieurs d'Azure AI utilisent les services cognitifs, l'apprentissage machine et l'exploitation des connaissances pour créer et mettre en œuvre des solutions Microsoft Al qui impliquent le traitement automatique du langage naturel, la parole, la vision par ordinateur, les bots et les agents."
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
   Les ingénieurs d'Azure AI utilisent les services cognitifs, l'apprentissage machine et l'exploitation des connaissances pour créer et mettre en œuvre des solutions Microsoft Al qui impliquent le traitement automatique du langage naturel, la parole, la vision par ordinateur, les bots et les agents.
 subTitle: Les ingénieurs d'Azure AI utilisent les services cognitifs, l'apprentissage machine et l'exploitation des connaissances pour créer et mettre en œuvre des solutions Microsoft Al qui impliquent le traitement automatique du langage naturel, la parole, la vision par ordinateur, les bots et les agents.
 levels:
 - intermediate
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Analyser les exigences des solutions
 - Concevoir des solutions en Intelligence Artificielle (AI)
 - Mettre en œuvre et surveiller les solutions en Intelligence Artificielle (AI)
@@ -36,18 +38,25 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Affiche des certifications Azure
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure AI Engineer Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

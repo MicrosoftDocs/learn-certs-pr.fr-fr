@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Access 2010
+metadata:
+  title: 'Exam 77-885: Access 2010'
+  description: 'Exam 77-885: Access 2010'
+uid: exam.77-885
+displayName: 77-885
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Le candidat type à l'examen travaille en tant que professionnel de l'assistance à l'utilisateur, formateur, enseignant, professeur, utilisateur de bases de données ou créateur de bases de données ayant besoin de créer ou de gérer une base de données Access de base. Les utilisateurs peuvent créer, modifier et étendre la fonctionnalité des objets d’une base de données de base, y compris les tableaux, les requêtes, les formulaires et les rapports. Les utilisateurs peuvent également développer et modifier des relations de base entre les entités des bases de données et peuvent instruire à d'autres les fonctionnalités et l’usage de base d’Access. L’utilisateur type d’Access 2010 maîtrise la création, la modification et la personnalisation des objets. Ce candidat est capable de travailler de façon indépendante sur des projets de bases de données et peut souvent répondre aux questions posées par d'autres personnes sur les bases de données. Les candidats doivent savoir créer ou modifier une simple base de données Access et utiliser des modèles pour créer des objets basiques.
+subTitle: Le candidat type à l'examen travaille en tant que professionnel de l'assistance à l'utilisateur, formateur, enseignant, professeur, utilisateur de bases de données ou créateur de bases de données ayant besoin de créer ou de gérer une base de données Access de base. Les utilisateurs peuvent créer, modifier et étendre la fonctionnalité des objets d’une base de données de base, y compris les tableaux, les requêtes, les formulaires et les rapports. Les utilisateurs peuvent également développer et modifier des relations de base entre les entités des bases de données et peuvent instruire à d'autres les fonctionnalités et l’usage de base d’Access. L’utilisateur type d’Access 2010 maîtrise la création, la modification et la personnalisation des objets. Ce candidat est capable de travailler de façon indépendante sur des projets de bases de données et peut souvent répondre aux questions posées par d'autres personnes sur les bases de données. Les candidats doivent savoir créer ou modifier une simple base de données Access et utiliser des modèles pour créer des objets basiques.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- Gérer l’environnement Access
+- Construire des tables
+- Développer des formulaires
+- Créer et gérer des requêtes
+- Concevoir des rapports
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

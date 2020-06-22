@@ -2,16 +2,25 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
+  description: 'Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.'
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Les candidats à cet certification de Azure Security Engineer doivent avoir des connaissances spécialisées dans la mise en œuvre des contrôles de sécurité et de protection contre les menaces, la gestion de l’identité et de l’accès, la protection des données, les applications et les réseaux dans le Cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
+
+  Les responsabilités de cette fonction englobent la maintenance d’une posture de sécurité, l’identification et la remédiation aux vulnérabilités à l’aide d’une variété d’outils de sécurité, la mise en œuvre de la protection contre les menaces, et la réponse aux escalades des incidents de sécurité.
+
+  Les ingénieurs de sécurité d’Azure font souvent partie d’une grande équipe dédiée à la gestion et sécurité basée sur le cloud ou les environnements hybrides faisant partie d’une infrastructure de bout en bout.
+
+  Le candidat à cette certification doit posséder de solides compétences en scripts et en automatisation, une compréhension solide de la mise en réseau, de la virtualisation et de l’architecture de cloud à N niveaux, et une bonne maîtrise des fonctionnalités, des produits et services du cloud pour Azure, ainsi que d’autres produits et services Microsoft.
 subTitle: Les ingénieurs de sécurité d’Azure mettent œuvre des contrôles de sécurité et une protection contre les menaces, ils gèrent l’identité et l’accès, protègent les données, les applications et les réseaux dans le cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
 levels:
 - intermediate
 skills:
 - Gérer l’identité et l’accès
-- Mettre en œuvre une protection de plateforme
+- Mettre en œuvre une protection de la plateforme
 - Gérer les opérations de sécurité
 - Sécuriser les données et les applications
 roles:
@@ -37,18 +46,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-500
 resources:
+- title: Affiche des certifications Azure
+  description: Consultez une présentation des certifications fondamentales, basées sur les rôles et spécialisées d’Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

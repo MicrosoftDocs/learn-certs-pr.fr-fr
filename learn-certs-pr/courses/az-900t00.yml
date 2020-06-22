@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals (2 Day)
+title: Microsoft Azure Fundamentals (2 Day)
 metadata:
-  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
-  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
 uid: course.az-900t00
 courseNumber: 'AZ-900T00-A'
 hoursToComplete: 48
@@ -13,14 +13,21 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   Cette formation sur deux jours fournira des connaissances fondamentales sur les concepts du Cloud ; les services de base d’Azure ; la sécurité, la confidentialité, la conformité et la confiance ; et la tarification et le support d’Azure.
-  Remarque: Cette formation fournit un Azure Pass et du temps pour les étudiants pour participer aux travaux pratiques. Si vous n’avez pas besoin d’expérience pratique, pensez à la formation AZ-900T01: Microsoft Azure Fundamentals (1 jour). Le contenu des deux formations s’aligne sur le domaine de l’objectif de l’examen AZ-900.
+  Remarque&#58; Cette formation fournit un Azure Pass et du temps pour les étudiants pour participer aux travaux pratiques. Si vous n’avez pas besoin d’expérience pratique, pensez à la formation AZ-900T01&#58; Microsoft Azure Fundamentals (1 jour). Le contenu des deux formations s’aligne sur le domaine de l’objectif de l’examen AZ-900.
 
   #### Profil de l’audience
   Cette formation convient au personnel informatique qui débute avec Azure. Ce public souhaite découvrir nos offres et obtenir une expérience pratique avec le produit. Cette formation utilise principalement le portail Azure pour créer des services et ne nécessite pas de compétences de scripts.  Les étudiants qui suivront cette formation prendront de l’assurance pour suivre les autres formations et certifications basées sur les rôles, notamment l’administrateur Azure. Cette formation fournit un Azure Pass et un environnement pratique facultatif. Elle combine un cours, des démonstrations et des travaux pratiques.  Cette formation aidera également à se préparer à l’examen AZ-900.
@@ -35,7 +42,7 @@ outlineSection: |-
   - Types de modèles de Cloud.
   - Types de services dans le cloud
 
-  Après avoir terminé ce module, les étudiants seront capables &#58;
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Définir l’informatique du Cloud et ses principaux avantages.
   - Expliquer les modèles de Cloud public, privé et hybride.
   - Expliquer les services de Cloud IaaS, PaaS et SaaS.
@@ -50,28 +57,28 @@ outlineSection: |-
   - Outils de gestion Azure
 
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une machine virtuelle.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une machine virtuelle.
 
-  #### Travaux pratiques&#58; Exercice guidé &#58; Déployer des instances de conteneur Azure.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Déployer des instances de conteneur Azure.
 
-  #### Travaux pratiques&#58; Exercice guidé &#58; Créer un réseau virtuel.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer un réseau virtuel.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer un stockage blob.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer un stockage blob.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une base de données SQL.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une base de données SQL.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Mettre en œuvre un Hub Azure IoT.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Mettre en œuvre un Hub Azure IoT.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Mettre en œuvre des Azure Functions
+  #### Travaux pratiques &#58; Exercice guidé&#58; Mettre en œuvre des Azure Functions
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une application Web.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une application Web.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une mémoire virtuelle avec un modèle.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une mémoire virtuelle avec un modèle.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une mémoire virtuelle avec PowerShell.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une mémoire virtuelle avec PowerShell.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une mémoire virtuelle avec CLI.
-  Après avoir terminé ce module, les étudiants seront capables &#58;
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une mémoire virtuelle avec CLI.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Identifier les composants de l’architecture de base d’Azure, notamment les régions, les géographies, et les groupes de ressources.
   - Identifier les cas d’utilisation des services et produits essentiels d’Azure, notamment les machines virtuelles et le stockage.
   - Identifier les cas d’utilisation des solutions Azure, notamment l’Internet des objets (IoT) et l’apprentissage automatique.
@@ -86,23 +93,23 @@ outlineSection: |-
   - Outils et fonctionnalités de sécurité
   - Méthodologies de gouvernance Azure
   - Surveiller et générer des rapports.
-  - Normes de la confidentialité, la conformité et la protection des données.
+  Normes de la confidentialité, la conformité et la protection des données.
 
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Sécuriser le trafic réseau.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Sécuriser le trafic réseau.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Mettre en œuvre Azure Key Vault.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Mettre en œuvre Azure Key Vault.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Créer une politique Azure.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Créer une politique Azure.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Gérer l’accès avec RBAC.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Gérer l’accès avec RBAC.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Gérer les verrous de ressources.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Gérer les verrous de ressources.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Mettre en œuvre le marquage des ressources.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Mettre en œuvre le marquage des ressources.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Explorer le centre de confiance.
-  Après avoir terminé ce module, les étudiants seront capables &#58;
+  #### Travaux pratiques &#58; Exercice guidé&#58; Explorer le centre de confiance.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Décrire les options de connectivité de la sécurité du réseau virtuel, notamment les groupes de sécurité du réseau.
   - Décrire les options d’authentification de l’identité et d’autorisation Azure.
   - Décrire les cas d’utilisation pour les options du centre de sécurité, de la clé de voûte, et de la protection contre les menaces et des informations.
@@ -121,18 +128,19 @@ outlineSection: |-
   - Cycle de vie des services dans Azure
 
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Utiliser la calculatrice de tarification Azure.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Utiliser la calculatrice de tarification Azure.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Utiliser la calculatrice du coût total de la propriété (TCO) Azure.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Utiliser la calculatrice du coût total de la propriété (TCO) Azure.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Ouvrez une demande de soutien.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Ouvrez une demande de soutien.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Calculer les accords de service composites.
+  #### Travaux pratiques &#58; Exercice guidé&#58; Calculer les accords de service composites.
 
-  #### Travaux pratiques &#58; Exercice guidé &#58; Accéder aux fonctionnalités de prévisualisation Azure.
-  Après avoir terminé ce module, les étudiants seront capables &#58;
+  #### Travaux pratiques &#58; Exercice guidé&#58; Accéder aux fonctionnalités de prévisualisation Azure.
+  Après avoir terminé ce module, les étudiants seront capables de&#58;
   - Utiliser un abonnement Azure.
   - Planifier et gérer les tarifications.
   - Expliquer les options de soutien Azure.
   - Décrire les accords de service Azure.
   - Expliquer les cycles de vie des services Azure.
+

@@ -13,12 +13,12 @@ summary: |-
 
   À partir du 1er mai 2019, la réussite du seul Exam AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100.
 
-  Les candidats à cet examen sont des Azure Administrators qui gèrent les services de cloud couvrant le stockage, la sécurité, le réseau et les capacités de l'informatique du cloud. Les candidats ont une connaissance approfondie de chaque service tout au long du cycle de vie informatique et prennent en charge les demandes de services d'infrastructure, d'applications et d'environnements. Ils formulent des recommandations sur les services à utiliser pour optimiser les performances et l'évolutivité et fournissent, dimensionnent, surveillent et ajustent les ressources, le cas échéant.
+  Les candidats à cet examen sont des administrateurs Azure qui gèrent les services de cloud couvrant le stockage, la sécurité, le réseau et les capacités de l'informatique du cloud. Les candidats ont une connaissance approfondie de chaque service tout au long du cycle de vie informatique et prennent en charge les demandes de services d'infrastructure, d'applications et d'environnements. Ils formulent des recommandations sur les services à utiliser pour optimiser les performances et l'évolutivité et fournissent, dimensionnent, surveillent et ajustent les ressources, le cas échéant.
 
-  Les candidats à cet examen doivent maîtriser PowerShell, Command Line Interface, Azure Portal, les modèles ARM, les systèmes d'exploitation, la virtualisation, l'infrastructure du cloud, les structures de stockage et les réseaux.
+  Les candidats à cet examen doivent maîtriser PowerShell, l'interface de la ligne de commande, le portail Azure, les modèles ARM, les systèmes d'exploitation, la virtualisation, l'infrastructure du cloud, les structures de stockage et les réseaux.
 
   <div style='font-weight&#58; bold;'><br/>REMARQUE&#58; Si vous réussissez dans cet examen, vous obtiendrez la certification suivante&#58; <a href="/learn/certifications/azure-administrator">Microsoft Certified&#58; Azure Administrator Associate</a>.</div>
-subTitle: 'À partir du 1er mai 2019, la réussite du seul Exam AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : gérer des abonnements et des ressources Azure, mettre en œuvre et gérer le stockage, déployer et gérer des machines virtuelles (VM), configurer et gérer les réseaux virtuels et gérer les identités.'
+subTitle: 'À partir du 1er mai 2019, la réussite du seul Exam AZ-103 sera suffisante pour obtenir cette certification. Ce nouvel examen combine les compétences couvertes par les examens AZ-100 et AZ-101 (qui ont été retirés le 1er mai 2019) avec la majeure partie du nouvel examen provenant de l’examen AZ-100. Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer des abonnements et des ressources Azure, mettre en œuvre et gérer le stockage, déployer et gérer des machines virtuelles (VM), configurer et gérer les réseaux virtuels et gérer les identités.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -32,10 +32,10 @@ levels:
 - intermediate
 skills:
 - UNE NOUVELLE VERSION DE CET EXAMEN, AZ-104, SERA DISPONIBLE LE 2 AVRIL 2020. Vous pourrez participer à cet examen jusqu’à son retrait ou aux environs du lundi 31 août 2020. Veuillez télécharger le document des compétences mesurées ci-dessous pour consulter les informations détaillées relatives aux modifications.
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
-- Gérer les abonnements et les ressources Azure (15-20%)
-- Mettre en œuvre et gérer le stockage (15-20%)
-- Déployer et gérer les machines virtuelles (VM) (15-20%)
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Gérer les abonnements et les ressources Azure (15-20 %)
+- Mettre en œuvre et gérer le stockage (15-20 %)
+- Déployer et gérer les machines virtuelles (VM) (15-20 %)
 - Configurer et gérer les réseaux virtuels (30-35%)
 - Gérer les identités (15-20 %)
 retirementDate: 08/31/2020
@@ -49,6 +49,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
@@ -72,11 +73,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

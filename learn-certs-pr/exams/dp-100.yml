@@ -8,10 +8,10 @@ displayName: DP-100
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 22 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le vendredi 22 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
-  Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure ; et surtout à l’aide du service d’apprentissage automatique Azure. Cela implique la planification et la création d’un environnement de travail propice aux charges de travail de la science des données sur Azure, l’exécution d’expériences de données et la formation de modèles prédictifs, la gestion et l’optimisation des modèles, et le déploiement des modèles d’apprentissage automatiques dans la production.
+  Le scientifique des données Azure applique ses connaissances des sciences des données et de l’apprentissage automatique pour mettre en œuvre et exécuter des charges de travail d’apprentissage automatique sur Azure; et surtout à l’aide du service d’apprentissage automatique Azure. Cela implique la planification et la création d’un environnement de travail propice aux charges de travail de la science des données sur Azure, l’exécution d’expériences de données et la formation de modèles prédictifs, la gestion et l’optimisation des modèles, et le déploiement des modèles d’apprentissage automatiques dans la production.
 subTitle: 'Cet examen mesure votre capacité à accomplir les tâches techniques suivantes: mettre en place un espace de travail Azure Machine Learning; exécuter des expériences et former les modèles; optimiser et gérer les modèles; et déployer et consommer les modèles.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
@@ -24,11 +24,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 22 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
-- Mettre en place un espace de travail Azure Machine Learning (30-35%)
-- Exécuter des expériences et former les modèles (25-30%)
-- Optimiser et gérer les modèles (20-25%)
-- Déployer et consommer les modèles (20-25%)
+- Le contenu de cet examen sera mis à jour le vendredi 22 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Mettre en place un espace de travail Azure Machine Learning (30-35 %)
+- Exécuter des expériences et former les modèles (25-30 %)
+- Optimiser et gérer les modèles (20-25 %)
+- Déployer et consommer les modèles (20-25 %)
 roles:
 - data-scientist
 products:
@@ -48,11 +48,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

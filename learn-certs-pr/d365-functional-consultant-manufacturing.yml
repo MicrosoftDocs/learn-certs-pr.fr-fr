@@ -2,14 +2,18 @@
 title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.
+  description: 'Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.'
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.
-subTitle: Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.
+subTitle: 'Les Dynamics 365 Supply Chain Management, Manufacturing Functional Consultants sont responsables d’intégrer les systèmes physiques et numériques, d’améliorer la visibilité, l’efficacité et la flexibilité de la production et de réduire les coûts pour leurs clients.'
 levels:
 - intermediate
 skills:
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Utiliser les outils communs de fonctionnalité et de mise en œuvre
 - Configurer la sécurité, les processus et les options
 - Effectuer la migration des données
@@ -24,12 +28,8 @@ products:
 - dynamics
 - dynamics-finance-operations
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-320t01
-- uid: course.mb-320t02
-- uid: course.mb-320t03
+- uid: course.mb-300t00
+- uid: course.mb-320t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -46,20 +46,21 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

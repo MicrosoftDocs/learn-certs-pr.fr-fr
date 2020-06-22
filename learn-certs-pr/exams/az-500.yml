@@ -8,17 +8,23 @@ displayName: AZ-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 20 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mercredi 29 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.<br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des ingénieurs en sécurité de Microsoft Azure qui mettent en œuvre les contrôles de sécurité, maintiennent la posture de sécurité, gèrent les identités et les accès et protègent les données, les applications et les réseaux. Les candidats identifient et corrigent les vulnérabilités à l'aide de divers outils de sécurité, mettent en œuvre une protection contre les menaces et répondent aux incidents de sécurité. En tant qu’ingénieurs en sécurité de Microsoft Azure, les candidats font souvent partie d’une grande équipe dédiée à la gestion et la sécurité basées sur le cloud et peuvent également sécuriser des environnements hybrides dans le cadre d’une infrastructure de bout en bout.
+  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la mise en œuvre des contrôles de sécurité et de protection contre les menaces, la gestion de l’identité et de l’accès, la protection des données, les applications et les réseaux dans le Cloud ainsi que les environnements hybrides qui font partir de l’infrastructure de bout en bout.
 
-  Les candidats à cet examen doivent posséder de solides compétences en scripts et en automatisation, une compréhension approfondie du réseau, de la virtualisation et de l'architecture du cloud en couches, ainsi qu'une connaissance approfondie des fonctionnalités du cloud, des produits et services de Microsoft Azure et d'autres produits et services Microsoft.
+  Les responsabilités d’un ingénieur de sécurité Azure englobent la maintenance d’une posture de sécurité, l’identification et la remédiation aux vulnérabilités à l’aide d’une variété d’outils de sécurité, la mise en œuvre de la protection contre les menaces, et la réponse aux escalades des incidents de sécurité.
+
+  Les ingénieurs de sécurité d’Azure font souvent partie d’une grande équipe dédiée à la gestion et sécurité basée sur le cloud ou les environnements hybrides faisant partie d’une infrastructure de bout en bout.
+
+  Les candidats à cet examen doivent posséder de solides compétences en scripts et en automatisation; une compréhension solide de la mise en réseau, de la virtualisation et de l’architecture de cloud à N niveaux, ainsi qu’une bonne maîtrise des fonctionnalités, des produits et services du cloud pour Azure, ainsi que d’autres produits et services Microsoft.
 subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: gérer l’identité et l’accès, mettre en œuvre une protection de plateforme, gérer les opérations de sécurité et sécuriser les données et les applications.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
@@ -27,11 +33,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 20 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
-- Gérer l’identité et l’accès (20-25%)
-- Mettre en œuvre une protection de la plateforme (35-40%)
-- Gérer les opérations de sécurité (15-20%)
-- Sécuriser les données et les applications (30-35%)
+- Le contenu de cet examen sera mis à jour le mercredi 29 juillet 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Gérer l’identité et l’accès (20-25 %)
+- Mettre en œuvre une protection de la plateforme (35-40 %)
+- Gérer les opérations de sécurité (15-20 %)
+- Sécuriser les données et les applications (30-35 %)
 roles:
 - security-engineer
 products:
@@ -60,11 +66,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

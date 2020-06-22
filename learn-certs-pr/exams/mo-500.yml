@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft Access Expert (Access and Access 2019)
+metadata:
+  title: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+  description: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+uid: exam.mo-500
+displayName: MO-500
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Cet examen couvre les compétences de création et de maintenance des objets de la base de données d’Access, notamment les tables, les relations, les formulaires de saisie de données, les rapports à niveaux multiples, et les requêtes multitables. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités d’Access et de compléter les tâches de façon indépendante.
+subTitle: Cet examen évalue les compétences en matière de principes de conception de bases de données. L’examen couvre les compétences de création et de maintenance des objets de la base de données d’Access, notamment les tables, les relations, les formulaires de saisie de données, les rapports à niveaux multiples, et les requêtes multitables.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n2bY
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- advanced
+skills:
+- Gérer des bases de données (15 à 20%)
+- Créer et modifier des tables (25 à 30%)
+- Créer et modifier des requêtes (25 à 30%)
+- Modifier des formulaires dans la vue de modèle (10 à 15%)
+- Modifier des rapports dans la vue de modèle (10 à 15%)
+roles:
+- business-user
+products:
+- office
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.mos-access-expert-2019
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

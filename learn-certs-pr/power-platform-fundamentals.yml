@@ -1,21 +1,24 @@
-﻿### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Prouvez votre compréhension des compétences de base de Power Platform, de sa valeur commerciale et des capacités des produits de référence à la construction d'une application canevas Power Apps de base, à la connexion des sources de données, à l’automatisation avec Microsoft Automate et à la création d'un tableau de bord dans Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Démontrez votre compréhension des capacités essentielles de Power Platform, de la valeur commercial aux capacités essentielles du produit au développement d’un canevas d’applications simples sur Power Apps, la connexion des sources de données, l’automatisation des processus opérationnels de base avec Power Automate, la création d’un tableau de bord Power BI, et la création de bots conversationnels puissants avec les Power Virtual Agents.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Prouvez votre compréhension des compétences de base de Power Platform, de sa valeur commerciale et des capacités des produits de référence à la construction d'une application canevas Power Apps de base, à la connexion des sources de données, à l’automatisation avec Microsoft Automate et à la création d'un tableau de bord dans Power BI.
-subTitle: Prouvez votre compréhension des compétences de base de Power Platform, de sa valeur commerciale et des capacités des produits de référence à la construction d'une application canevas Power Apps de base, à la connexion des sources de données, à l’automatisation avec Microsoft Automate et à la création d'un tableau de bord dans Power BI.
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Démontrez votre compréhension des capacités essentielles de Power Platform, de la valeur commercial aux capacités essentielles du produit au développement d’un canevas d’applications simples sur Power Apps, la connexion des sources de données, l’automatisation des processus opérationnels de base avec Power Automate, la création d’un tableau de bord Power BI, et la création de bots conversationnels puissants avec les Power Virtual Agents.
+subTitle: Démontrez votre compréhension des capacités essentielles de Power Platform, de la valeur commercial aux capacités essentielles du produit au développement d’un canevas d’applications simples sur Power Apps, la connexion des sources de données, l’automatisation des processus opérationnels de base avec Power Automate, la création d’un tableau de bord Power BI, et la création de bots conversationnels puissants avec les Power Virtual Agents.
 levels:
 - beginner
 skills:
-- Comprendre la valeur commerciale de Power Platform
-- Comprendre les éléments essentiels de Power Platform
-- Prouver la valeur commerciale de Power BI
-- Prouver la valeur commerciale de Power Apps
-- Prouver la valeur commerciale de Power Automate
+- Décrire la valeur commerciale de Power Platform.
+- Identifier les composants de base de Power Platform.
+- Décrire la valeur commerciale de Power BI.
+- Décrire la valeur commerciale de Power Apps.
+- Décrire la valeur commerciale de Power Automate.
+- Démontrer la valeur commerciale des Power Virtual Agents.
 roles:
 - business-user
 - functional-consultant
@@ -31,7 +34,7 @@ exams:
 - uid: exam.pl-900
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Power Platform Fundamentals. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -39,12 +42,13 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

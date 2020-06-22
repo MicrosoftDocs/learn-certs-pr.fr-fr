@@ -2,19 +2,25 @@
 title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
 metadata:
   title: 'Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)'
-  description: Démontrez que vous disposez des compétences nécessaires pour tirer pleinement profit de Microsoft Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique.
+  description: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti de PowerPoint en obtenant la certification Microsoft Office Specialist: PowerPoint Associate.'
 uid: certification.mos-powerpoint-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Démontrez que vous disposez des compétences nécessaires pour tirer pleinement profit de Microsoft Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique.
-subTitle: Démontrez que vous disposez des compétences nécessaires pour tirer pleinement profit de Microsoft Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti de PowerPoint en obtenant la certification Microsoft Office Specialist&#58; PowerPoint Associate. Cette certification démontre les compétences dans la création, la modification et l’amélioration des présentations et des diaporamas.
+
+  Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principal fonctionnalités de Excel et peut compléter les tâches de manière indépendante.
+subTitle: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti de PowerPoint en obtenant la certification Microsoft Office Specialist: PowerPoint Associate.'
 levels:
 - intermediate
 skills:
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
 - Gérer des présentations
 - Gérer des diapositives
 - Insérer et mettre en forme du texte, des formes et des images
-- Créer et gérer des références
-- Insérer et mettre en forme des éléments graphiques
+- Insérer des tableaux, des diagrammes, smartArt, des modèles en 3D et des médias
+- Appliquer des transitions et des animations
 roles:
 - business-user
 type: mos
@@ -31,9 +37,10 @@ resources:
 - title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum va répondre dans un jour ouvrable, du lundi au vendredi.
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

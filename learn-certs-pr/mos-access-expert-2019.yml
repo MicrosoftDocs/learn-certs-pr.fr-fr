@@ -1,0 +1,45 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+  description: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti d’Access en obtenant la certification Microsoft Office Specialist: Access Expert.'
+uid: certification.mos-access-expert-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></><br/><br/ font></div>
+
+  Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti d’Access en obtenant la certification Microsoft Office Specialist&#58; Access Expert. Cette certification démontre les compétences en matière de principes de conception de bases de données.
+
+  Une personne qui obtient cette certification doit avoir suivi environ 150 heures d’instruction et doit avoir une expérience pratique avec le produit, a une compétence avérée en tant que spécialiste dans le domaine et doit être prête à entrer sur le marché du travail. Elle peut démontrer une application correcte des principal fonctionnalités de accès et peut compléter les tâches de manière indépendante.
+subTitle: 'Démontrez que vous disposez des compétences nécessaires pour tirer le meilleur parti d’Access en obtenant la certification Microsoft Office Specialist: Access Expert.'
+levels:
+- advanced
+skills:
+- Gérer des bases de données.
+- Créer et modifier des tables.
+- Créer et modifier des requêtes.
+- Modifier des formulaires dans la vue de modèle.
+- Modifier des rapports dans la vue de modèle.
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-access
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeB
+exams:
+- uid: exam.mo-500
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: deals.md
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

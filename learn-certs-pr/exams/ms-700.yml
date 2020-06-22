@@ -7,16 +7,16 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 28 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le jeudi 28 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des Microsoft Teams Administrators pour leur organisation. L’administrateur des équipes Microsoft configure, déploie et gère les charges de travail Office 365 pour les équipes Microsoft qui mettent l’accent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise.
+  Les candidats à cet examen sont des Microsoft Teams Administrators pour leur organisation. L’administrateur des Microsoft Teams configure, déploie et gère les charges de travail Office 365 pour les Microsoft Teams qui mettent l’accent sur une collaboration et une communication efficaces et efficientes dans un environnement d’entreprise.
 
-  L’administrateur des équipes doit être en mesure de planifier, de déployer et de gérer les équipes de chat, d’applications, de canaux, de réunions, de conférences audio, d’événements en direct et d’appels. L’administrateur des équipes est également responsable de la mise à niveau de Skype pour Business à Teams.
+  L’administrateur des équipes doit être en mesure de planifier, de déployer et de gérer les équipes de chat, d’applications, de canaux, de réunions, de conférences audio, d’événements en direct et d’appels. L'administrateur de Teams est également responsable de mettre à niveau Skype for Business pour les équipes.
 
-  L’administrateur d’équipes collabore avec les ingénieurs en téléphonie pour intégrer desfonctions vocales aux Microsoft teams. Ce rôle n’est pas responsable de la configuration du routage direct, de la configuration du routage des appels ou de l’intégration de la téléphonie. L’administrateur d’équipes peut travailler avec d’autres rôles d’administrateur de charge de travail, y compris la sécurité et la conformité, la messagerie, le réseautage, l’identité et les appareils.
+  L’administrateur d’équipes collabore avec les ingénieurs en téléphonie pour intégrer desfonctions vocales aux Microsoft Teams. Ce rôle n’est pas responsable de la configuration du routage direct, de la configuration du routage des appels ou de l’intégration de la téléphonie. L’administrateur d’équipes peut travailler avec d’autres rôles d’administrateur de charge de travail, y compris la sécurité et la conformité, la messagerie, le réseautage, l’identité et les appareils.
 
-  Les candidats à cet examen doivent être compétents dans la gestion des paramètres des équipes en utilisant PowerShell. L’Administrateur des Équipes a une compréhension fondamentale des points d’intégration avec les applications et les services, y compris, mais sans s’y limiter, les groupes SharePoint, OneDrive for Business, Exchange, Azure AD et Office 365. L’administrateur des équipes comprend comment intégrer des applications et des services externes.
+  Les candidats à cet examen doivent être compétents dans la gestion des paramètres des équipes en utilisant PowerShell. L'administrateur de Teams possède une compréhension de base des points d’intégration dans des applications et services, y compris, mais sans s'y limiter dans SharePoint, OneDrive for Business, Exchange, Azure AD et les groupes Office 365. L'administrateur de Teams sait comment intégrer des applications et des services externes.
 subTitle: "Cet examen évalue votre capacité à remplir les tâches techniques suivantes: planifier et configurer un environnement Microsoft Teams, gérer des conversations, des appels et des réunions et gérer des règlements Teams et d'applications."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
@@ -27,10 +27,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 28 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
-- Planifier et configurer un environnement Microsoft Teams (45-50%)
-- Gérer des conversations, des appels et des réunions (30-35%)
-- Gérer des règlements de Teams et d'applications (20-25%)
+- Le contenu de cet examen sera mis à jour le jeudi 28 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Planifier et configurer un environnement Microsoft Teams (45-50 %)
+- Gérer des conversations, des appels et des réunions (30-35 %)
+- Gérer des règlements de Teams et d'applications (20-25 %)
 roles:
 - administrator
 products:
@@ -46,7 +46,7 @@ relatedCertifications:
     uid: certification.m365-teams-administrator-associate
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Teams Administrator Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Teams Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -54,11 +54,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

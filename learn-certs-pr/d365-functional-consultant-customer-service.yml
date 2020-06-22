@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+  description: 'Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
 subTitle: Les Microsoft Dynamics 365 Customer Service Functional Consultant construisent des solutions CX qui sont rapides, agiles et tirent parti de l’IA pour offrir une vision exploitable qui anticipe les besoins des clients.
 levels:
 - intermediate
@@ -19,7 +22,7 @@ skills:
 - Effectuer la configuration
 - Gérer les cas et la base de connaissances
 - Gérer les files d'attente, les attributions et les accords de niveau de service (SLA)
-- Configurer la voix du client
+- Configurer les Pro des formulaires
 roles:
 - functional-consultant
 type: role-based
@@ -50,20 +53,21 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

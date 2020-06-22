@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Configuring Windows Devices (pilot)
+metadata:
+  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+uid: exam.70-797
+displayName: 70-797
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Cet examen valide les compétences et les connaissances d'un candidat liées à la construction d'identités solides, la protection du contenu (protection contre la perte de données), la stratégie de gestion des appareils mobiles, la virtualisation avec Hyper-V, la gestion des applications à l'aide du portail d'entreprise et du Windows Store. Les candidats seront évalués sur les fonctionnalités de sécurité de Windows 10 et les fonctionnalités Azure intégrées.
+
+  En plus de leur expérience professionnelle, les candidats qui passent cet examen doivent posséder les connaissances techniques suivantes&#58;
+
+  - Expérience en matière d'administration, maintenance et dépannage du Bureau Windows
+  - Expérience de base et compréhension des technologies de mise en réseau de Windows
+  - Connaissances de base d'Active Directory et de Microsoft Intune
+
+  Les candidats peuvent passer cet examen et satisfaire aux conditions préalables par l'obtention de connaissances et compétences équivalentes par le biais d'une expérience pratique en tant que technicien du support technique Windows ou administrateur système d'appareils Windows.
+subTitle: Cet examen valide les compétences et les connaissances d'un candidat liées à la construction d'identités solides, la protection du contenu (protection contre la perte de données), la stratégie de gestion des appareils mobiles, la virtualisation avec Hyper-V, la gestion des applications à l'aide du portail d'entreprise et du Windows Store. Les candidats seront évalués sur les fonctionnalités de sécurité de Windows 10 et les fonctionnalités Azure intégrées.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=fr-fr&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+locales:
+- en
+levels:
+- beginner
+skills:
+- Gérer les identité (13%)
+- Planification du déploiement des appareils et des appareils de bureau (à 13 %)
+- Planification et mise en œuvre d'une solution de gestion des appareils mobiles à l'aide de Microsoft Intune (à 11 %)
+- Configurer la mise en réseau (11%)
+- Configuration du stockage (à 10 %)
+- Gestion et protection de l'accès aux données (à 11 %)
+- Gestion de l'accès à distance (à 10 %)
+- Gérer les applications (11%)
+- Gestion des mises à jour et de la récupération (à 10 %)
+roles:
+- administrator
+products:
+- windows
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: ../certification-exam-policies.md
+

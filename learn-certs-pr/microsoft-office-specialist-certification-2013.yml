@@ -6,18 +6,18 @@ metadata:
 uid: certification.microsoft-office-specialist-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Cette certification démontre que vous disposez des compétences nécessaires pour tirer pleinement profit de Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique. Office 2013 allie les technologies du cloud et du Web pour étendre votre mode de création et de consommation des informations. Il propose également un nouveau modèle d'application sur le cloud qui vous permet d'élaborer des applications fiables et souples, toutes accessibles grâce à l'interface Office qui vous est familière.
-  
-  Pour obtenir la certification Microsoft Office Specialist on Microsoft Office 2013, vous devez réussir un ou tous les sept examens afin d’être certifiés dans ce programme spécifique &#58;
+
+  Pour obtenir la certification Microsoft Office Specialist on Microsoft Office 2013, vous devez réussir un ou tous les sept examens afin d’être certifiés dans ce programme spécifique&#58;
   - [Exam 77-418&#58; Microsoft Office Word 2013](/learn/certifications/exams/77-418)
   - [Exam 77-420&#58; Microsoft Office Excel 2013](/learn/certifications/exams/77-420)
   - [Exam 77-422&#58; Microsoft Office PowerPoint 2013](/learn/certifications/exams/77-422)
   - [Exam 77-423&#58; Microsoft Office Outlook 2013](/learn/certifications/exams/77-423)
   - [Exam 77-424&#58; Microsoft Office Access 2013](/learn/certifications/exams/77-424)
   - [Exam 77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419)
-  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421) 
+  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421
 subTitle: Cette certification démontre que vous disposez des compétences nécessaires pour tirer pleinement profit de Office en obtenant une certification Microsoft Office Specialist (MOS) dans le cadre d'un programme Office spécifique. Office 2013 allie les technologies du cloud et du Web pour étendre votre mode de création et de consommation des informations. Il propose également un nouveau modèle d'application sur le cloud qui vous permet d'élaborer des applications fiables et souples, toutes accessibles grâce à l'interface Office qui vous est familière.
 levels:
 - beginner
@@ -39,7 +39,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

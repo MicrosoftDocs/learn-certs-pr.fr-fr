@@ -6,33 +6,31 @@ metadata:
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
   Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
-  
-  <div style='color&#58; red;'><br/>La certification MCSE Productivity solutions Expert sera retirée le 30 juin 2020. Par conséquent, la certification MCSE Productivity solutions Expert ne constituera pas une option de prérequis pour la certification Microsoft 365 Certified: Enterprise Administrator Expert, après le 30 juin 2021. (Un an après le retrait de MCSE).</div>
+
+  <div><br/><strong>La certification MCSE Productivity solutions Expert sera retirée le 31 janvier 2021. Par conséquent, la certification MCSE Productivity solutions Expert ne constituera pas une option de prérequis pour la certification Microsoft 365 Certified&#58; Enterprise Administrator Expert après la date du 31 janvier 2022 (1 an après le retrait de MCSE).</strong></div>
 subTitle: Les administrateurs de Microsoft 365 pour entreprise évaluent, planifient, migrent, déploient et gèrent les services de Microsoft 365.
 levels:
 - advanced
 skills:
-- 'REMARQUE: Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
-- Concevoir et mettre en œuvre les services Microsoft 365.
-- Gérer l’identité et les rôles des utilisateurs.
-- Gérer l’accès et l’authentification.
-- Planifier les charges de travail et les applications Office 365.
-- Mettre en œuvre des services de périphériques modernes.
-- Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365.
-- Gérer la gouvernance et la conformité de Microsoft 365.
+- 'REMARQUE : Les puces qui apparaissent sous chacune des compétences mesurées dans le document ci-dessous visent à illustrer notre façon d’évaluer cette compétence. Cette liste n’est pas définitive ni exhaustive.'
+- Concevoir et mettre en œuvre les services Microsoft 365
+- Gérer l’identité et les rôles des utilisateurs
+- Gérer l’accès et l’authentification
+- Planifier les charges de travail et les applications Office 365
+- Mettre en œuvre des services de périphériques modernes
+- Mettre en œuvre la gestion de la sécurité et des menaces de Microsoft 365
+- Gérer la gouvernance et la conformité de Microsoft 365
 roles:
 - administrator
 type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -57,12 +55,13 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -8,15 +8,15 @@ displayName: MB-220
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 19 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le mardi 19 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des consultants fonctionnels Microsoft Dynamics 365 Customer Engagement ayant une expertise en marketing. Les candidats sont responsables de la mise en œuvre de solutions qui attirent et convertissent les prospects, développent une prise de conscience de la marque, standardisent la messagerie omnicanal, et forurnissent des perspectives marketing.
+  Les candidats à cet examen sont des consultants fonctionnels Dynamics 365 Customer Engagement ayant une expertise en marketing. Les candidats sont responsables de la mise en œuvre de solutions qui attirent et convertissent les prospects, développent une prise de conscience de la marque, standardisent la messagerie omnicanal, et forurnissent des perspectives marketing.
 
-  Les candidats sont chargés de la configuration et de l’expansion de l'application marketing de base pour inclure la messagerie marketing, la configuration, les parcours clients interactifs, l’encouragement des prospects avec des expériences personnalisées, l’intégration de LinkedIn, les événements, la voix du client, les pages de destination, la segmentation et la notation et la maintenance d’une conformité au règlement général sur la protection des données (RGPD).
+  Les candidats sont chargés de la configuration et de l’expansion de l'application marketing de base pour inclure la messagerie marketing, la configuration, les parcours clients interactifs, l’encouragement des prospects avec des expériences personnalisées, l’intégration de LinkedIn, des événements, enquêtes, des pages de destination, de la segmentation et de la cotation, et la maintenance d’une conformité aux Réglementations General Data Protection Regulation (GDPR).
 
-  Les candidats doivent avoir une certaine connaissance des principes du marketing et du rôle de l’application du marketing dans la relation avec la suite d'applications de Microsoft Dynamics 365, y compris l'intégration avec les applications Microsoft Dynamics 365 et Office 365. Les candidats doivent comprendre la terminologie, les priorités, les initiatives communes, les normes, les méthodologies, et les meilleures pratiques.
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: configurer des applications marketing, gérer des segments et des listes, créer et gérer des formulaires et des pages de marketing, gérer des prospects, créer et gérer des e-mails pour le marketing, gérer des parcours clients, gérer des événements et des webinaires et configurer et analyser les réponses des clients.'
+  Les candidats doivent avoir une certaine connaissance des principes du marketing et du rôle de l’application du marketing dans la relation avec la suite d'applications de Dynamics 365, y compris l'intégration avec les applications Dynamics 365 et Office 365. Les candidats doivent comprendre la terminologie, les priorités, les initiatives communes, les normes, les méthodologies, et les meilleures pratiques.
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: configurer des applications marketing, gérer des segments et des listes, créer et gérer des formulaires et des pages de marketing, gérer des prospects, créer et gérer des e-mails pour le marketing, gérer des parcours clients, gérer des événements et des webinaires et configurer et analyser les réponses des clients. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=fr-fr&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
@@ -25,15 +25,15 @@ locales:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 19 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.
-- Configurer les paramètres des applications (5-10%)
-- Gérer les segments et les listes (10-15%)
-- Créer et gérer des formulaires et des pages de marketing (10-15%)
-- Gérer les prospects (10-15%)
-- Créer et gérer des e-mails pour le marketing (10-15%)
-- Gérer les parcours des clients (15-20%)
-- Gérer des événements et des webinaires (10-15%)
-- Configurer et analyser les réponses des clients (10-15%)
+- Le contenu de cet examen sera mis à jour le mardi 19 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
+- Configurer les paramètres des applications (5-10 %)
+- Gérer les segments et les listes (10-15 %)
+- Créer et gérer des formulaires et des pages de marketing (10-15 %)
+- Gérer les prospects (10-15 %)
+- Créer et gérer des e-mails pour le marketing (10-15 %)
+- Gérer les parcours des clients (15-20 %)
+- Gérer des événements et des webinaires (10-15 %)
+- Configurer et analyser les réponses des clients (10-15 %)
 roles:
 - functional-consultant
 products:
@@ -53,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-marketing
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
@@ -61,11 +61,11 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.

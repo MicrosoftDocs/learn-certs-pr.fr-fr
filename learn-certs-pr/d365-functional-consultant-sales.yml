@@ -2,11 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l'équipe de ventes en utilisant l'analyse des données.
+  description: "Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l'équipe de ventes en utilisant l'analyse des données."
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l'équipe de ventes en utilisant l'analyse des données.
-subTitle: Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l'équipe de ventes en utilisant l'analyse des données.
+summary: |-
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
+
+  Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l'équipe de ventes en utilisant l'analyse des données.
+subTitle: Les Microsoft Dynamics 365 Sales Functional Consultants mettent en œuvre des solutions qui anticipent et planifient les connexions des clients, gèrent les accords grâce au traitement et à la clôture et accélèrent les performances de l'équipe de ventes en utilisant l'analyse des données.
 levels:
 - intermediate
 skills:
@@ -26,10 +29,7 @@ products:
 - dynamics
 - dynamics-sales
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-210t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -51,20 +51,21 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
+  description: '« Découvrez les ressources de formation pour devenir Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate. »'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oWP2
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de réussite.
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
-- title: Support pour les certifications
-  description: Obtenez de l’aide à travers nos Forums de support de certification Microsoft. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+- title: Aide à la certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -5,15 +5,28 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: Une personne obtenant cette certification doit suivre environ 150 heures d’instruction et d’expérience pratique avec le produit, a prouvé sa compétence à un niveau d'associé dans l’industrie, en étant prête à entrer au marché du travail. Elle peut démontrer une application correcte des principales fonctionnalités de Excel et peut compléter les tâches de manière indépendante.
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Cet examen couvre les compétences dans la création et gestion des présentations, l’insertion et la gestion des formes et des diapositives, la création de contenus de diapositives, l’application des transitions et des animations et la gestion de plusieurs présentations. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque. Les candidats doivent être en mesure de démontrer la bonne application des principales fonctionnalités de PowerPoint et de compléter les tâches de façon indépendante.
 subTitle: Cet examen mesure les compétences de création, d’édition et d’amélioration des présentations et des diaporamas, y compris la capacité de créer et gérer des présentations, à insérer et mettre en forme des formes et des diapositives, à créer un contenu de diapositive, à appliquer des transitions et des animations et à gérer plusieurs présentations. Les exemples de présentation comprennent des présentations de ventes de qualité professionnelle, la formation des employés, du matériel didactique et des diaporamas en kiosque.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
@@ -38,8 +51,9 @@ resources:
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Demander un hébergement
-  description: En découvrir plus sur la demande d’hébergement dans le cadre de votre examen.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Règles applicables aux examens et FAQ
   description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
   href: ../certification-exam-policies.md
+

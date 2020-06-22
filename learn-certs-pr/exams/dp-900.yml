@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Microsoft Azure Data Fundamentals (beta)'
+metadata:
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+uid: exam.dp-900
+displayName: DP-900
+summary: |-
+  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+
+  Les candidats à cet examen doivent posséder des connaissances fondamentales des concepts des données de base et de leur mise en œuvre à l’aide des services de données de Microsoft Azure.
+
+  Cet examen est destiné aux candidats qui viennent de commencer à travailler avec des données sur le cloud.
+
+  Les candidats doivent être familiarisés avec les concepts des données relationnelles et non relationnelles, et avec les différents types de charges de travail de données tels que les transactionnelles et les analytiques.
+
+  La certification Azure Data Fundamentals peut être utilisé pour se préparer à d’autres certifications Azure basées sur les rôles tels que Azure Database Administrator Associate ou Azure Data Engineer Associate, sans être un prérequis pour elles.  
+
+  <div style='font-weight&#58; bold;'><br/>REMARQUE&#58; Ce examen sera disponible aux environs du 8 juin 2020.</div>
+subTitle: 'Cet examen sera disponible aux alentours du 8 juin 2020. Prouvez votre capacité à décrire les questions suivantes: les concepts des données de base, le travail avec les données relationnelles dans Azure, le travail avec les données non relationnelles dans Azure, et la charge de travail analytique sur Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+locales:
+- en
+levels:
+- beginner
+skills:
+- Décrire les concepts des données de base (15 à 20%)
+- Décrire le travail avec les données relationnelles sur Azure (25 à 30%)
+- Décrire le travail avec les données non relationnelles sur Azure (25 à 30%)
+- Décrire une charge de travail analytique sur Azure (25 à 30%)
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.azure-data-fundamentals
+resources:
+- title: Guide de formation et de certification
+  description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Affiche de la certification
+  description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
+  href: ../deals.md
+- title: Aide pour les examens de certification
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  href: ../help.md
+- title: Tableau de bord des certifications
+  description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Demander un hébergement
+  description: Pour en savoir plus sur la demande d’hébergement dans le cadre de votre examen.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Règles applicables aux examens et FAQ
+  description: Vérifiez les règles applicables aux examens et les questions fréquemment posées.
+  href: ../certification-exam-policies.md
+

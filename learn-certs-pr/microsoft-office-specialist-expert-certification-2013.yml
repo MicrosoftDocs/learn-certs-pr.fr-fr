@@ -6,16 +6,16 @@ metadata:
 uid: certification.microsoft-office-specialist-expert-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong></font><br/><br/></div>
 
   Cette certification démontre que vous disposez de compétences avancées dans les principaux programmes Office en obtenant une certification Microsoft Office Specialist Expert. Office 2013 allie les technologies du cloud et du Web pour étendre votre mode de création et de consommation des informations. Il propose également un nouveau modèle d'application sur le cloud qui vous permet d'élaborer des applications fiables et souples, toutes accessibles grâce à l'interface Office qui vous est familière.
 
-  Pour obtenir la certification Microsoft Office Specialist Expert, vous devez réussir les DEUX examens requis pour chaque programme &#58;
+  Pour obtenir la certification Microsoft Office Specialist Expert, vous devez réussir les DEUX examens requis pour chaque programme&#58;
 
-  - Vous devez réussir les deux examens de Microsoft Word 2013 Expert &#58;
+  - Vous devez réussir les deux examens de Microsoft Word 2013 Expert&#58;
     - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
     - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
-  - Vous devez réussir les deux examens de Microsoft Excel 2013 Expert &#58;
+  - Vous devez réussir les deux examens de Microsoft Excel 2013 Expert&#58;
     - [77-728&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-728)
     - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
 subTitle: Cette certification démontre que vous disposez de compétences avancées dans les principaux programmes Office en obtenant une certification Microsoft Office Specialist Expert. Office 2013 allie les technologies du cloud et du Web pour étendre votre mode de création et de consommation des informations. Il propose également un nouveau modèle d'application sur le cloud qui vous permet d'élaborer des applications fiables et souples, toutes accessibles grâce à l'interface Office qui vous est familière.
@@ -39,7 +39,7 @@ resources:
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: deals.md
 - title: Aide à la certification

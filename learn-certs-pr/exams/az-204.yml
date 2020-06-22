@@ -1,24 +1,24 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>En réponse à la situation du coronavirus (COVID-19), Microsoft met en place plusieurs modifications temporaires de son programme de formation et de certification. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>En savoir plus</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le 18 mai 2020. Veuillez télécharger le document relatif aux compétences mesurées ci-dessous pour vous informer sur les modifications.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Le contenu de cet examen sera mis à jour le lundi 18 mai 2020. Veuillez télécharger le document concernant les compétences évaluées qui se trouve ci-dessous pour savoir ce qui a changé.<br/><br/></div>
   </div>
 
-  Les candidats à cet examen sont des développeurs sur le Cloud qui participent à toutes les phases de développement, depuis la définition et la conception des exigences, au développement, déploiement, et maintenance. Ils collaborent avec des DBA de Cloud, des administrateurs de Cloud et des clients pour mettre en œuvre les solutions.
+  Les candidats à cet examen doivent avoir des connaissances spécialisées dans la conception, le développement, les essais, et la maintenance des applications et services de cloud sur Microsoft Azure.
 
-  Les candidats doivent maîtriser les kits de développement logiciel Azure, les options de stockage des données, les connexions de données, les API, l’authentification et les autorisations des applications, le déploiement informatique et de conteneurs, le débogage, le réglage des performances, et la surveillance.
+  Les responsabilités d’un développeur Azure englobent une participation à toutes les phases du développement du cloud, depuis la définition et la conception des exigences, au développement, déploiement, maintenance, réglage de la performance et surveillance.
   <br/>
 
-  Les candidats doivent posséder une expérience de développement professionnelles d’un à deux ans, et savoir utiliser Microsoft Azure. Il doivent être capable de programmer dans un langage pris en charge par Azure.
+  Les développeurs Azure collaborent avec des architectes de solutions de cloud, des DBA de cloud, des administrateurs de cloud et des clients pour mettre en œuvre des solutions.
 
-  <div><br/><strong>Les examens bêta ne sont pas immédiatement notés, car ils rassemblent des données sur la qualité des questions et sur l’examen. En savoir plus <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sur la valeur et l’importance des examens bêta</a>.</div>
-subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes : développer des solutions informatiques Azure ; développer le stockage Azure ; mettre en œuvre la sécurité Azure ; surveiller, dépanner et optimiser les solutions Azure ; et se connecter et consommer les services Azure et les services des tiers.'
+  Le candidat à cet examen doit avoir un à deux ans d’expérience de développement professionnel et d’expérience avec Microsoft Azure. En outre, cette fonction exige une aptitude à programmer dans un langage pris en charge par Azure et des compétences dans les SDK Azure, Azure PowerShell, Azure CLI, les options de stockage des données, les connexions des données, les API, l’authentification et l’autorisation des applications, le déploiement des calculs et des conteneurs, le débogage, le réglage des performances, et la surveillance.
+subTitle: 'Cet examen mesure votre capacité à réaliser les tâches techniques suivantes: développer des solutions informatiques Azure; développer le stockage Azure; mettre en œuvre la sécurité Azure; surveiller, dépanner et optimiser les solutions Azure; et se connecter et consommer les services Azure et les services des tiers.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:
@@ -29,12 +29,12 @@ providers:
 levels:
 - intermediate
 skills:
-- Le contenu de cet examen sera mis à jour le 18 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui va changer.
+- Le contenu de cet examen sera mis à jour le lundi 18 mai 2020. Veuillez télécharger le résumé des compétences évaluées ci-dessous pour savoir ce qui a changé.
 - Développer des solutions informatiques Azure (25-30%)
 - Mettre au point pour le stockage Azure (10-15%)
 - Mettre en œuvre la sécurité Azure (15-20%)
 - Surveiller, dépanner et optimiser les solutions Azure (10-15%)
-- Se connecter et consommer les services Azure et les services des tiers (25-30%)
+- Se connecter et consommer les services Azure et les services de tiers (25-30%)
 roles:
 - developer
 products:
@@ -58,7 +58,6 @@ products:
 - azure-monitor
 - azure-policy
 - azure-portal
-- azure-redis-cache
 - azure-resource-manager
 - azure-sdks
 - azure-service-bus
@@ -66,6 +65,9 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -80,20 +82,20 @@ relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: Parcours de formation en vue de la certification
-  description: 'Découvrez les ressources de formation pour devenir Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Parcours vers la certification
+  description: Explorez les étapes d’obtention d’une certification Azure Developer Associate ainsi que les ressources disponibles pour vous aider à vous préparer.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Guide de formation et de certification
   description: Découvrez toutes les certifications dans un guide de formation et de certification concis.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Affiche de la certification
   description: Découvrez un aperçu des certifications de base, basées sur les rôles et de spécialisation.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Retransmission de l'examen]
+- title: Exam Replay
   description: Consultez deux offres excellentes qui vous aideront à augmenter vos chances de succès.
   href: ../deals.md
 - title: Aide pour les examens de certification
-  description: Obtenez de l’aide à travers nos forums d'aide à la Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
+  description: Obtenez de l’aide à travers nos Forums de support de Microsoft Certification. Un modérateur du forum répondra sous 24 heures (du lundi au vendredi).
   href: ../help.md
 - title: Tableau de bord des certifications
   description: Vérifiez et gérez vos rendez-vous, certificats et relevés de notes.
