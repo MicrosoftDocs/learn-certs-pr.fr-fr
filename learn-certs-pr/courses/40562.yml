@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: Migrating SQL databases to Azure
+metadata:
+  title: 'Course 40562-G: Migrating SQL databases to Azure'
+  description: 'Course 40562-G: Migrating SQL databases to Azure'
+uid: course.40562
+courseNumber: '40562-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir une solution de migration vers le cloud pour les applications et bases de données critiques pour l'entreprise.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous travaillerez en groupe pour installer et configurer une architecture sans serveur dans Azure en utilisant une combinaison de Azure Functions, Logic Apps, Event Grid, Cosmos DB et Azure Storage. L'accent est mis sur la suppression de la gestion des serveurs de l'équation, la décomposition de la solution en composants plus petits qui sont individuellement évolutifs, et la possibilité pour le client de ne payer que pour ce qu'il utilise.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure, comme décrit dans les rubriques "Résumé" et "Compétences acquises". Les personnes qui participent à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc - Migration des bases de données SQL vers Azure
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de démonstration du concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique - Migration des bases de données SQL vers Azure
+  #### Leçons
+  - Effectuer des évaluations de la base de données
+  - Migrer la base de données vers SQL MI
+  - Mettre à jour l'application web pour utiliser la nouvelle base de données SQL MI
+  - Intégrer App Service au réseau virtuel
+  - Améliorer la sécurité de la base de données avec Advanced Data Security
+  - Activer le Dynamic Data Masking
+  - Utiliser le secondaire en ligne pour les requêtes en lecture seule

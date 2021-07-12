@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Introduction to Microsoft Excel 2019
+metadata:
+  title: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+  description: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+uid: course.55271
+courseNumber: '55271-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Créer des feuilles de calcul de base à l'aide de Microsoft Excel 2019.
+- skill: Effectuer des calculs dans une feuille de calcul Excel.
+- skill: Modifier une feuille de calcul Excel.
+- skill: Modifier l'apparence des données dans une feuille de calcul.
+- skill: Gérer des classeurs Excel.
+- skill: Imprimer le contenu d'une feuille de calcul Excel.
+- skill: Apprenez à utiliser des fonctionnalités pratiques, nouvelles en 2019.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Dans cette classe de formation Introduction to Microsoft Excel 2019, les étudiants vont créer et modifier des feuilles de calcul et des classeurs de base. Ce cours est conçu pour les étudiants qui veulent acquérir les compétences nécessaires pour créer, modifier, formater et imprimer des feuilles de calcul de base de Microsoft Excel 2019.
+
+  #### Profil du public
+  Ce cours est destiné aux étudiants qui ont peu ou pas de familiarité avec Microsoft Excel 2019 ou aux utilisateurs Excel plus expérimentés qui souhaitent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+outlineSection: |-
+  ### Module 1&#58; Création d'un classeur Microsoft Excel.
+  Ce module explique comment créer et commencer à travailler avec des classeurs et des feuilles de calcul.
+  #### Leçons
+  - Démarrer Microsoft Excel
+  - Création d'un classeur
+  - Sauvegarde d'un classeur
+  - La barre d'état
+  - Ajout et suppression de feuilles de travail
+  - Feuilles de travail sur la copie et le déplacement
+  - Changer l'ordre des feuilles de travail
+  - Fractionnement de la fenêtre de la feuille de calcul
+  - Fermeture d'un classeur
+
+
+  #### Laboratoire &#58; Création d'un classeur Microsoft Excel
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Lancez Microsoft Excel.
+  - Créez un classeur Microsoft Excel.
+  - Enregistrez un classeur Microsoft Excel.
+  - Comprendre la barre d'état.
+  - Ajouter et supprimer des feuilles de calcul Microsoft Excel.
+  - Copier et déplacer des feuilles de travail.
+  - Divisez la fenêtre de la feuille de calcul.8. Pour fermer un classeur Microsoft Excel.
+
+
+  ### Module 2&#58; Le ruban
+  Ce module explique comment travailler avec le ruban.
+  #### Leçons
+  - Onglets
+  - Groupes
+  - Commandes
+
+
+  #### Laboratoire &#58; Exercices sur le ruban
+  - Ouvrir un classeur
+  - Sélectionner, ouvrir et sauvegarder un modèle d'agenda
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Travaillez avec des onglets.
+  - Travaillez en groupe.
+  - Travaillez avec des commandes.
+  - Sachez quels groupes et quelles commandes se trouvent sur quels onglets.
+
+
+  ### Module 3&#58; Les coulisses (le menu fichier)
+  Ce module explique comment travailler avec la vue des coulisses.
+  #### Leçons
+  - Introduction à la vue des coulisses
+  - Ouverture d'un classeur
+  - Ouvrir un classeur
+  - Nouveaux classeurs et modèles Excel
+  - Sélectionner, ouvrir et sauvegarder un modèle d'agenda
+  - Impression des feuilles de travail
+  - Imprimer une feuille de travail
+  - Ajout de votre nom à Microsoft Excel
+  - Ajout d'un thème à Microsoft Excel
+
+
+  #### Laboratoire &#58; Exercices sur la vue des coulisses
+  - Imprimer une feuille de travail
+  - Ouvrir un classeur
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Travaillez avec la vue des coulisses.
+  - Ouvrez un classeur Microsoft Excel.
+  - Démarrez un nouveau classeur Microsoft Excel.
+  - Utilisez des modèles Microsoft Excel.
+  - Imprimez un classeur Microsoft Excel.
+  - Personnalisez votre copie de Microsoft Excel
+
+
+  ### Module 4&#58; La barre d'outils d'accès rapide
+  Ce module explique comment travailler avec la barre d'outils d'accès rapide.
+  #### Leçons
+  - Ajout de commandes communes
+  - Ajout de commandes supplémentaires à l'aide de la boîte de dialogue personnalisée
+  - Ajout de commandes ou de groupes sur le ruban
+  - Placement
+  - Personnaliser la barre d'outils d'accès rapide
+
+
+  #### Laboratoire &#58; Personnaliser la barre d'outils d'accès rapide
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Ajouter des commandes courantes à la barre d'outils d'accès rapide.
+  - Ajouter des commandes supplémentaires à la barre d'outils d'accès rapide.
+  - Déplacez la barre d'outils d'accès rapide.
+
+
+  ### Module 5&#58; Saisie de données dans les feuilles de calcul Microsoft Excel.
+  Ce module explique comment saisir des données dans des feuilles de calcul Microsoft Excel.
+  #### Leçons
+  - Saisir du texte
+  - Ajout et suppression de cellules
+  - Ajout d'un hyperlien
+  - Ajout de WordArt à une feuille de calcul
+  - Utilisation de AutoComplete
+  - Saisir du texte et utiliser AutoComplete
+  - Saisie de nombres et de dates
+  - Utilisation de la poignée de remplissage
+  - Saisie de nombres et de dates
+  #### Laboratoire &#58; Exercices de saisie de données
+  - Saisir du texte et utiliser AutoComplete
+  - Saisie de nombres et de dates
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Saisissez du texte dans des feuilles de calcul Microsoft Excel.
+  - Ajouter ou supprimer des cellules dans les feuilles de calcul.
+  - Ajoutez un plan pour vos données.
+  - Saisir un lien hypertexte dans une feuille de calcul.
+  - Utiliser AutoComplete.
+  - Saisir des chiffres et des dates dans des feuilles de calcul Microsoft Excel.
+  - Utiliser la poignée de remplissage pour ajouter des données aux cellules.
+
+
+  ### Module 6&#58; Mise en forme des feuilles de calcul Microsoft Excel.
+  Ce module explique comment mettre en forme les feuilles de calcul de Microsoft Excel.
+  #### Leçons
+  - Sélection de plages de cellules
+  - Cacher les feuilles de travail
+  - Ajouter de la couleur aux onglets de la feuille de calcul
+  - Ajout de thèmes aux classeurs
+  - Personnaliser un classeur à l'aide de couleurs et de thèmes d'onglets
+  - Ajout d'un filigrane
+  - Le groupe Font
+  - Utilisation des commandes de groupes de polices
+  - Le groupe d'alignement
+  - Travailler avec les commandes du groupe d'alignement
+  - Le groupe des chiffres
+  - Utilisation des commandes de groupes de numéros
+
+
+  #### Laboratoire &#58; Exercices sur les feuilles de travail de formatage
+  - Personnaliser un classeur à l'aide de couleurs et de thèmes d'onglets
+  - Utilisation des commandes de groupes de polices
+  - Travailler avec les commandes du groupe d'alignement
+  - Travailler avec les commandes du groupe des chiffres
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les différentes façons de formater les feuilles de calcul de Microsoft Excel.
+  - Sélectionnez une plage de cellules dans une feuille de calcul.
+  - Cachez les feuilles de travail.
+  - Ajouter de la couleur aux onglets du classeur.
+  - Ajoutez des thèmes aux feuilles de travail.
+  - Mettez le texte en gras, en italique et soulignez-le.
+  - Ajoutez des bordures aux cellules.
+  - Modifiez les couleurs du texte et des cellules.
+  - Modifiez la police et la taille de la police.
+  - Aligner le texte.
+  - Enveloppez le texte.
+  - Mettez le texte en retrait.
+  - Fusionnez et centrez le texte.
+  - Modifier le format des numéros.
+  - Modifier les formats de date.
+  - Montrez les décimales.
+
+
+  ### Module 7&#58; Utilisation des formules dans Microsoft Excel.
+  Ce module explique comment travailler avec des formules dans Microsoft Excel.
+  #### Leçons
+  - Opérateurs mathématiques et ordre des opérations
+  - Saisir des formules
+  - AutoSum (et autres formules automatiques courantes)
+  - Copier des formules et des fonctions
+  - Références cellulaires relatives, absolues et mixtes
+  - Travailler avec des formules
+
+
+  #### Laboratoire &#58; Travailler avec des formules
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les opérateurs mathématiques et l'ordre des opérations dans Excel.
+  - Saisirles formules de base.
+  - Utiliser AutoSum pour additionner les données en un seul clic.
+  - Comprendre les références de cellules absolues, relatives et mixtes.
+  - Copier des formules et des fonctions.
+
+
+  ### Module 8&#58; Travailler avec des rangées et des colonnes.
+  Ce module explique comment travailler avec des lignes et des colonnes dans Microsoft Excel.
+  #### Leçons
+  - Insertion de lignes et de colonnes
+  - Suppression de lignes et de colonnes
+  - Transposition des lignes et des colonnes
+  - Définition de la hauteur des lignes et de la largeur des colonnes
+  - Masquage et démasquage des rangées et des colonnes
+  - Geler des panneaux 
+  - Travailler avec des lignes et des colonnes
+
+
+  #### Laboratoire &#58; Travailler avec des rangées et des colonnes
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Insérer des lignes et des colonnes dans des feuilles de calcul Microsoft Excel.
+  - Supprimer des lignes et des colonnes dans des feuilles de calcul Microsoft Excel.
+  - Transposer les lignes et les colonnes.
+  - Modifier la hauteur des rangées.
+  - Modifier la largeur des colonnes.
+  - Masquer et démasquer les lignes et les colonnes.
+  - Geler les panneaux.
+  
+  ### Module 9&#58; Édition de feuilles de travail
+  Ce module explique comment modifier des feuilles de calcul dans Microsoft Excel.
+  #### Leçons
+  - Trouver
+  - Rechercher et remplacer
+  - Utilisation de la fonction Rechercher et Remplacer
+  - Utilisation du presse-papiers
+  - Utilisation du peintre de format
+  - Gestion des commentaires
+
+
+  #### Laboratoire &#58; Édition de feuilles de travail Exercices
+  - Utilisation de la fonction rechercher et remplacer
+  - Utilisation du presse-papiers
+  - Utilisation du peintre de format
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Localisez les informations dans votre feuille de calcul en utilisant la fonction Rechercher.
+  - Utilisez la fonction Rechercher et remplacer pour remplacer rapidement des données par d'autres.
+  - Utilisez les commandes Couper, Copier, Coller et Format Painter pour modifier les feuilles de calcul.
+  - Gérer les commentaires
+
+
+  ### Module 10&#58; Finalisation des feuilles de calcul Microsoft Excel.
+  Ce module explique comment finaliser les feuilles de calcul Microsoft Excel.
+  #### Leçons
+  - Réglage des marges
+  - Réglage de l'orientation de la page
+  - Réglage de la zone d'impression
+  - Mise à l'échelle de l'impression (adaptation de la feuille sur une page)
+  - Impression des en-têtes sur chaque page/Répétition des en-têtes et des pieds de page
+  - En-têtes et pieds de page
+  - Préparation de l'impression
+
+
+  #### Laboratoire &#58; Préparation à l'impression
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Définir les marges dans les feuilles de calcul Microsoft Excel.
+  - Régler l'orientation de la page sur portrait ou paysage.
+  - Définir la zone d'impression dans une feuille de calcul.
+  - Mettre une feuille de calcul à l'échelle pour que toutes les données soient imprimées sur une seule page.
+  Ajouter des en-têtes et des pieds de page à une feuille de calcul.
+  
+  #### Lectures complémentaires
+  Pour vous aider à vous préparer à ce cours, consultez les ressources suivantes&#58;
+  - Aucune

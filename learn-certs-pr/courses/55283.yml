@@ -1,0 +1,267 @@
+### YamlMime:Course
+title: Microsoft Office 365 Power User
+metadata:
+  title: 'Course 55283-A: Microsoft Office 365 Power User'
+  description: 'Course 55283-A: Microsoft Office 365 Power User'
+uid: course.55283
+courseNumber: '55283-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Vous serez en mesure de comprendre les différentes apps mises à votre disposition par le biais de votre abonnement.
+- skill: Vous pourrez prioriser les apps à utiliser pour divers scénarios d'affaires.
+- skill: Vous comprendrez comment les différentes applications s'intègrent les unes aux autres.
+- skill: Vous aurez une expérience pratique de la configuration et de l'utilisation des applications.
+- skill: Vous serez en mesure de prendre des décisions éclairées sur la base de vos propres exigences professionnelles.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- m365
+summary: |-
+  Le cours est conçu pour aider les utilisateurs Power et les utilisateurs finaux à tirer le meilleur parti des applications de Office 365. Il vous apprend à collaborer au sein de l'entreprise, à comprendre quand utiliser quoi et à optimiser l'adoption de Office 365 par votre entreprise.
+
+  #### Profil du public
+  Le public visé par ce cours est constitué d'utilisateurs Power et de Super utilisateurs qui devront soutenir la base d'utilisateurs, donner des conseils sur les fonctionnalités et sur le moment où il convient d'utiliser tel ou tel outil pour répondre au bon besoin de collaboration.
+prerequisitesSection: |-
+  Aucune expérience préalable de Office 365 n'est requise.
+outlineSection: |-
+  ### Module 1&#58; Introduction à Office 365
+  Dans ce module, nous donnerons un bref aperçu de ce qu'est Office 365, de l'endroit où les données sont stockées et de certains des choix d'abonnement disponibles. Nous discuterons également de la manière d'accéder à Office 365 et des endroits où il est possible d'y accéder. Nous discuterons ensuite des avantages pour les utilisateurs finaux.
+  #### Leçons
+  - Qu'est-ce que Office 365 ?
+  - Plans Office 365
+  - Applications Office 365
+  - Support des navigateurs
+  - Démarrage - Connexion avec Office 365
+  - Mettez à jour votre profil Delve
+
+
+  #### Lab &#58; Mise en route avec Office 365
+  - Connectez-vous à Office 365
+  - Mise à jour de votre profil Delve
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ce qu'est Office 365
+  - Quels sont les plans et les applications de Office 365 ?
+  - Quels sont les navigateurs pris en charge par Office 365
+  - Comment se connecter à Office 365
+  - Comment mettre à jour votre profil Delve
+
+
+  ### Module 2&#58; Gérer le contenu avec OneDrive
+  En général, les organisations travaillent sur des lecteurs partagés et peuvent également disposer d'un lecteur pour les fichiers personnels. OneDrive remplace ce lecteur personnel. Nous discuterons des cas où vous devez utiliser OneDrive et, surtout, des cas où le personnel ne doit pas utiliser OneDrive. Nous vous montrerons comment accéder à OneDrive et le synchroniser avec vos appareils. Nous discuterons des options de partage de fichiers et de dossiers, ainsi que des avantages des versions et de la corbeille. Nous examinerons également les détails des fichiers dont nous disposons à des fins d'audit et de recherche.
+  #### Leçons
+  - Ajout et organisation du contenu
+  - Historique des versions
+  - Suppression et restauration de fichiers
+  - Partage de fichiers
+  - Détails des fichiers
+  - Synchronisation des fichiers sur l'appareil
+
+
+  #### Lab &#58; Gérer le contenu avec OneDrive
+  - Créer un dossier
+  - Créer et modifier un fichier dans le navigateur
+  - Restaurer une version précédente
+  - Supprimer et restaurer un fichier
+  - Partager un fichier
+  - Gérer le partage de fichiers
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - How to add the organize your content in OneDrive
+  - Comment utiliser l'historique des versions dans OneDrive
+  - Comment supprimer et restaurer des fichiers dans OneDrive
+  - Comment partager un fichier dans OneDrive
+  - Afficher les détails d'un fichier dans OneDrive
+  - Synchroniser des fichiers sur son appareil
+
+
+  ### Module 3&#58; Travailler avec les applications Office
+  Dans ce module, nous examinerons les applications Office les plus familières et nous verrons quand vous utiliserez la copie locale de l'application et quand vous utiliserez la version du navigateur. Nous verrons également comment elles s'intègrent aux autres applications, comme l'enregistrement de pièces jointes dans OneDrive ou dans Groups. Ce module abordera également les moyens de collaborer avec des collègues en tant que co-auteurs de documents.
+  #### Leçons
+  - Travailler avec des e-mails dans Outlook Online
+  - Gérer les pièces jointes
+  - Création de réunions
+  - Règle hors de Office
+  - Word/Excel et PowerPoint Online
+  - OneNote notebooks
+
+
+  #### Lab &#58; Travailler avec les applications Office
+  - Créer un e-mail dans Outlook Online
+  - Ajouter une pièce jointe à un e-mail
+  - Créer une réunion
+  - Configurer une règle d'absence du bureau
+  - Créer un document Word Online
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comment utiliser Outlook Online
+  - Comment utiliser Word Online
+  - Comment utiliser Excel Online
+  - Comment utiliser PowerPoint Online
+  - Comment utiliser OneNote Online
+
+
+  ### Module 4&#58; Collaborer avec SharePoint Online
+  SharePoint peut représenter beaucoup de choses différentes pour différentes organisations. Certaines utiliseront SharePoint comme intranet, d'autres comme extranet, pour partager du contenu avec des fournisseurs externes. De nombreuses organisations utilisent SharePoint comme outil de gestion des documents. Nous allons examiner et discuter les différentes façons dont les organisations utilisent SharePoint Online. Dans ce module, nous nous concentrerons principalement sur la collaboration documentaire. Nous examinerons les avantages de l'ajout de métadonnées aux documents et la manière dont ces métadonnées peuvent être utilisées pour créer différentes vues des données, ainsi que pour trier et filtrer les données. Nous vous montrerons ce qu'il est possible de réaliser avec les alertes, les flux de travail et l'approbation des documents. Nous verrons également comment partager des documents en interne et en externe. Enfin, nous nous tournerons vers les sites de communication et examinerons la modification des pages et l'ajout de composants Web.
+  #### Leçons
+  - Création de sites d'équipe
+  - Travailler avec des bibliothèques de documents
+  - Ajout de colonnes de métadonnées
+  - Travailler avec des vues
+  - How to set an alert on a document library
+  - Création d'articles d'actualité
+  - Sites de communication
+  - Modifier des pages
+  - Ajout de Webparts aux pages
+
+
+  #### Lab &#58; Collaborer avec SharePoint Online
+  - Créer un nouveau site d'équipe
+  - Créer une nouvelle bibliothèque de documents
+  - Ajouter une colonne
+  - Créer une vue
+  - Configurer une alerte
+  - Créer une page de nouvelles
+  - Créer un site de communication
+  - Modifier la page d'accueil
+  - Ajouter un composant partie web
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comment créer un site d'équipe
+  - Le fonctionnement des bibliothèques de documents
+  - Gérer les vues et les colonnes de métadonnées
+  - Créer un nouvel élément dans une liste
+  - Comment définir une alerte dans une bibliothèque de documents
+  - Comment fonctionnent les sites de communication
+  - Comment éditer une page
+  - Ajouter des parties web à une page
+
+
+  ### Module 5&#58; Travailler avec Groups
+  Office 365 Groups font partie intégrante de Office 365. Toutes les organisations n'utilisent pas les capacités de collaboration de ces groupes via Outlook. Nous verrons comment les utilisateurs finaux peuvent communiquer et partager des documents directement à partir d'Outlook. Nous ferons une démonstration de la zone de conversation, qui est une boîte aux lettres partagée, du calendrier partagé, du bloc-notes et du planificateur dans le cadre de ce module. Nous discuterons également des autres applications qui sont créées lorsqu'un 365 Group est créé. Enfin, nous discuterons des cas où il peut être approprié de collaborer avec les Groups.
+  #### Leçons
+  - Création de groupes
+  - Ajout de fichiers
+  - Utilisation du calendrier des groupes
+  - Ajout de membres
+  - Ajout de tâches au planificateur
+  - Utiliser OneNote notebook
+  - Naviguer vers le site SharePoint
+
+
+  #### Lab &#58; Collaborer avec des Groups
+  - Créer un nouveau groupe
+  - Télécharger un fichier
+  - Ajouter une réunion au calendrier du groupe
+  - Ajouter des membres
+  - Ajouter des tâches au planificateur
+  - Naviguer vers OneNote notebook
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comment créer et gérer un groupe
+  - Comment gérer les fichiers dans les groupes
+  - utiliser le calendrier des groupes et OneNote notebook
+  - Comment naviguer sur le site SharePoint
+  - Comment ajouter des membres à un groupe
+
+
+  ### Module 6&#58; Collaborer avec Teams
+  Microsoft Teams est la nouvelle façon de collaborer, offrant, entre autres, les fonctionnalités de Skype for Business. C'est l'espace où les utilisateurs finaux peuvent travailler sur des documents avec les autres membres d'une équipe, avoir des conversations sur les documents, organiser des réunions et discuter de la réunion dans le canal de l'équipe. Vous pouvez également discuter directement avec vos collègues, passer des appels vidéo ou vocaux et enregistrer les réunions. L'idée de Teams est de pouvoir trouver toutes les informations relatives à un aspect spécifique d'un projet ou d'une équipe en un seul endroit. Au cours de ce module, il y aura une démonstration de chaque aspect de Teams et une discussion sur pourquoi et comment vous pouvez l'utiliser en tant qu'organisation.
+  #### Leçons
+
+
+  #### Lab &#58; Collaborer avec Teams
+  - Créer une nouvelle équipe
+  - Ajouter des membres à l'équipe
+  - Ajouter un nouveau canal
+  - Démarrer une conversation dans un canal
+  - Ajouter des fichiers
+  - Créer un onglet à partir d'un fichier
+  - Planifier une nouvelle réunion dans un canal
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comment créer et gérer une équipe
+  - Comment se tenir au courant des activités de votre équipe
+  - Comment utiliser le Chat dans Teams
+  - Comment utiliser les fonctions de Team Meeting 
+  - Comment inviter quelqu'un à rejoindre votre équipe
+  - Comment administrer Teams
+
+
+  ### Module 7&#58; Travailler avec la vidéo à l'aide de Stream
+  Microsoft Stream est votre chaîne YouTube d'entreprise. Nous discuterons de la manière dont nous pouvons organiser notre contenu vidéo en groupes et en canaux. Nous ferons une démonstration de l'intégration de la vidéo de Stream dans les pages SharePoint. Nous verrons également comment ajouter Stream à Teams. Dans le cadre de ce module, nous aborderons également les fonctionnalités supplémentaires disponibles dans Stream lorsque vous mettez à niveau votre abonnement, notamment le service de transcription et de recherche de personnes..
+  #### Leçons
+  - Téléchargement de vidéos
+  - Chaînes dans Stream
+  - Partager du contenu
+  - Suivre des chaînes
+
+
+  #### Lab &#58; Travailler avec la vidéo à l'aide de Stream
+  - Charger une vidéo dans Stream
+  - Créer un canal
+  - Ajoutez votre vidéo à la chaîne
+  - Suivre un canal
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comment créer des chaînes, télécharger des vidéos et suivre des chaînes
+  - Comment partager le contenu d'un Stream
+
+
+  ### Module 8&#58; Engager des collègues avec Delve, Sway et Yammer
+  Delve vous permet de trouver le contenu qui vous intéresse en un seul endroit, qu'il s'agisse d'un contenu que vous avez créé ou qu'un collègue partage avec vous. Vous pouvez également personnaliser votre propre profil pour être plus facile à trouver. Nous allons voir comment nous pouvons nous promouvoir dans Delve et utiliser la fonctionnalité de recherche de Delve pour suivre des collègues. Sway nous permet de créer des présentations visuelles à l'aide de modèles et de graphiques, ainsi que du contenu provenant d'un large éventail de sources. Ces pages web sont ensuite partageables en interne et en externe. Yammer est un espace social d'entreprise qui peut être utilisé pour discuter avec des groupes internes et externes. Les fichiers peuvent être partagés et des fonctions sociales supplémentaires, telles que les sondages, nous permettent de communiquer avec de grands groupes de personnes et d'obtenir rapidement un retour d'information.
+  #### Leçons
+  - Rechercher des personnes dans Delve
+  - Suivre des collègues
+  - Façons de créer un Sway
+  - Partager Sway
+  - Groupes Yammer
+  - Discussions Yammer
+  - Création de sondages dans Yammer
+
+
+  #### Lab &#58; Engagez des collègues avec Delve, Sway et Yammer
+  - Naviguez vers Delve
+  - Suivez un collègue
+  - Créer un Sway à partir d'un document Word
+  - Partager le Sway avec un collègue
+  - Créer un groupe dans Yammer
+  - Créer un sondage
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Rechercher des personnes en utilisant Delve
+  - Suivre des collègues dans Delve
+  - Différentes manières de créer un Sway
+  - Utiliser les différentes fonctionnalités de Yammer telles que les groupes, les discussions et les sondages.
+
+
+  ### Module 9&#58; Travailler avec des données à l'aide de Power BI, PowerApps, Flow et Forms.
+  Le stockage des informations à divers endroits dans Office 365 peut être amélioré par l'automatisation, la capture de données, le travail mobile et la visualisation des informations. Connue sous le nom de trilogie Power, Power BI offre un moyen de présenter des données brutes sous forme de rapports et de tableaux de bord. PowerApps vous permet de créer des applications pour les appareils mobiles, offrant des formulaires et des visuels pour soutenir une variété d'activités commerciales. Flow peut être utilisé pour automatiser ce qui pourrait être des processus manuels tels que les approbations, les mises à jour, les communications et plus encore. Les Forms vous permettent de mettre en place des enquêtes et des quiz à usage individuel ou collectif, afin d'obtenir rapidement un retour d'information de la part des utilisateurs finaux. Au cours de ce module, vous verrez une démonstration de l'utilisation de PowerApps pour personnaliser des formulaires dans SharePoint, puis pour créer une application mobile permettant de mettre à jour une liste SharePoint.
+  #### Leçons
+  - Qu'est-ce que Power BI et à quoi ressemble-t-elle ?
+  - Utilisation de  Connectors
+  - Utilisation de Microsoft Forms
+  - Utilisation de Flow et des  Connectors disponibles
+  - Création d'applications mobiles avec PowerApps
+
+
+  #### Lab &#58; Travailler avec des données à l'aide de Power BI, PowerApps, Flow et Forms
+  - Regardez dans Power BI et étudiez certains des modèles disponibles.
+  - Créez un formulaire de commentaires
+  - Créez un flux qui envoie un e-mail sur la base de votre formulaire.
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre Power BI
+  - Comment utiliser les Connectors
+  - Comment utiliser les Microsoft Forms
+  - Comment utiliser Flow et les connecteurs disponibles
+  - créer des applications mobiles à l'aide de PowerApps.
+
+  #### Lectures supplémentaires
+  Aucune.

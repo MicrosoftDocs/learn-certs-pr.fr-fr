@@ -1,0 +1,128 @@
+### YamlMime:Course
+title: 'Introduction to Microsoft Project 2019: Getting Started'
+metadata:
+  title: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+  description: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+uid: course.55288
+courseNumber: '55288-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apprendre à créer et à gérer des projets simples.
+- skill: Apprendre à saisir et à gérer des tâches.
+- skill: Apprendre à travailler avec un calendrier de projet.
+- skill: Apprendre à ajouter et gérer les ressources d'un projet et à travailler avec la feuille de ressources.
+- skill: Apprendre à créer des rapports de base pour votre projet.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Dans ce cours Introduction to Microsoft Project 2019&#58; Getting Started, les étudiants passeront du temps à se familiariser avec l'interface utilisateur de Project 2019 ou Project 365, y compris les vues de projet et le ruban. Ils apprendront également à saisir, organiser et relier des tâches, à travailler avec des ressources, à créer des rapports de base et à créer des projets de manière autonome. Le cours laisse le temps de pratiquer les compétences de base fondamentales indispensables à une utilisation efficace de ce programme.
+
+  #### Profil du public
+  Ce cours est destiné aux nouveaux utilisateurs de Microsoft Project.
+outlineSection: |-
+  ### Module 1&#58; Composants d'un projet
+  Dans cette leçon, nous allons passer en revue les composants d'un projet qui sont couverts en détail dans ce cours et présenter les exemples de projets qui seront utilisés dans ce cours.
+
+  #### Leçons
+  - Composants d'un projet.
+  - Projets de démonstration et d'exercice utilisés dans ce cours.
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les composants d'un projet.
+  - Cartographier un projet.
+  - Exemples de projets utilisés dans ce cours.
+
+
+  ### Module 2&#58; Se déplacer dans Microsoft Project
+  Dans cette leçon, vous apprendrez à démarrer Project 2019 et vous vous familiariserez avec le Ruban, notamment les onglets, les groupes et les commandes. Une solide compréhension du fonctionnement du ruban et la capacité de naviguer vers différentes parties du ruban vous permettront de prendre un bon départ dans Microsoft Project 2019.
+
+  #### Leçons
+  - Projet de départ
+  - Le ruban
+  - Les coulisses du projet
+  - Visite de la barre d'outils d'accès rapide
+  - Formatage de base
+
+  #### Lab &#58; Exercices
+  - Comprendre le ruban
+  - Ouvrir et enregistrer un projet
+  - Saisir des informations sur le projet
+  - Ajouter et supprimer des commandes dans la barre d'outils d'accès rapide
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Démarrer le projet 2019.
+  - Travailler avec les onglets, les groupes et les commandes du ruban.
+  - Masquer le ruban.
+  - Utiliser la vue Backstage.
+  - Saisir des informations sur le projet.
+  - Personnaliser la barre d'outils d'accès rapide.
+  - Utiliser le formatage de base dans Project 2019.
+
+
+  ### Module 3&#58; Calendriers
+  Ce module explique comment travailler avec les calendriers.
+  #### Leçons
+  - Date de début du projet
+  - Création du calendrier du projet
+  - Connexion d'un calendrier à un projet
+  - Formatage de la ligne de temps en fonction d'un calendrier personnalisé
+
+  #### Lectures complémentaires
+  Aucune
+  ### Module 1&#58; Composants d'un projet
+  Dans cette leçon, nous allons passer en revue les composants d'un projet qui sont couverts en détail dans ce cours et présenter les exemples de projets qui seront utilisés dans ce cours.
+
+  #### Leçons
+  - Composants d'un projet.
+  - Projets de démonstration et d'exercice utilisés dans ce cours.
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les composants d'un projet.
+  - Cartographier un projet.
+  - Exemples de projets utilisés dans ce cours.
+
+
+  ### Module 2&#58; Se déplacer dans Microsoft Project
+  Dans cette leçon, vous apprendrez à démarrer Project 2019 et vous vous familiariserez avec le Ruban, notamment les onglets, les groupes et les commandes. Une solide compréhension du fonctionnement du ruban et la capacité de naviguer vers différentes parties du ruban vous permettront de prendre un bon départ dans Microsoft Project 2019.
+
+  #### Leçons
+  - Projet de départ
+  - Le ruban
+  - Les coulisses du projet
+  - Visite de la barre d'outils d'accès rapide
+  - Formatage de base
+
+  #### Lab &#58; Exercices
+  - Comprendre le ruban
+  - Ouvrir et enregistrer un projet
+  - Saisir des informations sur le projet
+  - Ajouter et supprimer des commandes dans la barre d'outils d'accès rapide
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Démarrer le projet 2019.
+  - Travailler avec les onglets, les groupes et les commandes du ruban.
+  - Masquer le ruban.
+  - Utiliser la vue Backstage.
+  - Saisir des informations sur le projet.
+  - Personnaliser la barre d'outils d'accès rapide.
+  - Utiliser le formatage de base dans Project 2019.
+
+
+  ### Module 3&#58; Calendriers
+  Ce module explique comment travailler avec les calendriers.
+  #### Leçons
+  - Date de début du projet
+  - Création du calendrier du projet
+  - Connexion d'un calendrier à un projet
+  - Formatage de la ligne de temps en fonction d'un calendrier personnalisé
+
+  #### Lectures complémentaires
+  Aucune

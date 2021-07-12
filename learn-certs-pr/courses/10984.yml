@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Deploying and Managing Office 365 Hybrid Deployments
+metadata:
+  title: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+  description: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+uid: course.10984
+courseNumber: '10984-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Décrire les outils d'administration et les options de licence de Office 365.
+- skill: Déployer et configurer la synchronisation des répertoires dans un déploiement Office 365.
+- skill: Planifier une configuration hybride avec Exchange Server et Exchange Online.
+- skill: Effectuer un déploiement de configuration hybride de Exchange Server.
+- skill: Décrire et déployer Skype for Business et Teams dans un déploiement hybride.
+- skill: Déployer SharePoint et OneDrive for Business dans un environnement hybride.
+- skill: Décrire et déployer diverses méthodes d'authentification dans un déploiement hybride de Office 365.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Il s'agit d'un cours ILT de 3 jours qui cible les besoins des professionnels IT qui prennent part à l'administration, la configuration et l'exploitation des services Office 365 dans des environnements hybrides, où une partie de l'infrastructure est hébergée sur site. Ce cours inclut également la gestion des identités, de l'authentification et des technologies de support pour Office 365. Ce cours se concentre sur les compétences requises pour administrer et dépanner un locataire Office 365, et les services clés de Office 365 tels que Exchange Online, SharePoint Online et Skype for Business, ainsi que des services tels que Azure Multi-Factor Authentication (MFA), Azure Active Directory Identity Protection et Azure Active Directory Privileged Identity Management. Tous ces services sont couverts sous l'aspect hybride. Ce cours permet d'acquérir des connaissances sur l'utilisation des services Office 365 pour les ressources dans le cloud et sur site.
+
+  #### Profil du public
+  Le public visé par ce cours comprend les professionnels IT et les administrateurs système qui souhaitent apprendre à mettre en œuvre et à maintenir Office 365 dans des scénarios hybrides, où une partie de l'infrastructure de collaboration est située sur site et intégrée aux services Office 365. Ces professionnels doivent avoir au moins 3 ans d'expérience de travail dans leur domaine respectif. En particulier, des connaissances préalables sur Exchange Server, SharePoint Server et Skype for Business Server (par exemple, Lync server) sont attendues. Les étudiants qui suivent ce cours doivent également avoir une compréhension assez large de l'administration des services Office 365 en général, ainsi que de plusieurs technologies sur site telles que DNS et AD DS.
+prerequisitesSection: |-
+  En plus de leur expérience professionnelle, les étudiants qui suivent cette formation doivent déjà avoir les connaissances techniques suivantes&#58;
+  - Minimum de deux ans d'expérience dans l'administration du système d'exploitation Windows Server, y compris Windows Server 2012 ou version ultérieure.
+  - Minimum d'un an d'expérience de travail avec Active Directory Domain Services.
+  - Minimum d'un an d'expérience de travail avec la résolution de noms, y compris Domain Name System (DNS).
+  - Expérience de travail avec des certificats, y compris des certificats d'infrastructure à clé publique (PKI) 
+  - Expérience de travail avec Windows PowerShell.
+  - Expérience de travail avec Exchange Server 2013 ou ultérieure, Lync 2013 Server ou Skype for Business Server2015, et SharePoint Server 2013 ou ultérieure.
+  - Expérience de travail avec les services clés de Office 365 tels que Exchange Online, Skype for Business et SharePoint Online.
+
+  Une compréhension des concepts suivants en relation avec Office 365&#58;
+  - Les services Microsoft cloud 
+  - La plateforme Office 365 
+outlineSection: |-
+  ### Module 1&#58; Introduction à l'administration et aux licences de Office 365
+  Ce module décrit Office 365, ses outils d'administration et ses options de licence.
+  #### Leçons
+  - Vue d’ensemble de Office 365
+  - Administration Office 365 et délégation de rôles
+  - Configuration des locataires de Office 365
+  - Vue d’ensemble du déploiement hybride
+
+
+  #### Laboratoire &#58; Approvisionnement et configuration d'un locataire Office 365
+  - Configuration du DNS sur site
+  - Configuration d'un locataire d'essai de Office 365
+  - Explorer les interfaces d'administration de Microsoft 365
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire les composants de Microsoft Office 365 et les options d'abonnement/de licence.
+  - Décrire les portails administratifs de Office 365, la gestion de Windows PowerShell et les rôles d'administrateur.
+  - Provisionner et configurer un locataire Office 365, des domaines personnalisés et des enregistrements DNS.
+  - Décrire les options pour une configuration hybride de Office 365.
+
+
+  ### Module 2&#58; Déploiement et configuration de la synchronisation des répertoires
+  Ce module explique comment décrire et configurer la synchronisation des répertoires dans un déploiement de Office 365.
+  #### Leçons
+  - Vue d’ensemble de la synchronisation et de l'authentification des répertoires
+  - Déploiement et configuration de Azure AD Connect
+  - Gérer les objets utilisateurs et groupes dans un environnement hybride Office 365
+
+
+  #### Laboratoire &#58; Administration de la synchronisation des répertoires, des utilisateurs et des groupes dans un environnement hybride Office 365
+  - Préparation de l'annuaire et configuration de Azure AD Connect
+  - Gestion des utilisateurs et des groupes de Office 365 avec une interface graphique et Windows PowerShell
+  - Gestion des politiques de mot de passe de Office 365 et la réinitialisation du mot de passe en libre-service
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire la synchronisation et l'authentification des répertoires.
+  - Déployer et configurer Azure AD Connect.
+  - Gérer les comptes d'utilisateurs et de groupes dans un environnement hybride Microsoft Office 365.
+
+
+  ### Module 3&#58; Planification du déploiement hybride de Exchange Server
+  Ce module explique comment planifier une configuration hybride avec Exchange Server et Exchange Online.
+  #### Leçons
+  - Vue d’ensemble de Exchange Online
+  - Options de configuration et caractéristiques du déploiement hybride de Exchange Server
+  - Services Exchange Server dans le déploiement hybride
+
+
+  #### Laboratoire &#58; Planification et conception de l'intégration entre Exchange Online et Exchange Server 2019
+  - Conception d'un déploiement Exchange hybride
+  - Discussion d'une solution et révision de la configuration de Exchange Online
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire Microsoft Exchange Online en tant que partie intégrante de Microsoft Office 365.
+  - Décrire les options de configuration et de déploiement de Microsoft Exchange Server hybride.
+  - Décrire les rôles de Exchange Server dans un déploiement hybride.
+
+
+  ### Module 4&#58; Déploiement hybride de Exchange Server
+  Ce module explique comment effectuer le déploiement de la configuration hybride de Exchange Server.
+  #### Leçons
+  - Utiliser le Hybrid Configuration Wizard
+  - Gérer et configurer le déploiement hybride Exchange 
+  - Mettre en œuvre des fonctionnalités avancées pour les déploiements hybrides
+  - Configurer la conformité et l'hygiène des messages dans un environnement hybride
+
+
+  #### Laboratoire &#58; Mettre en œuvre le déploiement hybride de Exchange Server
+  - Utilisation de Hybrid Configuration Wizard
+  - Déplacer des boîtes aux lettres entre Exchange sur site et Exchange Online
+  - Configurer la conformité et la sécurité des messages dans l'environnement hybride
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Utiliser le Hybrid Configuration Wizard pour établir un environnement hybride Exchange.
+  - Configurer un déploiement hybride Exchange.
+  - Implémenter le déploiement hybride de fonctionnalités avancées.
+  - Décrire les fonctionnalités de conformité pour un déploiement Exchange hybride.
+
+
+  ### Module 5&#58; Skype for Business et Teams dans le déploiement hybride de Office 
+  Ce module explique comment déployer Skype for Business et Teams dans un déploiement hybride.
+  #### Leçons
+  - Vue d'ensemble de Microsoft Teams
+  - Planification et préparation du déploiement de Skype for Business hybride
+  - Utilisation de la configuration hybride de Skype for Business avec le système téléphonique
+  - Configurer l'environnement hybride Skype for Business
+
+
+  #### Laboratoire &#58; Mettre en œuvre la configuration hybride de Skype for Business
+  - Déployer Skype for Business with Enterprise Voice (pre-lab)
+  - Déplacer les utilisateurs vers Skype for Business Online
+  - Activer Office 365 Phone System and Audio Conferencing
+  - Concevoir et mettre en œuvre une configuration hybride de Skype for Business
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire Teams comme faisant partie de Office 365.
+  - Préparer le déploiement hybride de Skype for Business.
+  - Configurer l'environnement hybride Skype for Business.
+  - Décrire les options de déploiement hybride avec Office 365 Phone System.
+
+
+  ### Module 6&#58; Déploiement hybride de SharePoint et OneDrive for Business
+  Ce module explique comment déployer SharePoint et OneDrive for Business dans des environnements hybrides.
+  #### Leçons
+  - Vue d'ensemble de SharePoint Online
+  - Planifier un déploiement hybride de SharePoint
+  - Deploy the SharePoint hybrid configuration
+  - Configure SharePoint services in a hybrid configuration
+
+
+  #### Laboratoire &#58; Mettre en œuvre SharePoint et OneDrive for Business dans une configuration hybride
+  - Concevoir et préparer SharePoint Server pour une configuration hybride
+  - Déployer des services SharePoint dans une configuration hybride
+  - Valider la fonctionnalité des services SharePoint dans une configuration hybride
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Décrire SharePoint Online comme une partie de Office 365.
+  - Planifier un déploiement hybride de SharePoint.
+  - Déployer SharePoint Server dans une configuration hybride.
+  - Configurer les services SharePoint dans une configuration hybride.
+
+
+  ### Module 7&#58; Déploiement de services Office 365 supplémentaires dans un déploiement hybride
+  Ce module explique comment déployer Azure MFA, Identity Protection, et Azure Information Protection.
+  #### Leçons
+  - Mettre en œuvre Multi-Factor Authentication dans un scénario hybride
+  - Implémenter Azure Information Protection
+  - Implémenter Identity Protection et Azure AD Privileged Identity Management
+
+
+  #### Laboratoire &#58; Configurer des services Office 365 supplémentaires dans les déploiements hybrides
+  - Implémenter Multi-Factor Authentication
+  - Implémenter Azure Information Protection
+  - Implémenter Azure AD Privileged Identity Management
+
+  Après avoir terminé ce module, vous serez en mesure de&#58;
+  - Implémenter Multi-Factor Authentication.
+  - Implémenter Azure Information Protection.
+  - Implémenter Identity Protection and Azure AD Privileged Identity Management.
+  
+  ### Module 8&#58; Options d'authentification dans les déploiements hybrides
+  Ce module explique comment déployer diverses méthodes d'authentification dans un déploiement hybride de Office 365.
+  #### Leçons
+  - Déployer AD FS pour l'authentification unique (SSO) dans un environnement hybride Office 365.
+  - Déployer l'authentification directe pour SSO dans Office 365.
+  - Planifier les options d'authentification dans Office 365.
+
+
+  #### Laboratoire &#58; Mettre en œuvre des solutions d'authentification dans des déploiements hybrides
+  - Déployer AD FS pour le SSO
+  - Déployer l'authentification directe pour le SSO
+
+  À l'issue de ce module, vous serez en mesure de&#58;
+  - Déployer AD FS pour l'authentification unique (SSO) dans un environnement hybride Office 365.
+  - Déployer l'authentification directe pour SSO.
+  - Planifier les options d'authentification dans Office 365.

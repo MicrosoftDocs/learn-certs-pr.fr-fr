@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Advanced Microsoft Outlook 2019
+metadata:
+  title: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+  description: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+uid: course.55278
+courseNumber: '55278-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apprendre à travailler avec des tâches et des notes.
+- skill: 'Apprenez à travailler avec des signatures et des thèmes : Apprenez à travailler avec des signatures et des thèmes.'
+- skill: Gérer votre boîte de réception, y compris le filtrage, la création de dossiers de recherche et l'archivage.
+- skill: Travailler avec plusieurs comptes.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Ce cours de formation à Microsoft Outlook s'appuie sur les compétences de base de Outlook et apprend aux étudiants à travailler avec certaines des fonctionnalités les plus avancées de Outlook.
+
+  #### Profil du public
+  Ce cours est destiné aux étudiants qui ont des compétences de base avec Microsoft Outlook 2019 et qui souhaitent acquérir des compétences de niveau supérieur ou aux étudiants qui souhaitent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  Une expérience dans les domaines suivants est requise pour ce cours sur Microsoft Outlook&#58;
+  - Familiarité avec Windows.
+  - Connaissance de niveau introductif de Outlook.
+outlineSection: |-
+  ### Module 1&#58; Travailler avec des tâches et des notes
+  Ce module explique comment travailler avec des tâches et des notes dans Microsoft Outlook.
+  #### Leçons
+  - Créer une tâche
+  - Imprimer une tâche
+  - Mise à jour d'une tâche
+  - Rechercher des tâches
+  - Affecter une tâche
+  - Répondre à une demande de tâche
+  - Suivre les tâches
+  - Modifier la vue des tâches
+  - Travailler avec des notes
+
+
+  #### Lab &#58; Travailler avec des tâches
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Changer la vue des tâches.
+  - Créer une tâche.
+  - Imprimer une tâche.
+  - Mettre à jour une tâche.
+  - Affecter une tâche.
+  - Rechercher des tâches.
+  - Répondre à une demande de tâche.
+  - Suivre les tâches.
+  - Travailler avec des notes.
+
+
+  ### Module 2&#58; Utilisation des signatures et des thèmes
+  Ce module explique comment utiliser les signatures et les thèmes.
+  #### Leçons
+  - Créer une signature
+  - Ajout automatique d'une signature aux messages
+  - Modifier une signature
+  - Formatage des messages sortants
+  - Créer et appliquer un thème
+
+
+  #### Lab &#58; Ajouter un thème et une signature à vos messages
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer une signature.
+  - Apprendre à ajouter automatiquement la signature aux messages électroniques.
+  - Modifier une signature.
+  - Créer et appliquer un thème
+
+
+  ### Module 3&#58; Gestion de votre boîte de réception
+  Ce module explique comment gérer votre boîte de réception dans Microsoft Outlook.
+  #### Leçons
+  - Recherche de messages
+  - Créer des dossiers de recherche
+  - Trier les messages
+  - Ajouter de nouveaux dossiers locaux
+  - Déplacer des messages entre des dossiers
+  - Regrouper les éléments de votre boîte aux lettres
+  - Filtrer les messages
+  - Organiser les messages
+  - Créer et gérer des règles
+  - Gérer vos messages indésirables
+  - Activer vos messages
+  - Créer un fichier de données Outlook
+  - Créer une étape rapide
+  - Ajouter une protection à vos messages sortants
+  - Créer des réponses automatiques
+
+
+  #### Lab &#58; Exercices sur la gestion de votre boîte de réception
+  - Organiser vos messages
+  - Gérer votre courrier en créant une étape rapide
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Rechercher des messages.
+  - Créer des dossiers de recherche.
+  - Grouper les éléments de votre boîte aux lettres.
+  - Filtrer les messages.
+  - Organiser les messages.
+  - Gérer votre courrier indésirable.
+  - Archiver vos messages.
+  - Créer un fichier de données Outlook.
+  - Créer une étape rapide pour appliquer facilement et rapidement plusieurs actions aux messages électroniques.
+  Ajouter une protection aux e-mails sortants.
+
+  ### Module 4&#58; Travailler avec des comptes de messagerie multiples
+  Ce module explique comment travailler avec plusieurs comptes de messagerie dans Microsoft Outlook.
+  #### Leçons
+  - Configuration de plusieurs comptes dans Outlook
+  - Envoyer des courriels à partir de différents comptes
+  - Programmes de messagerie POP et IMAP
+
+
+  #### Lab &#58; Travailler avec plusieurs comptes de messagerie électronique
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Configurer plusieurs comptes dans Outlook.
+  - Envoyer des courriels à partir de différents comptes.
+  - Apprendre les différences entre les programmes de messagerie POP et IMAP.
+
+  #### Lectures supplémentaires
+  Pour vous aider à vous préparer à ce cours, consultez les ressources suivantes&#58;
+  - Aucune

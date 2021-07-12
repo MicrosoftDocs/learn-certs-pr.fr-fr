@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: MLOps'
+metadata:
+  title: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+  description: 'Course 40559-G: Microsoft Cloud Workshop: MLOps'
+uid: course.40559
+courseNumber: '40559-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir et mettre en œuvre des solutions de bout en bout qui rendent pleinement opérationnels les modèles d'apprentissage profond.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous apprendrez comment Trey Research peut tirer parti des technologies d'apprentissage profond pour parcourir ses documents de spécification des véhicules afin de trouver des problèmes de conformité avec les nouvelles réglementations, et gérer la classification via son application web. L'ensemble du processus, depuis la création du modèle, le conditionnement de l'application, le déploiement du modèle et le déploiement de l'application, doit se dérouler sous la forme d'un pipeline unifié et reproductible.
+  À la fin de cet atelier, vous serez mieux à même de concevoir et de mettre en œuvre des solutions de bout en bout qui rendent pleinement opérationnels les modèles d'apprentissage profond, y compris tous les composants applicatifs qui dépendent du modèle.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure, comme décrit dans les rubriques "Résumé" et "Compétences acquises". Les personnes qui participent à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception sur tableau blanc - MLOps
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de démonstration du concept
+  - Présenter la solution
+
+  ### Module 2&#58; Laboratoire pratique - MLOps
+  #### Leçons
+  - Création et évaluation de modèles de classification de la conformité
+  - Enregistrement du modèle
+  - Configuration d'un nouveau projet dans Azure DevOps
+  - Configurer et exécuter le pipeline de construction
+  - Configurer le pipeline de release
+  - Tester les pipelines de build et de release
+  - Tester la solution déployée
+  - Examen des performances du modèle déployé

@@ -1,0 +1,149 @@
+### YamlMime:Course
+title: SharePoint 2019 Site Owner Training
+metadata:
+  title: 'Course 55299-A: SharePoint 2019 Site Owner Training'
+  description: 'Course 55299-A: SharePoint 2019 Site Owner Training'
+uid: course.55299
+courseNumber: '55299-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apprendre à naviguer dans un site d'équipe SharePoint 2019.
+- skill: Apprendre à créer et à modifier le contenu d'une page web.
+- skill: Apprendre à créer des colonnes de site et des types de contenu.
+- skill: Apprendre à intégrer les applications Office avec SharePoint 2019.
+- skill: Apprendre à gérer les autorisations de base
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Ce cours destiné SharePoint 2019 Site Owner s'adresse aux propriétaires/responsables de sites qui commencent à travailler dans un environnement SharePoint 2019.
+
+  #### Profil du public
+  Ce cours s'adresse aux propriétaires/gestionnaires de sites qui ne travaillent pas encore dans un environnement SharePoint 2019.
+prerequisitesSection: |-
+  Expérience de niveau introductif avec SharePoint.
+outlineSection: |-
+  ### Module 1&#58; Travailler avec des sites
+  Tout le contenu SharePoint est accessible par le biais d'un site. Un site SharePoint est le conteneur des listes et des bibliothèques et fournit un point de départ pour l'administration de base. Le contenu, les listes, les bibliothèques et l'apparence de base d'un site sont initialement déterminés par le modèle de site utilisé pour créer le site.
+
+  #### Leçons
+  - Modèles de site
+  - Création de sites
+  - Création d'un site d'équipe
+  - Navigation dans le site
+  - Gestion de la navigation du site
+
+
+  #### Lab &#58; Exercices
+  - Création de sites d'équipe
+  - Création d'un espace de travail de réunion
+  - Création d'un site de blog
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre ce que sont les modèles de site.
+  - Comprendre les différents types de modèles de sites fournis "prêts à l'emploi".
+  - Créer un nouveau site à l'aide de modèles de site
+  - Créer un site de projet.
+  - Créer un site d'équipe.
+  - Créer un site de communauté.
+  - Créer un site de blog.
+  - Gérer les sites répertoriés dans la barre de liens supérieure.
+
+
+  ### Module 2&#58; Contenu des pages
+  SharePoint offre plusieurs façons d'ajouter du contenu aux pages d'un site. La technique la plus récente, et celle mise en œuvre par le modèle de site d'équipe, consiste à utiliser des pages de style de site. Une autre méthode qui a fait partie de SharePoint dans le passé est l'utilisation de pages Wiki et Web Part. Les techniques Wiki et Web Part sont similaires en ce qui concerne le résultat qui peut être créé, et toutes deux partagent la capacité d'y ajouter des  parties web (une instance d'une application avec une vue).
+
+  #### Leçons
+  - Pages de la bibliothèque Wiki
+  - Modification de la page d'accueil du site de l'équipe
+  - Pages WebPart
+  - Création d'une page WebPart
+  - Travailler avec des parties web
+  - Ajout de composants parties web aux pages
+
+
+  #### Lab &#58; Exercices
+  - Travailler avec des pages Wiki
+  - Travailler avec des pages Web Part et des parties web
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre ce que sont les pages de site.
+  - Comprendre ce que sont les pages Wiki.
+  - Comprendre ce que sont les Web Parts.
+  - Comprendre comment ajouter du contenu à la page d'accueil du site.
+  - Comprendre comment créer une bibliothèque de pages Wiki.
+  - Comprendre comment ajouter des composants Web.
+  - Comprendre comment gérer les composants Web.
+
+
+  ### Module 3&#58; Colonnes de site et types de contenu
+  L'une des méthodes de personnalisation de SharePoint, qui peut être réutilisée dans l'ensemble du site, de la collection de sites ou même de la ferme, consiste à créer des colonnes de site et des types de contenu. Les colonnes de site sont l'élément le plus simple ; elles sont essentiellement les mêmes que les colonnes de liste et de bibliothèque, sauf que vous les créez au niveau du site et qu'elles peuvent ensuite être utilisées sur ce site et tout site enfant. Les types de contenu sont une combinaison de colonnes de site ainsi que de paramètres et d'informations supplémentaires, tels que des modèles de document et des flux de travail. Les types de contenu, une fois créés, peuvent ensuite être liés à des listes et à des bibliothèques.
+  #### Leçons
+  - Galerie des colonnes du site
+  - Explorez la galerie des colonnes du site
+  - Création de colonnes de site
+  - Créer une colonne de site personnalisée
+  - Ajouter une colonne de site à une liste
+  - Galerie des types de contenu de site
+  - Explorez la galerie des types de contenu de site
+  - Création de types de contenu
+  - Comment créer et utiliser les types de contenu
+
+
+  #### Lab &#58; Exercices
+  - Création et utilisation des types de contenu
+  - Ajout d'un type de contenu à une bibliothèque
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les colonnes du site.
+  - Comprendre les types de contenu.
+  - Comprendre comment créer des colonnes de site.
+  - Comprendre comment créer des types de contenu.
+  - Comprendre comment créer un modèle de document pour un type de contenu.
+  - Comprendre comment affecter un type de contenu à une liste ou à une bibliothèque.
+  - Comprendre comment créer de nouveaux éléments basés sur un type de contenu personnalisé.
+
+
+  ### Module 4&#58; Gérer les permissions des sites SharePoint
+  Les permissions sur un site SharePoint sont attribuées lors de la création du site. Par défaut, les permissions attribuées à la racine d'une collection de sites sont héritées par les sites enfants. À tout moment, l'héritage des permissions peut être désactivé au niveau d'un site, d'une liste, d'une bibliothèque ou même d'un élément dans une liste ou une bibliothèque. Les autorisations elles-mêmes peuvent être attribuées à des groupes SharePoint, à des utilisateurs individuels ou à des groupes créés en dehors de SharePoint, tels que des groupes Windows.
+
+  #### Leçons
+  - Groupes SharePoint
+  - Attribution de permissions
+  - Niveaux d'autorisation
+  - Héritage des permissions
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les groupes SharePoint.
+  - Comprendre comment créer des groupes SharePoint.
+  - Comprendre comment attribuer des autorisations dans SharePoint.
+  - Comprendre comment afficher les niveaux de permission.
+  - Comprendre comment gérer l'héritage des autorisations au niveau du site.
+  - Comprendre comment gérer l'héritage des autorisations au niveau de la liste ou de la bibliothèque.
+
+
+  ### Module 5&#58; Participer à des communautés d'utilisateurs
+  SharePoint offre aux utilisateurs un espace de collaboration sociale sous la forme de sites personnels. L'expérience et la fonctionnalité sont très similaires aux sites de médias sociaux populaires tels que Facebook et LinkedIn. La principale différence est qu'il est contrôlé par SharePoint Farm et que l'exposition est généralement limitée aux réseaux internes.
+
+  #### Leçons
+  - Configuration des profils d'utilisateur et de Mes sites
+  - Flux d'actualités
+  - Flux de nouvelles de personnes
+  - Flux de documents
+  - Flux de document
+  - Flux de nouvelles des sites
+  - Fil d'actualités des tags
+  - Gestion des sites personnels
+  #### Lab &#58; Exercices
+  - Gestion et affichage des informations et du contenu personnels
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre comment modifier un profil personnel.
+  #### Lectures supplémentaires
+  Aucune

@@ -1,0 +1,177 @@
+### YamlMime:Course
+title: Introduction to Microsoft Outlook 2019
+metadata:
+  title: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+  description: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+uid: course.55275
+courseNumber: '55275-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Découvrir les nouvelles fonctionnalités de Outlook
+- skill: Découvrez le ruban, les onglets, les groupes et les commandes.
+- skill: Explorer la vue arrière.
+- skill: Configurer des comptes et travailler avec des messages.
+- skill: Travailler avec les calendriers et les contacts.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Cette classe de formation Microsoft Outlook présente l'interface 2019 et permet aux étudiants d'être rapidement opérationnels en travaillant avec les messages, les calendriers et les contacts.
+
+  #### Profil du public
+  Les étudiants qui ont peu ou pas de familiarité avec Microsoft Outlook 2019 ou les utilisateurs de Outlook plus expérimentés qui veulent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  Une expérience dans les domaines suivants est requise pour ce cours sur Microsoft Outlook&#58;
+  - Familiarité avec l'utilisation d'un ordinateur personnel, d'une souris et d'un clavier.
+  - Être à l'aise dans l'environnement Windows.
+outlineSection: |-
+  ### Module 1&#58; L'interface d'Outlook 2019
+  Ce module explique comment travailler avec l'interface d'Outlook 2019.
+  #### Leçons
+  - Vue d'ensemble de l'interface Outlook
+  - Le ruban
+  - Onglets, groupes et commandes du ruban
+  - La vue arrière
+
+
+  #### Lab &#58; Exercices sur l'interface Outlook
+  - Exploration du ruban
+  - Exploration de la vue arrière
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Travailler avec l'interface de Microsoft Outlook.
+  - Travailler avec le ruban Outlook.
+  - Travailler avec les onglets, groupes et commandes du ruban.
+  - Travailler avec la vue Backstage.
+
+
+  ### Module 2&#58; Exécution de tâches courantes dans Outlook 2019
+  Ce module explique comment effectuer des tâches courantes dans Outlook 2019.
+  #### Leçons
+  - Configuration d'un compte de messagerie
+  - Ouvrir des messages électroniques
+  - Répondre à des messages électroniques et les transférer
+  - Prévisualiser et enregistrer une pièce jointe
+  - Imprimer un message
+  - Supprimer un message
+  - Enregistrer un message dans un autre format
+  - Déléguer l'accès
+  - Personnaliser le volet de navigation
+
+
+  #### Lab &#58; Exercices sur l'exécution des tâches courantes
+  - Configuration d'un compte de messagerie
+  - Ouvrir et répondre à un message
+  - Impression d'un message
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Configurer un compte de messagerie dans Outlook.
+  - Ouvrir des messages électroniques.
+  - Répondre à des messages électroniques et les transférer.
+  - Imprimer et enregistrer une pièce jointe.
+  - Imprimer des messages.
+  - Supprimer des messages.
+  - Enregistrer un message dans un format alternatif.
+  - Déléguer l'accès.
+  - Personnaliser le volet de navigation.
+
+
+  ### Module 3&#58; Travailler avec les messages
+  Ce module explique comment travailler avec les messages dans Microsoft Outlook.
+  #### Leçons
+  - Composer un message
+  - Ajouter une pièce jointe
+  - Ajouter des options de vote
+  - Vérifier l'orthographe et la grammaire
+  - Formatage du texte
+  - Utiliser Microsoft Word pour modifier les messages
+  - Insérer un hyperlien ou une image dans un message
+  - Envoyer un message
+
+
+  #### Lab &#58; Créer et envoyer un nouveau message
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Composer un message.
+  - Ajouter une pièce jointe à un message.
+  - Ajouter des options de vote à un message.
+  - Vérifier l'orthographe et la grammaire d'un message.
+  - Mettre en forme le texte.
+  - Utiliser Microsoft Word pour modifier des messages électroniques.
+  - Insérer un lien hypertexte dans un message.
+  - Envoyer un message.
+
+
+  ### Module 4&#58; Travailler avec le calendrier
+  Ce module explique comment travailler avec le calendrier dans Microsoft Outlook.
+  #### Leçons
+  - Modifier la vue du calendrier
+  - Configurer le statut de disponibilité
+  - Imprimer votre calendrier
+  - Partager votre calendrier
+  - Planifier une réunion
+  - Mettre à jour les réunions
+  - Annuler une réunion
+  - Répondre à une invitation à une réunion
+  - Planifier un rendez-vous
+  - Mettre à jour un rendez-vous
+  - Créer des groupes de calendrier
+  - Supprimer un calendrier
+  - Travailler avec les éléments du calendrier
+  - Créer et ajouter des calendriers
+
+
+  #### Lab &#58; Travailler avec le calendrier - Exercices
+  - Configuration de votre calendrier
+  - Planification d'une réunion
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Modifier la vue de votre calendrier.
+  - Configurer le statut de disponibilité.
+  - Configurer la disponibilité de votre calendrier.
+  - Imprimez votre calendrier.
+  - Planifier une réunion.
+  - Effectuer des mises à jour des réunions.
+  - Répondre à une invitation à une réunion.
+  - Programmer un rendez-vous.
+  - Mettre à jour un rendez-vous.
+  - Créer des groupes de calendriers.
+  - Supprimer un calendrier.
+  - Travailler avec des éléments de calendrier.
+  - Utiliser plusieurs calendriers.
+
+
+  ### Module 5&#58; Organiser les contacts
+  Ce module explique comment organiser les contacts dans Microsoft Outlook.
+  #### Leçons
+  - Ajouter, supprimer, importer et imprimer un contact
+  - Mettre à jour un contact
+  - Localiser un contact
+  - Trier les contacts
+  - Travailler avec des groupes de contacts
+  - Gérer plusieurs carnets d'adresses
+  - Effectuer une fusion de courrier
+
+
+  #### Lab &#58; Exercices d'organisation des contacts
+  - Ajouter et mettre à jour un contact
+  - Réalisation d'une fusion de courrier
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter un contact.
+  - Mettre à jour un contact.
+  - Partager un contact.
+  - Localiser des contacts.
+  - Trier et trouver des contacts.
+  - Travailler avec des groupes de contacts.
+  - Travailler avec plusieurs carnets d'adresses.
+  - Effectuer une fusion de courrier.
+
+  #### Lecture complémentaire
+  - Aucune

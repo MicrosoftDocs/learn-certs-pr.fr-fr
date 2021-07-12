@@ -1,0 +1,175 @@
+### YamlMime:Course
+title: Intermediate Microsoft Word 2019
+metadata:
+  title: 'Course 55273-A: Intermediate Microsoft Word 2019'
+  description: 'Course 55273-A: Intermediate Microsoft Word 2019'
+uid: course.55273
+courseNumber: '55273-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apprenez à utiliser les outils d'édition avancés de Word 2019.
+- skill: Apprendre à travailler avec des images, notamment en plaçant et en dimensionnant les images, en enveloppant du texte autour des images et en utilisant des bordures et des effets.
+- skill: Apprendre à ajuster l'orientation et la mise en page des pages.
+- skill: Apprendre à travailler avec des colonnes.
+- skill: Apprendre à travailler avec les sauts de page et de section.
+- skill: Apprendre à connaître les vues de documents, à utiliser le volet de navigation et à afficher plusieurs fenêtres.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Les étudiants de cette classe de formation Intermediate Word 2019 doivent déjà être en mesure de créer, modifier et imprimer des documents Word 2019 sur Windows. Dans cette classe, les étudiants apprendront le formatage avancé, utiliseront les outils de dessin de Word 2019, créeront et géreront des tableaux, et travailleront avec des mises en page en colonnes.
+
+  #### Profil du public
+  Ce cours s'adresse aux étudiants ayant des compétences de base avec Microsoft Word 2019 qui souhaitent acquérir des compétences de niveau intermédiaire ou aux étudiants qui souhaitent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  - Connaissances de base de Microsoft Word
+outlineSection: |-
+  ### Module 1&#58; Formatage avancé
+  Ce module explique comment utiliser les techniques de formatage avancées dans Microsoft Word.
+  #### Leçons
+  - Ombres et bordures
+  - Définition de l'interligne et de l'interligne de paragraphe
+  - Modification des styles
+  - Marques de paragraphe et autres symboles de mise en forme
+  - Utilisation des symboles de mise en forme
+  - Modification de documents PDF dans Microsoft Word
+
+
+  #### Lab &#58; Exercices de mise en forme avancée
+  - Utilisation de l'ombrage et des bordures
+  - Modification des styles
+  - Utilisation des symboles de mise en forme
+  - Édition de documents PDF et Microsoft Word
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser l'ombrage et les bordures pour améliorer votre document.
+  - Définir l'espacement des lignes et des paragraphes.
+  - Mettre en forme votre document à l'aide de styles.
+  - Afficher, masquer et utiliser les symboles de mise en forme.
+  - Modifier des PDF dans Word.
+
+
+  ### Module 2&#58; Travailler avec des tableaux
+  Ce module explique comment travailler avec des tableaux dans Microsoft Word.
+  #### Leçons
+  - Insertion d'un tableau
+  - Styles de tableau
+  - Formatage d'un tableau
+
+
+  #### Lab &#58; Travailler avec des tableaux Exercices
+  - Insertion d'un tableau
+  - Ajouter des styles à un tableau
+  - Formatage d'un tableau
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Insérer un tableau dans un document.
+  - Mettre en forme un tableau à l'aide de styles.
+  - Formater des données dans un tableau.
+
+
+  ### Module 3&#58; Travailler avec des images
+  Ce module explique comment travailler avec des images dans Microsoft Word.
+  #### Leçons
+  - Insertion d'images
+  - Placement et dimensionnement des images
+  - Habillage de texte autour d'une image
+  - Ajustement des images
+  - Bordures et effets
+
+
+  #### Lab &#58; Exercices sur le travail avec des images
+  - Insérer une image dans un document Microsoft Word
+  - Placer et dimensionner une image dans un document Microsoft Word
+  - Enrouler du texte autour d'une image
+  - Ajuster des images dans Microsoft Word
+  - Ajouter des bordures et des effets aux images dans Microsoft Word
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Insérer des images dans un document Microsoft Word.
+  - Placer et dimensionner des images dans un document Microsoft Word.
+  - Enrouler du texte autour des images.
+  - Ajuster l'aspect et la convivialité des images.
+  - Ajouter des bordures et des effets aux images.
+
+
+  ### Module 4&#58; Mise en page
+  Ce module explique comment travailler avec les options de mise en page dans Microsoft Word.
+  #### Leçons
+  - Orientation et format de papier
+  - Utilisation de la mise en page en direct et des guides d'alignement
+  - Utilisation des colonnes
+  - Mise en forme avancée
+  - Utilisation des champs
+  - Sauts de page et de section
+
+
+  #### Lab &#58; Exercices de mise en page
+  - Modification de la mise en page
+  - Ajout de sauts de page et de sections
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Définir l'orientation de la page en tant que portrait ou paysage.
+  - Définir la taille d'impression du papier.
+  - De diviser votre texte en plusieurs colonnes.
+  - Ajouter des sauts de page.
+  - Ajouter des sauts de section.
+
+
+  ### Module 5&#58; Travailler avec des illustrations
+  Ce module explique comment travailler avec des illustrations dans Microsoft Word.
+  #### Leçons
+  - Ajout et modification de graphiques
+  - Utilisation d'images animées
+  - Utilisation des formes
+  - Travailler avec des icônes
+  - Utilisation de SmartArt
+  - Création de légendes
+  - Utilisation des blocs de construction
+
+
+  #### Lab &#58; Travailler avec des illustrations Exercices
+  - Travailler avec des graphiques
+  - Travailler avec un clip art
+  - Ajout de formes
+  - Travailler avec Smart Art
+  - Insertion d'un bloc de construction dans un document
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Insérer des graphiques dans des documents Microsoft Word.
+  - Modifier des graphiques dans des documents Microsoft Word.
+  - Utiliser des images clip art pour illustrer vos documents.
+  - Insérer des formes dans des documents Microsoft Word.
+  - Utiliser SmartArt pour illustrer vos documents.
+  - Utiliser des légendes.
+  - Utiliser les blocs de construction Word
+
+  ### Module 6&#58; Visualisation de vos documents
+  Ce module explique comment travailler avec les options d'affichage dans Microsoft Word.
+  #### Leçons
+  - Vues du document
+  - Utilisation du volet de navigation
+  - Fenêtres multiples
+
+
+  #### Lab &#58; Affichage de vos documents Exercices
+  - Utilisation du volet de navigation
+  - Travailler avec des fenêtres multiples
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Afficher et masquer le volet de navigation.
+  - Utiliser le volet de navigation pour accéder rapidement à différentes sections de votre document.
+  - Utiliser le volet de navigation pour réorganiser votre document.
+  - Utiliser le volet de navigation pour effectuer des recherches dans votre document.
+  - Utilisez plusieurs fenêtres pour afficher différentes parties d'un même document en même temps.
+  - Utilisez plusieurs fenêtres pour afficher plusieurs documents en même temps.
+
+  #### Lecture supplémentaire
+  Aucune

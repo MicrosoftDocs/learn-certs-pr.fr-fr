@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Mettre en œuvre des solutions qui tirent parti des atouts de Cosmos DB pour soutenir les solutions analytiques avancées qui nécessitent une acquisition à haut débit, un service à faible latence et une échelle mondiale en combinaison avec des capacités évolutives d'apprentissage automatique, de big data et de traitement en temps réel.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous apprendrez à concevoir une solution de pipeline de données qui exploite Cosmos DB à la fois pour l'ingestion évolutive de données en continu et pour le service distribué à l'échelle mondiale de données pré-calculées et de modèles d'apprentissage automatique. La solution exploite le flux de données de changement de Cosmos DB de concert avec Azure Databricks Delta pour permettre une solution moderne d'entrepôt de données qui peut être utilisée pour créer des solutions de réduction des risques pour l'évaluation des transactions frauduleuses dans une approche batch hors ligne et dans une approche requête/réponse en temps quasi réel.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure, comme décrit dans les rubriques "Résumé" et "Compétences acquises". Les personnes qui participent à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-  
+  ### Module 1&#58; Session de conception de tableau blanc - Analyse avancée en temps réel de Cosmos DB
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de démonstration du concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique - Analyse avancée en temps réel de Cosmos DB
+  #### Leçons
+  - Collecte de données transactionnelles en continu
+  - Comprendre et préparer les données de transaction à l'échelle
+  - Créer et évaluer des modèles de fraude
+  - Mise à l'échelle globale
+  - Reporting

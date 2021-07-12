@@ -1,0 +1,213 @@
+### YamlMime:Course
+title: Microsoft PowerApps
+metadata:
+  title: 'Course 55265-A: Microsoft PowerApps'
+  description: 'Course 55265-A: Microsoft PowerApps'
+uid: course.55265
+courseNumber: '55265-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre quand utiliser PowerApps
+- skill: Décrire les composants de PowerApps et leur utilisation correcte
+- skill: Créer des PowerApps à partir de sources de données existantes
+- skill: Marque PowerApps
+- skill: Personnaliser PowerApps au-delà de la simple utilisation des assistants automatiques
+- skill: Connexion à une série de sources de données, de Excel à Azure SQL.
+- skill: Comprendre la différence entre les applications canevas et les applications pilotées par un modèle
+- skill: intégrer PowerApps à d'autres systèmes Office 365 - notamment Teams et SharePoint Online
+- skill: Administrer et maintenir PowerApps
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- m365
+summary: |-
+  Ce cours présente une décomposition de Microsoft PowerApps sous la direction d'un instructeur. Les étudiants apprendront à concevoir, tester et publier de nouvelles applications qui fonctionnent avec une variété de sources de données. Nous emmènerons les utilisateurs à travers une sélection de leçons bien conçues pour les aider à créer de nouvelles applications pour leur entreprise.
+
+  #### Audience profile
+  Profil du public
+  Ce cours s'adresse à tous les publics, des débutants qui souhaitent personnaliser leurs formulaires de saisie de données dans SharePoint aux utilisateurs avancés qui ont besoin d'utiliser des formules avancées pour fournir des actions plus personnalisées à leurs applications.
+prerequisitesSection: |- 
+  - Aucune expérience préalable de PowerApps n'est requise
+outlineSection: |-
+  ### Module 1&#58; Introduction à PowerApps.
+  Commençons par une introduction à Microsoft PowerApps. Traditionnellement, la création de solutions personnalisées pour une entreprise impliquait l'utilisation d'un langage de codage pour construire une application à partir de zéro. En général, ces solutions ne pouvaient être utilisées qu'au sein de l'entreprise, ce qui faisait de l'utilisation externe de l'application un obstacle majeur à surmonter. Avec PowerApps, nous pouvons désormais non seulement créer facilement des solutions, mais aussi les partager avec les utilisateurs de notre entreprise. Le déploiement se fait en quelques secondes et vous pouvez tester votre propre application sur votre téléphone en un rien de temps. Ce module présente les caractéristiques de PowerApps, ses avantages pour une entreprise et les différentes façons de créer et d'accéder à vos applications sur différents appareils.
+  #### Leçons
+  - Qu'est-ce que PowerApps ?
+  - Les avantages des applications
+  - Comment obtenir PowerApps
+  - Apps Canvas et Apps pilotées par le modèle
+  - Options et coûts des licences
+  - Découvrez PowerApps avec les modèles
+
+
+  #### Laboratoire &#58; Introduction à PowerApps
+  - Essayer Cost Estimator App
+  - Télécharger et examiner l'App Design
+  - Exemple d'application de votre choix
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Décrire quand PowerApps doit être utilisé
+  - Savoir comment accéder à PowerApps
+  - Prendre des décisions de conception en fonction des licences PowerApps
+  - Comprenez qu'il existe deux types d'applications
+  - Être capable d'utiliser des exemples d'applications
+
+
+  ### Module 2&#58; Démarrer avec PowerApps
+  Pour commencer notre voyage à travers le produit PowerApps, nous allons d'abord examiner certains des modèles qui sont disponibles pour visualiser et modifier. Les modèles de Microsoft sont un bon point de départ pour découvrir ce dont le produit est capable et comment il peut être réalisé. Nous profiterons également de l'occasion pour faire une visite de l'éditeur afin que les étudiants se familiarisent avec l'interface qu'ils utiliseront pendant les deux jours de cours. Nous construirons ensuite notre première application à partir d'une source de données statique, en montrant aux étudiants comment tester instantanément leurs modifications dans l'application sans avoir à la publier. Nous verrons également comment configurer les paramètres de l'application et comment accéder à l'application une fois qu'elle a été enregistrée et partagée.
+  #### Leçons
+  - Créer une nouvelle application à partir d'une source de données
+  - Ajouter, modifier et supprimer des contrôles
+  - Introduction aux formules
+  - Tester une application
+  - Paramètres de l'application
+  - Publier et partager des applications
+  - Historique et restauration des versions
+  - Application mobile PowerApps
+
+
+  #### Laboratoire &#58; Mise en route
+  - Créer une application à partir d'une source de données existante
+  - Publier et partager
+  - Afficher une application sur votre appareil mobile
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Créer une application utile à l'aide d'assistants en quelques minutes
+  - Apporter des modifications simples aux applications existantes
+  - Savoir comment les formules sont utilisées dans PowerApps
+  - Pouvoir tester une application avant qu'elle ne soit partagée
+  - Restaurer une version antérieure d'une application en cas de problème
+  - Utiliser l'application mobile pour cosumer une application
+
+
+  ### Module 3&#58; Image de marque et médias
+  Dans notre prochain module, nous examinerons les options disponibles pour les concepteurs qui leur permettent de mettre en œuvre l'image de marque de leur entreprise. Nous traiterons non seulement de l'esthétique de votre application, mais nous vous présenterons également des astuces qui vous permettront de gagner du temps et de maintenir la cohérence de votre image de marque. Nous verrons également comment intégrer des médias dans votre application, ce qui peut être utile si vous envisagez une application susceptible de promouvoir du contenu vidéo.
+  #### Leçons
+  - Moins, c'est plus
+  - Écrans en double
+  - Polices de caractères
+  - Couleurs d'écran et couleurs assorties
+  - Fonds d'écran
+  - Boutons et icônes
+  - Masquer sur minuterie
+  - Taille et alignement par référence
+  - Afficher et masquer sur la minuterie
+
+
+  #### Laboratoire &#58; Image de marque et médias
+  - Fonds d'écran et icônes
+  - Importer des données de classe depuis Excel
+  - Écran de duplication
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Personnalisez l'arrière-plan de vos applications avec des images et des couleurs.
+  - Ajouter des images et des logos à une application
+  - Utilisez les temps pour afficher et masquer les contrôles
+  - Contrôles d'alignement et de taille
+
+
+  ### Module 4&#58; Contrôles PowerApps
+  Jusqu'à présent, nous avons couvert les bases de l'ajout, de la modification et de la suppression de contrôles dans nos applications. Le but de ce module est d'approfondir les catégories de contrôles qui peuvent être utilisés dans un formulaire. Votre instructeur vous fera découvrir chaque contrôle et discutera de son utilité et de sa configuration. Le fait d'aborder le large éventail de contrôles aidera les étudiants à reconnaître quand utiliser le bon contrôle.
+  #### Leçons
+  - Contrôles de texte pour la saisie et l'affichage des données
+  - Contrôles &#58; liste déroulante, boîte combo, sélecteur de date, bouton radio, etc.
+  - Formulaires - Ajoutez et modifiez rapidement les données des sources de données sous-jacentes.
+  - Graphiques &#58; présentez des informations sous forme de graphiques à secteurs, à lignes et à barres.
+
+
+  #### Laboratoire &#58; Construire des applications à partir de rien
+  - Créer une application à partir du modèle vierge
+  - Ajouter des contrôles pour collecter et afficher les données
+  - Ajoutez des formules pour permettre aux contrôles d'interagir.
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Utilisez un large éventail de contrôles pour offrir aux utilisateurs la meilleure expérience de saisie de données.
+  - Modifier les propriétés du contrôle
+  - Utiliser des formules pour faire interagir plusieurs contrôles entre eux Présenter des informations à l'aide de graphiques
+
+  ### Module 5&#58; Sources de données et logique
+  Pour faciliter la conservation et la visualisation des informations commerciales essentielles, les organisations disposent souvent d'une sélection variée d'emplacements pour conserver différents types de données. Cela peut aller des bases de données aux emplacements de stockage de fichiers. PowerApps offre des connexions à une large sélection de sources de données. Nous montrerons aux étudiants comment construire leurs PowerApps afin d'intégrer des données provenant de diverses sources et comment ils peuvent utiliser la source de données commune, un emplacement de stockage unique à PowerApps.
+  #### Leçons
+  - Stockage des données et services
+  - Comment décider de la base de données à utiliser?
+  - Se connecter aux données sur site - Passerelle
+  - Qu'est-ce que la délégation?
+  - Exemples de données spécifiques
+  - Affichage des données
+
+  #### Laboratoire &#58; Source de données et logique
+  - Liste SharePoint connectée à l'application
+  - Flow pour collecter les tweets vers SharePoint
+  - Afficher les tweets dans PowerApps en utilisant le service Twitter
+  - Créer un écran de réponse dans PowerApps
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Se connecter à de nombreuses sources de données, y compris dans le cloud et sur site
+  - Comprendre les coûts financiers liés à l'utilisation de différentes sources de données.
+  - Comprendre quelles sources de données peuvent travailler avec de grandes quantités de données
+  - Afficher les données à l'aide de contrôles
+
+  ### Module 6&#58; Applications pilotées par un modèle
+  Les modules un à cinq ont traité de la manière de travailler avec le type original de PowerApp, connu sous le nom de Canvas App, Microsoft a maintenant introduit un deuxième type d'application, connu sous le nom de model-driven app. Les applications pilotées par un modèle impliquent un processus de développement différent de celui des applications Canvas. Nous allons passer en revue ce processus de développement au cours de ce module.
+
+  Les applications pilotées par modèle peuvent être plus rapides à construire que les applications en canevas, mais elles sont moins personnalisables et ont généralement un coût plus élevé. Savoir quel type d'application utiliser n'est pas toujours une décision simple, nous allons vous montrer les avantages et les inconvénients de chacun.
+  #### Leçons
+  - Qu'est-ce qu'une application guidée par le modèle?
+  - Où mes données seront-elles stockées?
+  - Comment créer une application guidée par le modèle?
+  - Résumé de la comparaison entre Canvas et guidée par le modèle
+
+  #### Laboratoire &#58; Application pilotée par un modèle
+  - Passez en mode guidé par un modèle dans PowerApps
+  - Naviguer dans l'interface de l'application guidé par un modèle
+  - Tester une application modèle
+  - Modifier l'application modèle
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Décrire la différence entre une application canevas et une application guidé par un modèle
+  - Accéder aux applications guidées par un modèle
+  - Modifier des applications guidées par un modèle
+
+  ### Module 7&#58; Intégration de PowerApps
+  PowerApps est conçu pour se connecter facilement à d'autres systèmes d'entreprise pour lire et mettre à jour des informations. Dans ce module, nous aborderons quelques moyens simples d'intégrer PowerApps aux principaux systèmes de Office 365, notamment Teams, SharePoint Online et Flow. Le résultat, est la possibilité d'utiliser une combinaison de systèmes pour créer des solutions pour une variété d'exigences commerciales.
+  #### Leçons
+  - Intégrer PowerApps dans Teams
+  - Intégrer des PowerApps dans SharePoint Online
+  - Lancer Flow à partir d'une PowerApp
+
+  #### Laboratoire &#58; Intégration de PowerApp
+  - Intégrez votre application à MicrosoftTeams
+  - Intégrer votre application dans SharePoint Online
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Savoir comment mettre PowerApps à la disposition des utilisateurs via Teams et SharePoint Online
+  - Comprendre les avantages de l'utilisation de PowerApps avec Flow.
+
+  ### Module 8&#58; Administration et maintenance de PowerApps
+  Dans notre dernier module sur Microsoft PowerApps, nous allons voir comment une entreprise peut gérer ses applications existantes. Cela peut consister à utiliser des analyses pour découvrir les tendances d'utilisation. Nous découvrirons comment exporter et importer des applications, afin qu'elles puissent être réutilisées dans d'autres endroits. Enfin, nous verrons comment les administrateurs de Office 365 peuvent façonner l'expérience PowerApps avec des paramètres de haut niveau qui contribuent à assurer la séparation et la sécurité des données.
+  #### Leçons
+  - Identifier les utilisateurs qui ont utilisé PowerApps
+  - Réutiliser une application dans un autre endroit (passer du test ou du développement à la production)
+  - Examiner l'utilisation de l'application
+  - Empêcher un utilisateur d'utiliser PowerApps
+  - Gérer les environnements
+
+
+  #### Laboratoire &#58; Administration et maintenance
+  - Exporter une application pour l'utiliser dans un autre endroit
+  - Examiner les utilisateurs actuels de PowerApp dans votre environnement de test
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Identifier qui utilise PowerApps dans votre organisation
+  - Empêcher des utilisateurs spécifiques d'utiliser le service PowerApps
+  - Réutiliser ou déplacer des applications existantes
+
+  #### Lectures supplémentaires
+  Aucune
+

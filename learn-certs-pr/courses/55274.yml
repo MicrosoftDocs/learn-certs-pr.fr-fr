@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Advanced Microsoft Word 2019
+metadata:
+  title: 'Course 55274-A: Advanced Microsoft Word 2019'
+  description: 'Course 55274-A: Advanced Microsoft Word 2019'
+uid: course.55274
+courseNumber: '55274-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apprendre à travailler avec les tables des matières.
+- skill: Apprendre à travailler avec les notes de bas de page et les notes de fin de document.
+- skill: Apprendre à insérer des bibliographies et des index.
+- skill: Apprendre à utiliser les commentaires.
+- skill: Apprendre à utiliser le suivi des modifications, y compris l'acceptation et le rejet des modifications.
+- skill: Apprendre à comparer et combiner des documents.
+- skill: Apprendre à utiliser la fusion de courrier et à créer des enveloppes et des étiquettes.
+- skill: Apprendre à protéger des documents.
+- skill: Apprendre à utiliser des signets, à ajouter des filigranes et à personnaliser le ruban.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Dans cette classe de formation Microsoft Word 2019, les étudiants apprennent des techniques avancées, telles que le travail avec des tables des matières, des notes de bas de page et des notes de fin, l'ajout de commentaires, le suivi des modifications, la comparaison et la combinaison de documents, la création d'enveloppes et d'étiquettes, l'utilisation de Mail Merge et la protection des documents. Ce cours est destiné à Word 2019 sur Windows.
+
+  #### Profil du public
+  Ce cours s'adresse aux étudiants ayant des compétences intermédiaires avec Microsoft Word 2019 qui souhaitent acquérir des compétences plus avancées ou aux étudiants qui veulent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  - Expérience de niveau intermédiaire avec Microsoft Word.
+outlineSection: |-
+  ### Module 1&#58; Travailler avec des documents longs
+  Ce module explique comment travailler avec de longs documents dans Microsoft Word.
+  #### Leçons
+  - Ajout d'une table des matières
+  - Mise à jour de la table des matières
+  - Suppression de la table des matières
+  - Notes de bas de page et notes de fin de document
+  - Insertion de citations et d'une bibliographie
+  - Ajout d'un index
+  - Insertion d'une table des figures
+  - Insertion et mise à jour d'une table des autorités
+  - Créer un plan
+
+
+  #### Lab &#58; Travailler avec de longs documents Exercices
+  - Insérer et mettre à jour une table des matières
+  - Travailler avec des notes de bas de page
+  - Insérer des citations et une bibliographie
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter une table des matières à un document Microsoft Word.
+  - Mettre à jour la table des matières.
+  - Ajouter des notes de bas de page à un document Microsoft Word.
+  - Ajouter des notes de fin de document à un document Microsoft Word.
+  - Insérer des citations dans un document Microsoft Word.
+  - Insérer une bibliographie.
+  - Mettre à jour la bibliographie.
+  - Marquer des entrées dans un document.
+  - Insérer un index dans un document Microsoft Word.
+  - Créer un plan dans Word.
+
+
+  ### Module 2&#58; Révision et collaboration sur des documents
+  Ce module explique comment réviser et collaborer sur des documents Microsoft Word.
+  #### Leçons
+  - Ajout de commentaires
+  - Suivi des modifications
+  - Affichage des modifications, des ajouts et des commentaires
+  - Accepter et rejeter les modifications
+
+
+  #### Lab &#58; Exercices de révision et de collaboration
+  - Ajout de commentaires à un document
+  - Suivi des modifications
+  - Affichage de l'annotation
+  - Accepter et rejeter les modifications
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter et utiliser des commentaires.
+  - Suivre les modifications et définir et modifier les options de suivi.
+  - Afficher les modifications, les ajouts et les commentaires.
+  - Utiliser le volet Révision.
+  - Choisir les modifications à afficher.
+  - Accepter et rejeter les modifications.
+
+
+  ### Module 3&#58; Comparer et combiner des documents
+  Ce module explique comment comparer et combiner des documents dans Microsoft Word.
+  #### Leçons
+  - Comparaison de documents
+  - Combinaison de documents
+
+
+  #### Lab &#58; Comparaison et combinaison de documents Exercices
+  - Comparaison de documents
+  - Combinaison de documents
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comparer des documents pour découvrir ce qui a changé entre les différentes versions d'un document.
+  Combiner des documents pour rassembler les révisions apportées par différentes personnes dans un seul document.
+
+  ### Module 4&#58; Gestion des publipostages
+  Ce module explique comment gérer des mailings dans Microsoft Word.
+  #### Leçons
+  - Création d'enveloppes et d'étiquettes
+  - Utilisation de la fusion de courrier
+
+
+  #### Lab &#58; Gestion des publipostages Exercices
+  - Impression d'une enveloppe
+  - Utilisation de Mail Merge
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer et imprimer des enveloppes dans Microsoft Word.
+  - Créer et imprimer des étiquettes dans Microsoft Word.
+  - Utiliser la fusion de courrier pour imprimer ou envoyer des lettres types à plusieurs destinataires.
+  Sélectionner les destinataires de la fusion de courrier à partir d'une liste existante.
+
+  ### Module 5&#58; Protection des documents
+  Ce module explique comment protéger des documents dans Microsoft Word.
+  #### Leçons
+  - Mettre les documents Word en lecture seule
+  - Protection par mot de passe des documents Word
+  - Suppression des métadonnées des fichiers
+  - Restreindre le formatage et l'édition
+
+
+  #### Labo &#58; Protéger un document
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Marquer les documents comme définitifs et les rendre en lecture seule.
+  - Protéger par mot de passe les documents Microsoft Word.
+  - Restreindre les options de mise en forme avant de partager un document avec d'autres personnes.
+  - Restreindre les options d'édition avant de partager un document avec d'autres personnes.
+
+
+  ### Module 6&#58; Fonctions utiles et aléatoires
+  Ce module passe en revue plusieurs fonctions aléatoires et utiles de Microsoft Word.
+  #### Leçons
+  - Utilisation de signets
+  - Ajout de filigranes
+  - Ajout de titres aux sections
+  - Insertion de champs intégrés
+  - Utilisation de la fonction Aller à
+  - Utilisation des macros
+  - Copier des macros d'un document à l'autre
+  - Sécurité des macros
+  - Enregistrement d'une macro
+  - Attribution de touches de raccourci
+  - Personnalisation du ruban
+  - Préparation d'un document pour l'internationalisation et l'accessibilité
+  - Partage
+
+
+  #### Lab &#58; Exercices sur les éléments utiles aléatoires
+  - Utilisation des signets
+  - Ajout de filigranes personnalisés
+  - Enregistrement d'une macro
+  - Personnalisation du ruban
+  - Utilisation du Cloud
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter des signets à un document Microsoft Word et les utiliser pour se déplacer dans le document.
+  - Ajouter des filigranes à un document Microsoft Word.
+  - Ajouter des titres aux sections.
+  - Insérer des champs intégrés.
+  - Utiliser la fonction Aller à.
+  - Personnaliser le ruban.
+  - Préparer un document pour l'internationalisation et l'accessibilité.
+  - Apprendre à utiliser le Cloud
+
+  #### Lecture complémentaire
+  Aucune

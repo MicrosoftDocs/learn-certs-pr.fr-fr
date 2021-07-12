@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Advanced Microsoft Access 2019
+metadata:
+  title: 'Course 55280-A: Advanced Microsoft Access 2019'
+  description: 'Course 55280-A: Advanced Microsoft Access 2019'
+uid: course.55280
+courseNumber: '55280-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les relations entre les bases de données.
+- skill: Travailler avec les relations entre les tables.
+- skill: Travailler avec des requêtes à un niveau avancé.
+- skill: Travailler avec des formulaires à un niveau avancé.
+- skill: Travailler avec les rapports à un niveau avancé.
+- skill: Travailler avec les macros.
+- skill: Compléter l'application de bureau avec le formulaire de navigation.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Cette formation  Advanced Access 2019 s'adresse aux étudiants qui ont l'intention de concevoir des bases de données à un niveau avancé et/ou qui souhaitent améliorer des bases de données Access 2019 ou Access 365 existantes.
+
+  #### Profil du public
+  Ce cours s'adresse aux étudiants qui ont des compétences de base avec Microsoft Access 2019 et qui veulent acquérir des compétences de niveau avancé ou aux étudiants qui veulent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  - Connaissance et compétences de niveau introductif pour travailler avec Microsoft Access.
+outlineSection: |-
+  ### Module 1&#58; Les relations
+  Ce module explique comment travailler avec les relations dans Microsoft Access.
+  #### Leçons
+  - Révision
+  - Intégrité référentielle
+  - Relations
+  - Quelques mots sur les conventions d'appellation
+
+
+  #### Lab &#58; Installer et configurer Windows 7
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre l'intégrité référentielle.
+  - Établir des relations entre les tables.
+
+
+  ### Module 2&#58; Requêtes
+  Ce module explique comment travailler avec des requêtes dans Microsoft Access.
+  #### Leçons
+  - Vue de la conception des requêtes
+  - Revue des requêtes de sélection
+  - Révision des requêtes de sélection avec critères
+  - Opérateurs logiques
+  - Requêtes de paramètres
+  - Requêtes d'action
+
+
+  #### Lab &#58; Exercices sur les requêtes
+  - Création de requêtes de sélection et d'action
+  - Création d'une requête de paramètre
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Travailler avec des requêtes de sélection et d'action.
+  - Travailler avec des opérateurs logiques.
+  - Créer et exécuter des requêtes de sélection, de paramètres, de création de table, d'ajout, de mise à jour et de suppression.
+
+
+  ### Module 3&#58; Fonctions de table
+  Ce module explique comment travailler avec les fonctions de table.
+  #### Leçons
+  - Importation de données
+  - Liaison de tables à partir de sources externes
+  - Importer des tables à partir d'autres bases de données
+  - Tables à partir de modèles et de parties d'application
+
+
+  #### Lab &#58; Exercices sur les fonctions de table
+  - Importation de données depuis Excel
+  - Exporter des données vers Excel
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Importer des données depuis Excel.
+  - Exporter des données vers Excel.
+
+
+  ### Module 4&#58; Formulaires
+  Ce module explique comment travailler avec des formulaires dans Microsoft Access.
+  #### Leçons
+  - Vue de la conception
+  - Mise en forme
+  - Ordre des onglets
+  - Créer des formulaires avec des parties d'application
+  - Création d'un sous-formulaire
+  - Modifier un formulaire
+
+
+  #### Lab &#58; Créer des formulaires
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les parties d'un formulaire.
+  - Ajouter des objets à un formulaire.
+  - Ajouter, déplacer, formater et ordonner des champs sur un formulaire.
+  - Comprendre les contrôles disponibles pour les formulaires.
+  Travailler avec les propriétés des formulaires, les propriétés des sections
+
+  ### Module 5&#58; Rapports
+  Ce module explique comment travailler avec des rapports dans Microsoft Access.
+  #### Leçons
+  - Vue de conception
+  - Sections de rapport
+  - Organisation des champs dans un rapport
+  - Redimensionnement de la section des détails
+  - Regroupement et tri
+  - Définition des propriétés d'un rapport
+  - Champs spéciaux du rapport
+  - Contrôles
+  - Sous-rapports
+  - Parties de l'application
+  - Suppression d'un rapport
+  - Formatage d'un rapport
+
+
+  #### Lab &#58; Création de rapports
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer et formater des rapports Access.
+  - Travailler avec les différentes sections d'un rapport.
+  - Grouper, trier et ajouter des totaux pour les enregistrements d'un rapport.
+  - Travailler avec le constructeur d'expressions.
+  - Travailler avec les feuilles de propriétés.
+
+
+  ### Module 6&#58; Les macros
+  Ce module explique comment travailler avec des macros dans Microsoft Access.
+  #### Leçons
+  - Notions de base sur les macros
+  - Exécution d'une macro
+
+
+  #### Lab &#58; Création de macros simples
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer plusieurs macros simples.
+  - Exécuter des macros.
+
+
+  ### Module 7&#58; Compléter l'application de bureau
+  Ce module explique comment compléter l'application de bureau dans Microsoft Access.
+  #### Leçons
+  - Le formulaire de navigation
+  - Exécution de macros à partir d'un formulaire de navigation
+  - Définition du formulaire de navigation comme formulaire par défaut
+  - Fractionnement de la base de données
+  - Distribution de la base de données frontale
+  - Maintenance de la base de données
+
+
+  #### Lab &#58; Création d'un formulaire de navigation
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer des formulaires de navigation.
+  - Diviser une base de données Access en bases de données frontale et dorsale.
+  - Distribuer un frontal de base de données Access à vos utilisateurs.
+
+  #### Lectures supplémentaires
+  Pour vous aider à vous préparer à ce cours, consultez les ressources suivantes&#58;
+  - Aucune

@@ -1,0 +1,197 @@
+### YamlMime:Course
+title: Intermediate Microsoft Excel 2019
+metadata:
+  title: 'Course 55269-A: Intermediate Microsoft Excel 2019'
+  description: 'Course 55269-A: Intermediate Microsoft Excel 2019'
+uid: course.55269
+courseNumber: '55269-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utiliser des formules et des fonctions.
+- skill: Créer et modifier des graphiques.
+- skill: Convertir, trier, filtrer et gérer des listes.
+- skill: Insérer et modifier des illustrations dans une feuille de calcul.
+- skill: Travailler avec des tables.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Cette classe de formation Intermediate Microsoft Excel 2019 est destinée aux étudiants qui souhaitent faire progresser leurs compétences en apprenant à travailler avec des formules, des listes et des illustrations avancées. Les étudiants travailleront également avec des graphiques et un formatage avancé, notamment des styles.
+
+  #### Profil du public
+  Ce cours est destiné aux étudiants qui ont des compétences de base avec Microsoft Excel 2019 et qui souhaitent acquérir des compétences de niveau intermédiaire ou aux étudiants qui souhaitent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une expérience de base avec Excel
+outlineSection: |-
+  ### Module 1&#58; Formules avancées
+  Ce module explique comment travailler avec des formules avancées dans Microsoft Excel.
+  #### Leçons
+  - Utilisation de plages nommées dans les formules
+  - Utilisation de formules couvrant plusieurs feuilles de calcul
+  - Saisie d'une formule utilisant des données dans plusieurs feuilles de calcul
+  - Utilisation de la fonction IF
+  - Utilisation de la fonction PMT
+  - Utilisation de la fonction LOOKUP
+  - Utilisation de la fonction VLOOKUP
+  - Utilisation de la fonction HLOOKUP
+  - Utilisation de la fonction CONCAT
+  - Utilisation de la fonction TRANSPOSE
+  - Utilisation des fonctions PROPER, UPPER et LOWER
+  - Utilisation de la fonction PROPER
+  - Utilisation des fonctions LEFT, RIGHT et MID
+  - Utilisation des fonctions LEFT et RIGHT
+  - Utilisation des fonctions de DATE
+  - Utilisation des fonctions YEAR, MONTH et DAY
+  - Création de scénarios
+
+
+  #### Laboratoire &#58; Exercices sur les formules avancées
+  - Utilisation de plages nommées dans les formules
+  - Saisie d'une formule utilisant des données dans plusieurs feuilles de calcul
+  - Utilisation de la fonction IF
+  - Utilisation de la fonction PMT
+  - Utilisation de la fonction VLOOKUP
+  - Utilisation de la fonction CONCAT
+  - Utilisation de la fonction PROPER
+  - Utilisation des fonctions LEFT et RIGHT
+  - Utilisation des fonctions YEAR, MONTH et DAY
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Nommer et étiqueter les cellules et les plages de cellules.
+  - Utilisez des noms et des étiquettes dans les formules.
+  - Créez des formules qui couvrent plusieurs feuilles de calcul.
+  - Utiliser la fonction conditionnelle IF et ses variantes dans les formules.
+  - Utilisez la fonction PMT pour calculer les paiements des prêts.
+  - Utilisez la fonction LOOKUP.
+  - Utilisez la fonction VLOOKUP.
+  - Utilisez la fonction HLOOKUP.
+  - Utilisez la fonction CONCAT pour joindre le contenu de plusieurs cellules.
+  - Utilisez la fonction TRANSPOSE.
+  - Utilisez les fonctions PROPER, UPPER et LOWER pour modifier la casse du texte.
+  - Utilisez les fonctions LEFT, RIGHT et MID pour retourner les caractères du début ou de la fin d'une chaîne, ou un nombre spécifique de caractères de texte.
+  - Utilisez diverses fonctions de date.
+
+
+  ### Module 2&#58; Travailler avec des listes
+  Ce module explique comment travailler avec des listes.
+  #### Leçons
+  - Convertir une liste en tableau
+  - Suppression des doublons dans une liste
+  - Tri des données dans une liste
+  - Filtrage des données dans une liste
+  - Ajout de sous-totaux à une liste
+
+
+  #### Laboratoire &#58; Travailler avec des listes Exercices
+  - Convertir une liste en tableau
+  - Suppression des doublons dans une liste
+  - Tri des données dans une liste
+  - Filtrage des données dans une liste
+  - Ajout de sous-totaux à une liste
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Convertir les données en tableaux.
+  - Supprimez les doublons des tables.
+  - Trier les données dans Excel.
+  - Filtrez les données dans Excel.
+  - Utilisez des sous-totaux pour totaliser automatiquement les données liées.
+  - Données groupées et non groupées.
+
+
+  ### Module 3&#58; Travailler avec des illustrations.
+  Ce module explique comment travailler avec des illustrations dans Microsoft Excel.
+  #### Leçons
+  - Travailler avec des images clipart
+  - Utilisation des formes
+  - Ajouter des formes
+  - Travailler avec des icônes
+  - Travailler avec SmartArt
+  - Utilisation de Office Ink
+
+
+  #### Laboratoire &#58; Travailler avec des illustrations Exercices
+  - Travailler avec des images clipart
+  - Ajouter des formes
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Ajoutez des images à vos feuilles de travail.
+  - Utilisez des images clipart pour illustrer vos feuilles de travail.
+  - Insérez des formes dans des feuilles de calcul Microsoft Excel.
+  Utilisez SmartArt pour illustrer vos feuilles de travail.
+
+  ### Module 4&#58; Visualisation de vos données
+  Ce module explique comment travailler avec différents types de graphiques dans Microsoft Excel.
+  #### Leçons
+  - Insertion de graphiques
+  - Utilisation de la fonction de recommandation de graphiques
+  - Modifier les graphiques
+  - Utilisation des outils 
+  - Utilisation de l'outil d'analyse rapide
+  - Ajouter et formater des objets
+  - Créer un modèle de graphique personnalisé
+
+
+  #### Laboratoire &#58; Visualisation de vos données Exercices
+  - Insertion de graphiques
+  - Modifier les graphiques
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Créez des graphiques qui vous permettent de visualiser vos données.
+  - Choisissez les données à afficher dans vos graphiques.
+  - Afficher et masquer les étiquettes de données.
+  - Afficher et masquer la légende.
+  - Affiche et cache le titre du graphique.
+  - Ajoutez une image ou une forme à un tableau.
+  - Modifiez la façon dont le texte s'affiche dans un graphique.
+  - Changez la couleur de remplissage d'un graphique.
+  - Ajouter et formater des objets dans une feuille de calcul.
+  - Créez un modèle de graphique personnalisé.
+
+
+  ### Module 5&#58; Travailler avec des tableaux
+  Ce module explique comment travailler avec des tableaux dans Microsoft Excel.
+  #### Leçons
+  - Formatage des données sous forme de tableau
+  - Déplacement entre les tableaux et les plages
+  - Modifier les tableaux
+  - Définir les titres
+  - Création et modification d'un tableau dans Excel
+
+
+  #### Laboratoire &#58; Création et modification d'un tableau dans Excel
+  - Création et modification d'un tableau dans Excel
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Formatez les données dans Excel sous forme de tableau.
+  - Modifier des tableaux Excel
+
+
+  ### Module 6&#58; Mise en forme avancée
+  Ce module explique comment travailler avec des fonctions de formatage avancées dans Microsoft Excel.
+  #### Leçons
+  - Application de la mise en forme conditionnelle
+  - Utilisation de la mise en forme conditionnelle
+  - Travailler avec des styles
+  - Création et modification de modèles
+
+
+  #### Laboratoire &#58; Exercices de formatage avancé
+  - Utilisation de la mise en forme conditionnelle
+  - Travailler avec des styles
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Utilisez la mise en forme conditionnelle pour afficher les cellules différemment en fonction de leurs valeurs.
+  - Mettez rapidement en forme les tableaux à l'aide de styles.
+  - Formater les cellules à l'aide de styles
+
+  #### Lectures complémentaires
+  Pour vous aider à vous préparer à ce cours, consultez les ressources suivantes&#58;
+  - Aucune

@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Hybrid identity'
+metadata:
+  title: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+  description: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+uid: course.40573
+courseNumber: '40573-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir des réseaux virtuels dans Azure avec plusieurs sous-réseaux pour filtrer et contrôler le trafic réseau.
+- skill: Créer un réseau virtuel et provisionner les sous-réseaux.
+- skill: Créer des tables de routes avec les routes requises.
+- skill: Construire une boîte de saut de gestion.
+- skill: Configurer les pare-feu pour contrôler le flux de trafic.
+- skill: Configurer la connectivité site à site.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous apprendrez à installer et à configurer une solution d'identité hybride qui intègre une solution d'identité sur site existante avec Azure. Vous apprendrez à sécuriser le réseau virtuel en déployant une architecture virtuelle de réseau et à configurer les règles de pare-feu et les tables de routage. En outre, vous configurerez l'accès au réseau virtuel avec une boîte de saut et une connexion VPN site à site.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure, comme décrit dans les rubriques "Résumé" et "Compétences acquises".  Les personnes qui participent à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+prerequisitesSection: |-
+  Le contenu de l'atelier suppose une expertise architecturale de niveau 300 en matière de conception d'infrastructures et de solutions. Nous suggérons aux étudiants de suivre ce prérequis avant de participer à cet atelier.
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Module 1&#58; Session de conception sur tableau blanc - Identité hybride
+  Dans cet atelier, vous apprendrez à installer et à configurer une solution d'identité hybride qui intègre une solution d'identité sur site existante avec Azure. Vous apprendrez à sécuriser le réseau virtuel en déployant une appliance virtuelle réseau et à configurer les règles de pare-feu et les tables de routage. En outre, vous configurerez l'accès au réseau virtuel avec une boîte de saut et une connexion VPN site à site.
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de démonstration de concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique - Identité hybride
+  Dans ce laboratoire pratique, vous allez installer et configurer un certain nombre de scénarios d'identité hybride différents. Les scénarios impliquent une forêt Active Directory à domaine unique nommée contoso.local, qui, dans cet environnement de laboratoire, se compose (pour des raisons de simplicité) d'un contrôleur de domaine unique nommé DC1 et d'un serveur membre de domaine unique nommé APP1. L'objectif est d'explorer les fonctionnalités liées à Azure AD qui vous permettent d'intégrer Active Directory à Azure Active Directory, d'optimiser l'authentification et l'autorisation hybrides et de fournir un accès sécurisé aux ressources sur site à partir d'Internet pour les utilisateurs de l'organisation et les utilisateurs membres d'organisations partenaires.
+  #### Leçons
+  - Intégrer Active Directory Forest à un locataire Azure Active Directory.
+  - Gérer l'authentification, l'autorisation et le contrôle d'accès dans des scénarios hybrides.
+  - Configurer l'accès aux applications dans les scénarios hybrides.

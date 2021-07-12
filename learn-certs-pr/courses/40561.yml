@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Machine Learning'
+metadata:
+  title: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+  description: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+uid: course.40561
+courseNumber: '40561-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Les capacités et les solutions de mise en œuvre de Azure Machine Learning et de Azure Databricks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Dans cette session de conception de tableau blanc, vous travaillerez avec un groupe pour concevoir et mettre en œuvre une solution qui combine Azure Databricks avec le service Azure Machine Learning pour construire, former et déployer les modèles d'apprentissage automatique et d'apprentissage profond. Vous apprendrez à utiliser l'apprentissage automatique, la gestion du cycle de vie des modèles, de la formation au déploiement, dans des scénarios d'inférence par lots et en temps réel, et à construire des modèles d'apprentissage profond pour le Natural Language Processing (NLP) dans la classification de textes et la prévision par rapport à des données de séries chronologiques. Enfin, vous apprendrez à comparer des données avec PyTorch et Keras pour l'apprentissage profond.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure, comme décrit dans les rubriques "Résumé" et "Compétences acquises". Les personnes qui participent à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc - Apprentissage automatique
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de démonstration du concept
+  - Présenter la solution
+
+  ### Module 2&#58; Laboratoire pratique - Apprentissage automatique
+  #### Leçons
+  - Création d'un modèle de prévision à l'aide de l'apprentissage automatique
+  - Comprendre le modèle de prévision généré par ML en utilisant l'explicabilité du modèle.
+  - Création d'un modèle d'apprentissage profond (RNN) pour les données de séries chronologiques et enregistrement du modèle
+  - Utilisation d'un modèle de prévision pour la notation de la télémétrie en continu
+  - Création d'un modèle de classification de texte par apprentissage profond

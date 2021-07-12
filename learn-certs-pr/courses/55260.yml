@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Customer Service
+metadata:
+  title: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+  description: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+uid: course.55260
+courseNumber: '55260-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les fonctionnalités et les outils qui existent dans Microsoft Dynamics 365 pour les CSR et les gestionnaires de services.
+- skill: Connaître les étapes du processus de gestion des cas de service dans Microsoft Dynamics 365.
+- skill: Comprendre les principes fondamentaux de la gestion des cas. Être capable de suivre, gérer et résoudre les demandes de service client à l'aide des enregistrements de cas dans Microsoft Dynamics 365.
+- skill: Savoir comment attribuer, résoudre, réactiver, annuler et supprimer des enregistrements de cas.
+- skill: Comprendre l'importance des accords de niveau de service et savoir comment créer un calendrier client et appliquer les SLA aux enregistrements des clients et des cas par le biais des droits.
+- skill: Comment installer et configurer les files d'attente et utiliser les files d'attente pour collaborer sur des cas avec d'autres CSR et Teams.
+- skill: Comment implémenter les règles de routage des cas et utiliser les éléments de file d'attente dans les processus.
+- skill: Comprendre le processus de création et de gestion des articles de la base de connaissances.
+- skill: Connaître le processus d'approbation de la base de connaissances
+- skill: Comment faire des recherches dans la base de connaissances et relier les articles de connaissances aux dossiers de cas
+- skill: Comment approvisionner et naviguer dans le Interactive Service Hub
+- skill: Interagir efficacement avec les filtres, les visualisations et les tableaux de bord du centre de services interactifs.
+- skill: Créer et gérer des articles de connaissance dans le centre de services interactifs.
+- skill: Effectuer la gestion des cas dans le centre de service interactif
+- skill: Explorer les rapports de service et créer un rapport de service personnalisé à l'aide de l'assistant de rapport dans Microsoft Dynamics 365.
+- skill: Comprendre l'importance de la gestion des objectifs et des paramètres de service dans Microsoft Dynamics 365.
+- skill: Explorer les graphiques et tableaux de bord de service et créer un tableau de bord de service personnalisé dans Microsoft Dynamics 365.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Ce cours permet aux étudiants d'acquérir une expérience pratique détaillée des fonctions et composants de service de Microsoft Dynamics 365.
+
+  Les participants à ce cours obtiendront une compréhension approfondie du processus de gestion des cas de service dans Dynamics 365, y compris l'apprentissage du suivi et de la résolution des demandes des clients avec les enregistrements de cas, la collaboration sur les questions en utilisant les files d'attente, l'utilisation des accords de niveau de service (SLA) pour gérer les droits de service et l'utilisation de la base de connaissances pour résoudre les problèmes des clients plus rapidement. Le Hub de service interactif et les fonctions d'analyse de service telles que les rapports de service, la gestion des objectifs de service, les graphiques et tableaux de bord de service sont également présentés dans ce cours.
+
+  Le cours s'applique aux éditions Business et Enterprise de Dynamics 365 ainsi qu'aux déploiements en ligne et sur site.
+
+  #### Profil du public
+  Ce cours est destiné aux représentants du service client (CSR), aux responsables de service et aux utilisateurs finaux qui s'intéressent aux composants de service de Dynamics 365. Les étudiants doivent avoir une connaissance pratique de Microsoft Dynamics 365 ou de Microsoft Dynamics CRM. Au minimum, les étudiants doivent suivre le cours préalable "Introduction to Microsoft Dynamics 365".
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une connaissance pratique de Microsoft Dynamics 365 ou Microsoft Dynamics CRM OU
+  - Réussir le cours " Introduction to Microsoft Dynamics 365".
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  Ce module permet aux participants de se familiariser avec le concept de service à la clientèle dans l'environnement Microsoft.
+  Dynamics 365.
+  #### Leçons
+  - Examiner les scénarios courants en matière de service à la clientèle
+  - Introduction au service dans Dynamics 365
+  - La plateforme Dynamics 365
+  - Principes fondamentaux de Dynamics 365 Service
+  - Considérations de sécurité
+  - Où trouver de l'aide
+  - Autres lectures et ressources
+
+
+  #### Laboratoire &#58; Service dans Dynamics 365 Orientation
+  - Explorez les fonctionnalités de service de Dynamics 365
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre le processus de service à la clientèle en ce qui Dynamics 365 Service App.
+  - Se familiariser avec les fonctionnalités de service de Dynamics 365 App.
+  - Comprendre l'impact de la configuration de la sécurité sur Dynamics 365 Service App.
+  - Savoir où obtenir de l'aide pour naviguer et utiliser Dynamics 365 Service App.
+  - Connaître les lectures complémentaires et les ressources disponibles pour les utilisateurs.
+
+
+  ### Module 2&#58; Gestion de cas
+  Ce module présente le processus de gestion des cas de service dans Microsoft Dynamics 365. Nous examinons également
+  les différentes étapes qu'un dossier peut franchir au cours de sa durée de vie, et la manière dont les accords de niveau de service peuvent
+  être utilisé avec les cas pour définir et suivre les droits de service.
+  #### Leçons
+  - Le processus de gestion des cas
+  - Travailler avec des dossiers de cas
+  - Travailler avec le formulaire de cas
+  - Attribution et acheminement des cas
+  - Cas et activités
+  - Résoudre les affaires
+  - Réactivation, annulation et suppression d'affaires
+  - Accords de niveau de service
+
+
+  #### Laboratoire &#58; Travailler avec des cas
+  - Créer un enregistrement de cas
+  - Attribuer un enregistrement de cas
+  - Résoudre un enregistrement de cas
+  - Réactiver un enregistrement de cas
+  - Annuler un enregistrement de cas
+
+
+  #### Laboratoire &#58; Accords et cas de niveau de service
+  - Créer un calendrier client pour le SLA
+  - Créer un nouvel accord de niveau de service
+  - Activer un accord de niveau de service
+  - Créer une habilitation
+  - Relier un cas à un accord de niveau de service
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre le processus de résolution des cas en ce qui concerne Dynamics 365 Service App.
+  - Savoir comment créer, affecter, gérer et résoudre des dossiers de cas.
+  - Comprendre l'importance des dossiers d'activité de cas connexes.
+  - Travailler avec les accords de niveau de service et les droits des clients.
+
+
+  ### Module 3&#58; Travailler avec des files d'attente
+  Ce module présente les concepts des files d'attente de services dans Microsoft Dynamics 365. Nous examinons les scénarios de service courants pour lesquels les files d'attente peuvent être utiles, et nous suivons le processus de création et de gestion des files d'attente. Nous verrons également comment les règles de workflow et de routage peuvent automatiser l'attribution des cas en utilisant les files d'attente.
+  #### Leçons
+  - Introduction aux files d'attente de services
+  - Scénarios courants de files d'attente de services
+  - Création et gestion des files d'attente
+  - Travailler avec les éléments de la file d'attente
+  - Règles de routage des cas
+  - Processus et files d'attente
+
+
+  #### Laboratoire &#58; Créer une file d'attente de routage de cas
+  - Création de files d'attente
+  - Créer une règle d'acheminement des cas
+  - Acheminer un cas vers une file d'attente
+  - Travailler avec des files d'attente et des éléments de file d'attente
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les avantages des files d'attente et la façon dont elles sont utilisées dans le processus de résolution des cas.
+  - Ajouter des enregistrements aux files d'attente et gérer les éléments de la file d'attente.
+  - Mettre en œuvre des règles de routage des cas pour automatiser l'attribution des cas.
+  - Automatiser la gestion des éléments de la file d'attente en utilisant des processus.
+
+
+  ### Module 4&#58; Utilisation de la base de connaissances.
+  Dans ce module, nous allons commencer à étudier la base de connaissances dans Microsoft Dynamics 365. Nous verrons comment la base de connaissances s'intègre dans le processus de gestion des services, nous présenterons les modèles d'articles de la base de connaissances et nous examinerons le processus d'approbation des articles. Enfin, nous terminons par la recherche dans la base de connaissances et la mise en relation des articles avec les enregistrements de cas.
+  #### Leçons
+  - Introduction à la base de connaissances
+  - Concepts de la base de connaissances
+  - Travailler avec des articles
+  - Recherche dans la base de connaissances
+  - Envoyer un article de connaissance par e-mail
+
+
+  #### Laboratoire &#58; Créer des articles de la base de connaissances
+  - Créer un modèle d'article
+  - Mise à jour de l'arbre des sujets
+  - Créer un nouvel article de la base de connaissances
+  - Soumettre un article de la base de connaissances pour approbation
+  - Rejeter un article de la base de connaissances
+  - Approuver un article de la base de connaissances
+
+
+  #### Laboratoire &#58; Créer un cas et interagir avec la base de connaissances
+  - Créer un nouveau cas
+  - Relier un article de la base de connaissances à un cas
+  - Envoyer par courriel un article de la base de connaissances à un client
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Travailler avec la base de connaissances dans Dynamics 365.
+  - Créer et gérer les articles de la base de connaissances et les modèles d'articles.
+  - Familiarisez-vous avec le processus d'approbation des articles.
+  - Rechercher dans la base de connaissances pour résoudre un enregistrement de cas.
+  - Envoyez un article par courriel à un client pour résoudre un enregistrement de cas.
+
+
+  ### Module 5&#58; Le centre de service interactif
+  Ce module présente comment les CSR et les responsables de service peuvent bénéficier des fonctionnalités fournies par le centre de service interactif. Nous examinons les contrôles riches et les flux d'informations dynamiques présentés par cette interface alternative à Microsoft Dynamics 365. Enfin, nous examinons les approches alternatives de la gestion des cas, des articles de connaissance et du suivi des informations de service.
+  #### Leçons
+  - Introduction au centre de services interactif
+  - Le tableau de bord de niveau 1
+  - Le tableau de bord de niveau 2
+  - Le tableau de bord Mes connaissances
+  - Le tableau de bord du Knowledge Manager
+  - Travailler avec des cas dans le Hub
+  - Travailler avec des articles de connaissance dans le Hub
+  - Travailler avec des visualisations et des filtres dans le Hub
+
+
+  #### Laboratoire &#58; Utilisation du centre de services interactif
+  - Explorez le centre de services interactif
+  - Gérer les flux dans le Interactive Service Hub
+  - Résoudre un cas dans le centre de service interactif
+  - Créer un article KB dans le Interactive Service Hub
+  - Gérer les articles de la KB dans le centre de service interactif
+  - Relier un cas à un article KB du centre de service interactif
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Familiarisez-vous avec le centre de service interactif de Dynamics 365.
+  - Interagir avec les tableaux de bord, flux, indicateurs et filtres du centre de services interactifs.
+  - Gérer les dossiers de cas par le biais du centre de service interactif.
+  - Travaillez avec les articles de la base de connaissances par le biais du centre de service interactif.
+
+
+  ### Module 6&#58; Analyse des services
+  Ce module examine les différentes méthodes disponibles pour analyser les informations de service qui sont stockées dans Microsoft Dynamics 365. Nous examinons les rapports de service prêts à l'emploi et le processus de création d'un rapport personnalisé à l'aide de Dynamics 365 Report Wizard. Ce module présente également le concepteur de graphiques et de tableaux de bord, ainsi que l'examen des tableaux de bord de service prêts à l'emploi pour analyser les données de service.
+  #### Leçons
+  - Introduction à l'analyse des services dans Dynamics 365
+  - Les rapports de service
+  - L'assistant de rapport
+  - Travailler avec des graphiques de service
+  - Travailler avec les tableaux de bord des services
+  - Travailler avec des objectifs et des mesures de service
+
+
+  #### Laboratoire &#58; Explorez les rapports de service
+  - Exploration de l'affaire Rapport du tableau récapitulatif
+  - Exploration du rapport sur les cas négligés
+
+
+  #### Laboratoire &#58; Objectifs et paramètres de service
+  - Créer des objectifs pour l'équipe de service
+  - Créer une vue personnelle
+  - Afficher les objectifs et le tableau des ventes
+
+
+  #### Laboratoire &#58; Explorer les graphiques et tableaux de bord du service
+  - Explorez les études de cas
+  - Créer un tableau de service personnalisé
+  - Explorer les tableaux de bord des services
+  - Créer un tableau de bord de service personnalisé
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les différentes façons d'analyser les données de service dans Dynamics 365.
+  - Utilisez les rapports de service "prêts à l'emploi" de Dynamics 365.
+  - Créez un rapport de service personnalisé à l'aide de l'assistant de rapport.
+  - Travailler avec les graphiques et tableaux de bord de service.
+  Créer des objectifs de service et des visualisations de KPI dans Dynamics 365.
+  
+  #### Lectures complémentaires

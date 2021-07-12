@@ -1,0 +1,187 @@
+### YamlMime:Course
+title: Introduction to Microsoft Word 2019
+metadata:
+  title: 'Course 55272-A: Introduction to Microsoft Word 2019'
+  description: 'Course 55272-A: Introduction to Microsoft Word 2019'
+uid: course.55272
+courseNumber: '55272-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apprendre à créer et à modifier des documents Microsoft Word.
+- skill: Apprendre à connaître le Ruban.
+- skill: Apprendre à connaître l'onglet Fichier.
+- skill: Apprendre à créer de nouveaux documents et à utiliser des modèles Word.
+- Skill: Apprendre à formater des documents Word.
+- Skill: Apprendre à ajouter des numéros de page, des en-têtes et des pieds de page, ainsi que l'orthographe et la grammaire.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Cette formation Introduction to Microsoft Word 2019 est conçue pour les étudiants qui souhaitent travailler pour la première fois avec Microsoft Word sous Windows. Les étudiants apprendront à créer, modifier, mettre en forme et imprimer des documents Microsoft Word.
+
+  #### Profil du public
+  Ce cours s'adresse aux étudiants qui connaissent peu ou pas du tout Microsoft Word 2019 ou aux utilisateurs de Word plus expérimentés qui souhaitent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  - Familiarité avec l'utilisation d'un ordinateur personnel, d'une souris et d'un clavier.
+  - À l'aise dans l'environnement Windows.
+  - Capacité à lancer et fermer des programmes, à naviguer vers des informations stockées sur l'ordinateur et à gérer des fichiers et des dossiers.
+outlineSection: |-
+  ### Module 1&#58; Création d'un document Microsoft Word
+  Ce module explique comment commencer à utiliser Microsoft Word.
+  #### Leçons
+  - Démarrage de Microsoft Word
+  - Création d'un document
+  - Enregistrement d'un document
+  - Importation d'un fichier
+  - La barre d'état
+  - Fermeture d'un document
+
+
+  #### Lab &#58; Créer un document Microsoft Word
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Démarrer Microsoft Word.
+  - Créer un document Microsoft Word.
+  - Enregistrer un document Microsoft Word.
+  - Utiliser la barre d'état.
+  - Fermer un document Microsoft Word.
+
+
+  ### Module 2&#58; Le ruban
+  Ce module explique comment travailler avec le Ribbon dans Microsoft Word.
+  #### Leçons
+  - Le ruban
+  - Onglets
+  - Groupes
+  - Commandes
+
+
+  #### Lab &#58; Exploration du ruban
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser les onglets.
+  - Utiliser les groupes.
+  - Utiliser les commandes.
+
+  Comprendre que les groupes et les commandes se trouvent sur quels onglets.
+
+  ### Module 3&#58; L'affichage en coulisses
+  Ce module explique comment travailler avec la vue Backstage.
+  #### Leçons
+  - Introduction à la vue Backstage
+  - Ouverture d'un document
+  - Nouveaux documents et modèles Word
+  - Configuration des documents à imprimer
+  - Ajout de votre nom à Microsoft Word
+  - Adding Values to Document Properties
+  - Travailler avec des versions sauvegardées automatiquement de documents
+
+
+  #### Lab &#58; Exercices sur la vue des coulisses
+  - Ouvrir un document
+  - Rédiger une lettre de remerciement à l'aide d'une lettre type
+  - Imprimer un document
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - D'apprendre à connaître la vue Backstage.
+  - Ouvrir un document Microsoft Word.
+  - de commencer un nouveau document Microsoft Word
+  - Utiliser des modèles Microsoft Word.
+  - Imprimer un document Microsoft Word.
+  - Personnaliser votre copie de Microsoft Word.
+
+
+  ### Module 4&#58; La barre d'outils Accès rapide
+  Ce module explique comment travailler avec la barre d'outils Accès rapide dans Microsoft Word.
+  #### Leçons
+  - Ajout de commandes courantes
+  - Ajout de commandes supplémentaires avec la boîte de dialogue Personnaliser
+  - Ajout de commandes ou de groupes sur le ruban
+  - Placement
+
+
+  #### Lab &#58; Personnaliser la barre d'outils d'accès rapide
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter des commandes courantes à la barre d'outils Accès rapide.
+  - Ajouter des commandes supplémentaires à la barre d'outils Accès rapide.
+
+  Déplacer la barre d'outils Accès rapide.
+
+  ### Module 5&#58; Mise en forme des documents Microsoft Word
+  Ce module explique comment formater les documents Microsoft Word.
+  #### Leçons
+  - Sélection du texte
+  - Sélection des polices
+  - Utilisation des polices
+  - Utilisation des listes
+  - Insertion d'un hyperlien dans un document
+  - Utiliser des styles
+  - Utilisation des thèmes
+  - Utiliser la règle
+  - Définir les marges
+
+
+  #### Lab &#58; Exercices de formatage
+  - Utilisation des polices
+  - Travailler avec des listes
+  - Insertion d'un hyperlien
+  - Appliquer et créer des styles personnalisés
+  - Utiliser des onglets
+  - Définir les marges
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter, supprimer et modifier des polices dans des documents Microsoft Word.
+  - Travailler avec des listes.
+  - Ajouter des liens hypertextes dans un document.
+  - Appliquer des styles dans des documents Microsoft Word.
+  - Utiliser des thèmes.
+  - Utiliser la règle dans Microsoft Word.
+  - Définir les marges dans Microsoft Word.
+
+
+  ### Module 6&#58; Édition de documents
+  Ce module explique comment modifier des documents dans Microsoft Word.
+  #### Leçons
+  - Rechercher
+  - Rechercher et remplacer
+  - Conseils pour la recherche et le remplacement
+  - Ajout de texte à un document
+  - Utilisation du presse-papiers
+
+
+  #### Lab &#58; Exercices d'édition de documents
+  - Utilisation de la fonction Rechercher et Remplacer
+  - Utilisation du presse-papiers
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Localiser des informations dans votre document à l'aide de la fonction Rechercher.
+  - Utiliser la fonction Rechercher et Remplacer pour remplacer rapidement des mots ou des phrases par d'autres mots ou phrases.
+  - Utiliser les commandes Couper, Copier, Coller et Format Painter pour modifier des documents.
+
+
+  ### Module 7&#58; Finalisation des documents Microsoft Word
+  Ce module explique comment finaliser des documents Microsoft Word.
+  #### Leçons
+  - Ajout de numéros de page
+  - En-têtes et pieds de page
+  - Vérification de l'orthographe et de la grammaire
+
+
+  #### Lab &#58; Finalisation de documents Microsoft Word Exercices
+  - Ajout de numéros de page
+  - Utilisation d'en-têtes et de pieds de page
+  - Vérification de l'orthographe et de la grammaire
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Ajouter des numéros de page à un document Microsoft Word.
+  - Ajouter et personnaliser des en-têtes et des pieds de page.
+  - Trouver et corriger des fautes d'orthographe.
+  - Trouver et corriger des fautes de grammaire.
+
+  #### Lecture complémentaire
+  Aucune

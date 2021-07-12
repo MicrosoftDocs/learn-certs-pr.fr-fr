@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Securing the IoT end to end'
+metadata:
+  title: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+  description: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+uid: course.40564
+courseNumber: '40564-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Concevoir une solution IoT complète et sécurisée pour l'industrie pétrolière et gazière.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Dans cet atelier, vous examinerez le processus de conception et de mise en œuvre d'une solution IoT de production pétrolière et gazière sécurisée de bout en bout en suivant les meilleures pratiques. À l'issue de cet atelier, vous serez mieux à même de concevoir une solution IoT de production pétrolière et gazière complète et sécurisée.
+
+  #### Profil du public
+  Cet atelier est destiné aux Cloud Architects et aux professionnels IT qui ont une expertise architecturale de la conception d'infrastructures et de solutions dans les technologies du cloud et qui souhaitent en savoir plus sur Azure et les services Azure, comme décrit dans les rubriques "Résumé" et "Compétences acquises". Les personnes qui participent à cet atelier doivent également avoir de l'expérience dans d'autres technologies de non-Microsoft cloud, satisfaire aux conditions préalables du cours et vouloir suivre une formation polyvalente sur Azure.
+outlineSection: |-
+  ### Module 1&#58; Session de conception de tableau blanc - Sécuriser IoT de bout en bout
+  #### Leçons
+  - Examiner l'étude de cas du client
+  - Concevoir une solution de démonstration du concept
+  - Présenter la solution
+
+
+  ### Module 2&#58; Laboratoire pratique - Sécuriser IoT de bout en bout
+  #### Leçons
+  - Sécuriser et configurer le IoT Hub et le Device Provisioning Service
+  - Inscription et approvisionnement des dispositifs IoT
+  - Installation et configuration de IoT Edge
+  - Installation de Azure Security IoT Agent
+  - Simulation d'attaques IoT
+  - Configurer la sécurité et les alertes

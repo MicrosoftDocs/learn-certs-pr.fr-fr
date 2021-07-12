@@ -1,0 +1,206 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Sales
+metadata:
+  title: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+  description: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+uid: course.55258
+courseNumber: '55258-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendre les fonctionnalités et les outils qui existent dans Microsoft Dynamics 365 pour les SR et les directeurs des ventes
+- skill: Connaître les étapes du processus de commande client dans Microsoft Dynamics 365
+- skill: Comprendre les principes fondamentaux de la gestion des pistes et des opportunités. Être capable de suivre, gérer, qualifier les pistes et les convertir en opportunités et en dossiers clients connexes dans Microsoft Dynamics 365
+- skill: Savoir comment disqualifier et annuler des pistes, et convertir des enregistrements d'activité en pistes et en opportunités.
+- skill: Comprendre comment collaborer sur les opportunités avec d'autres SR et clôturer les enregistrements d'opportunités comme gagnées et perdues.
+- skill: Être capable de suivre les concurrents et les parties prenantes
+- skill: Comprendre comment visualiser les activités de résolution
+- skill: Ajouter des produits et des produits à inscrire dans les opportunités
+- skill: Créer et maintenir un référentiel de produits, d'ensembles de produits et de familles de produits dans le catalogue de produits
+- skill: Configurer des groupes d'unités, des listes de prix et des listes de rabais
+- skill: Travailler avec les propriétés des produits et visualiser une hiérarchie de produits
+- skill: Créer des devis et ajouter des produits
+- skill: Travailler avec le processus de commande client pour convertir des devis en commandes et en factures
+- skill: Exécuter les commandes et gérer les paiements des factures
+- skill: Explorer les rapports de vente et créer un rapport de vente personnalisé à l'aide de l'assistant de rapport de Microsoft Dynamics 365
+- skill: Comprendre l'importance de la gestion des objectifs de vente et des métriques dans Microsoft Dynamics 365
+- skill: Explorez les graphiques et tableaux de bord des ventes et créez un tableau de bord des ventes personnalisé dans Microsoft Dynamics 365.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Ce cours offre aux étudiants une expérience pratique détaillée des fonctionnalités et des composants de vente de Microsoft Dynamics 365.
+
+  Les participants à ce cours obtiendront une compréhension approfondie de la gestion du pipeline des ventes dans Dynamics 365, y compris la gestion des pistes et des opportunités, le travail avec le processus de commande de vente, le catalogue de produits, les devis, les commandes et les factures. Les fonctions d'analyse des ventes telles que les rapports de vente, la gestion des objectifs de vente, les graphiques et tableaux de bord de vente sont également présentées dans ce cours.  
+
+  Ce cours s'applique aux éditions Business et Entreprise de Dynamics 365 ainsi qu'aux déploiements en ligne et sur site.
+
+  #### Profil du public
+  Ce cours s'adresse aux représentants commerciaux, aux directeurs commerciaux et aux utilisateurs finaux qui s'intéressent aux composants commerciaux de Dynamics 365. Les étudiants doivent avoir une connaissance pratique de Microsoft Dynamics 365 ou de Microsoft Dynamics CRM. Au minimum, les étudiants doivent suivre le cours préalable "Introduction to Microsoft Dynamics 365".
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une connaissance pratique de Microsoft Dynamics 365 ou Microsoft Dynamics CRM
+  - OU
+  - Avoir suivi avec succès le cours "Introduction to Microsoft Dynamics 365"
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  Ce module fournit au participant une introduction au concept des ventes dans Microsoft Dynamics 365.
+  #### Leçons
+  - Scénarios de processus de commande client
+  - Introduction aux ventes dans Dynamics 365
+  - La plateforme Dynamics 365
+  - Principes fondamentaux de Dynamics 365 Sales
+  - Considérations de sécurité
+  - Où trouver de l'aide
+  - Autres lectures et ressources 
+
+
+  #### Laboratoire &#58; Orientation des ventes dans Dynamics 365
+  - Explorez les fonctionnalités de vente de Dynamics 365
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre le processus de commande de vente en ce qui concerne Dynamics 365 Sales App.
+  - Se familiariser avec les fonctionnalités de vente de Dynamics 365 Sales App.
+  - Comprendre l'impact de la configuration de la sécurité sur Dynamics 365 Sales App.
+  - Savoir où trouver de l'aide pour naviguer et utiliser Dynamics 365 Sales App.
+  - Connaître les lectures complémentaires et les ressources disponibles pour les utilisateurs.
+
+
+  ### Module 2&#58; Gestion des prospects
+  Ce module présente le processus de gestion des pistes dans Dynamics 365. Nous examinons le processus de création et d'affectation des enregistrements de prospects, comment créer des prospects à partir d'activités et comment qualifier et disqualifier les prospects. Nous examinons également les différentes étapes du processus de vente du prospect à l'opportunité dans Dynamics 365.
+  #### Leçons
+  - Le processus de gestion des pistes
+  - Travailler avec des enregistrements de plomb
+  - Travailler avec le formulaire de demande
+  - Affectation principale
+  - Pistes et activités
+  - Qualification d'un prospect
+  - Disqualification d'une piste
+
+
+  #### Laboratoire &#58; Travailler avec des prospects
+  - Créer un enregistrement d'indice de référence
+  - Mise à jour de l'enregistrement d'un chef de file
+  - Qualifier une piste en un enregistrement d'opportunité
+  - Disqualifier un enregistrement de piste
+  - Convertir une activité de courrier électronique en un enregistrement de prospect
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre le processus de gestion des pistes en ce qui concerne Dynamics 365 Sales App.
+  - Savoir comment créer et gérer des enregistrements de prospects.
+  - Être capable de travailler avec des Leads et des Activités.
+  - Comprendre le processus de qualification des prospects.
+
+
+  ### Module 3&#58; Gestion des opportunités
+  Ce module présente les concepts d'opportunités dans Dynamics 365. Nous examinons les vues et les formulaires d'opportunité, ainsi que le processus de vente d'opportunité lors de la fermeture d'un enregistrement d'opportunité. Nous examinons également les activités de résolution et la façon dont elles influencent le processus de commande client.
+  #### Leçons
+  - Introduction aux opportunités
+  - Les perspectives d'avenir
+  - Le formulaire d'opportunité
+  - Processus de vente d'opportunités
+  - Fermer une opportunité
+  - Activités de résolution
+
+
+  #### Laboratoire &#58; Travailler avec les opportunités
+  - Travailler sur les opportunités
+  - Fermer une opportunité comme perdue
+  - Clôturer une opportunité comme gagnée
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre le processus de gestion des opportunités dans le cadre de Dynamics 365 Sales App.
+  - Interagir avec les vues et les formulaires d'opportunité pour gérer les enregistrements d'opportunité.
+  - Travailler avec des enregistrements d'opportunités dans un flux de processus de vente.
+  - Fermer les opportunités comme gagnées et perdues.
+  - Comprendre l'importance des activités de résolution.
+
+
+  ### Module 4&#58; Produits
+  Dans ce module, nous allons commencer à étudier le catalogue de produits dans Dynamics 365. Nous verrons comment créer des produits et configurer des groupes d'unités et des listes de prix. Enfin, nous examinons les propriétés des produits, les regroupements de produits et les familles de produits.
+  #### Leçons
+  - Introduction au catalogue de produits
+  - Ajout de produits
+  - Configuration des groupes d'unités
+  - Listes de prix et éléments de listes de prix
+  - Propriétés, regroupements et familles de produits
+
+
+  #### Laboratoire &#58; Configuration du catalogue de produits
+  - Configurer les groupes d'unités
+  - Ajouter un produit
+  - Créer et configurer une liste de prix
+
+
+  #### Laboratoire &#58; Travailler avec le catalogue de produits
+  - Cloner un produit
+  - Créer une offre groupée de produits
+  - Créer une famille de produits
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Connaître la fonction de catalogue de produits de Dynamics 365.
+  - Ajoutez et gérez des produits, configurez des groupes d'unités et reliez des listes de prix.
+  - Travailler avec des listes de prix et des éléments de liste de prix.
+  - Comprendre les propriétés des produits et créer des lots et des familles de produits.
+  
+  ### Module 5&#58; Devis, commandes et factures
+  Ce module présente les devis, les commandes et les factures dans Microsoft Dynamics 365. Nous verrons comment ajouter des produits du catalogue de produits aux opportunités et aux devis, et quand utiliser des produits "à écrire". Ce module aborde également le processus de conversion des devis en commandes, l'exécution des commandes et la procédure de gestion des factures.
+  #### Leçons
+  - Introduction au traitement des commandes
+  - Ajouter des produits à une opportunité
+  - Travailler avec des citations
+  - Travailler avec les commandes
+  - Travailler avec des factures
+
+
+  #### Laboratoire &#58; Travailler avec des devis, des commandes et des factures
+  - Ajouter des produits à une opportunité
+  - Ajouter un devis à une opportunité
+  - Convertir un devis en commande et en facture
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Connaître le flux de processus de commande dans Dynamics 365.
+  - Ajouter des produits et des produits "à écrire" à un enregistrement d'opportunité et de devis.
+  - Travaillez avec des devis, des commandes et des enregistrements de factures.
+
+
+  ### Module 6&#58; Analyse des ventes
+  Ce module examine les différentes méthodes disponibles pour analyser les informations sur les ventes qui sont stockées dans Dynamics 365. Nous examinons les rapports de vente prêts à l'emploi et le processus de création d'un rapport personnalisé à l'aide de Dynamics 365 Report Wizard. Ce module présente également le concepteur de graphiques et de tableaux de bord, et examine les tableaux de bord de vente prêts à l'emploi pour analyser les données de service.
+  #### Leçons
+  - Introduction à l'analyse des ventes dans Dynamics 365
+  - Les rapports de vente
+  - L'assistant de rapport
+  - Utilisation des diagrammes de vente
+  - Travailler avec les tableaux de bord des ventes
+  - Travailler avec des objectifs et des mesures de vente
+
+
+  #### Laboratoire &#58; Explorez les rapports de vente
+  - Exploration du rapport sur le pipeline des ventes
+  - Exploration du rapport de devis
+
+
+  #### Laboratoire &#58; Objectifs et mesures de vente
+  - Créer des objectifs pour l'équipe de vente
+  - Créer une vue personnelle
+  - Afficher les objectifs et le tableau des ventes
+
+
+  #### Laboratoire &#58; Explorez les graphiques et tableaux de bord des ventes
+  - Explorez les tableaux des pistes et des opportunités
+  - Créer un graphique de vente personnalisé
+  - Explorer les tableaux de bord des ventes
+  - Créer un tableau de bord des ventes personnalisé
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les différentes façons d'analyser les données de vente dans Dynamics 365.
+  - Utilisez les rapports de vente "prêts à l'emploi" de Dynamics 365.
+  - Créez un rapport personnalisé sur les ventes en utilisant l'assistant de création de rapports.
+  - Travailler avec les graphiques et les tableaux de bord des ventes.
+  Créer des objectifs de vente et des visualisations de KPI dans Dynamics 365.

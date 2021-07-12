@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2019
+metadata:
+  title: 'Course 55270-A: Advanced Microsoft Excel 2019'
+  description: 'Course 55270-A: Advanced Microsoft Excel 2019'
+uid: course.55270
+courseNumber: '55270-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Créer des tableaux croisés dynamiques et des graphiques.
+- skill: Apprenez à retracer les précédents et les dépendances.
+- skill: Convertir du texte et valider et consolider des données.
+- skill: Collaborer avec les autres en protégeant les feuilles de travail et les cahiers d'exercices.
+- skill: Créer, utiliser, modifier et gérer des macros.
+- skill: Importer et exporter des données.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Cette classe de formation Advanced Microsoft Excel 2019 est conçue pour que les étudiants acquièrent les compétences nécessaires pour utiliser les tableaux croisés dynamiques, auditer et analyser les données des feuilles de calcul, utiliser les outils de données, collaborer avec d'autres personnes, et créer et gérer des macros.
+
+  #### Profil du public
+  Étudiants ayant des compétences intermédiaires avec Microsoft Excel 2019 qui veulent acquérir des compétences plus avancées ou étudiants qui veulent apprendre les sujets abordés dans ce cours dans l'interface 2019.
+prerequisitesSection: |-
+  Avant de suivre ce cours, les étudiants doivent avoir&#58;
+  - Une expérience de base et intermédiaire de Excel.
+outlineSection: |-
+  ### Module 1&#58; Utilisation des tableaux croisés dynamiques
+  Ce module explique comment utiliser les tableaux croisés dynamiques dans Microsoft Excel.
+  #### Leçons
+  - Création de tableaux croisés dynamiques
+  - Plus de fonctionnalités pour les tableaux croisés dynamiques
+  - Insertion des trancheurs
+  - Option multi-sélection dans les trancheurs
+  - Amélioration des tableaux croisés dynamiques
+  - Travailler avec des tableaux croisés dynamiques
+  - Insertion de graphiques croisés dynamiques
+  - Plus de fonctionnalités pour les tableaux croisés dynamiques
+  - Travailler avec des tableaux croisés dynamiques
+
+
+  #### Laboratoire &#58; Travailler avec des tableaux croisés dynamiques (Pivot Tables)
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Utilisez les tableaux croisés dynamiques pour analyser les données.
+  - Modifier les tableaux croisés dynamiques.
+  - Formatez les tableaux croisés dynamiques.
+  - Insérer des graphiques croisés dynamiques.
+  - Utilisez des trancheurs.
+
+
+  ### Module 2&#58; Feuilles de travail sur l'audit
+  Ce module explique comment auditer les feuilles de travail.
+  #### Leçons
+  - Tracer les précédents
+  - Recherche des personnes à charge
+  - Afficher les formules
+
+
+  #### Laboratoire &#58; Feuilles de travail sur l'audit - Exercices
+  - Tracer les précédents
+  - Recherche des personnes à charge
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Formules d'audit.
+  - Tracez les précédents pour déterminer quelles cellules ont un impact sur une cellule spécifique.
+  - Tracer les dépendants pour déterminer quelles cellules sont impactées par une cellule spécifique.
+  - Supprimer les flèches de précédent et de dépendant.
+  - Afficher les formules.
+  - Vérifier les erreurs fréquemment rencontrées dans les formules
+
+
+  ### Module 3&#58; Outils de données
+  Ce module explique comment travailler avec les outils de données.
+  #### Leçons
+  - Convertir du texte en colonnes
+  - Liaison avec des données externes
+  - Contrôle des options de calcul
+  - Validation des données
+  - Utilisation de la validation des données
+  - Consolidation des données
+  - Recherche d'objectifs
+  - Utilisation de Goal Seek
+
+
+  #### Laboratoire &#58; Exercices sur les outils de données
+  - Convertir du texte en colonnes
+  - Utilisation de la validation des données
+  - Consolidation des données
+  - Utilisation de Goal Seek
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Convertissez le texte en colonnes.
+  - Utilisez la validation des données pour restreindre le type de données qui peuvent être saisies dans une cellule.
+  - Consolider les données d'un certain nombre de plages différentes dans une nouvelle plage.
+  - Utilisez Goal Seek pour déterminer la valeur à saisir pour obtenir un résultat spécifique.
+
+
+  ### Module 4&#58; Travailler avec les autres
+  Ce module explique comment travailler avec d'autres personnes dans Microsoft Excel.
+  #### Leçons
+  - Protection des feuilles de travail et des classeurs
+  - Protection par mot de passe d'un classeur
+  - Protection par mot de passe d'une feuille de calcul
+  - Protection par mot de passe de plages dans une feuille de calcul
+  - Marquer un cahier de travail comme final
+
+
+  #### Laboratoire &#58; Travailler avec les autres Exercices
+  - Protection par mot de passe d'un classeur
+  - Protection par mot de passe d'une feuille de travail
+  - Protection par mot de passe de plages dans une feuille de calcul
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Protéger un classeur par un mot de passe.
+  - Protéger une feuille de calcul par un mot de passe.
+  - Protéger par mot de passe les plages d'une feuille de calcul.
+  - Suivi des changements.
+  - Accepter et rejeter les modifications.
+  - Lister toutes les modifications sur une nouvelle feuille
+
+
+  ### Module 5&#58; Enregistrement et utilisation des macros
+  Ce module explique comment enregistrer et utiliser les macros.
+  #### Leçons
+  - Enregistrement des macros
+  - Enregistrement d'une macro
+  - Exécution de macros
+  - Modification des macros
+  - Ajout de macros à la barre d'outils d'accès rapide
+  - Ajout d'une macro à la barre d'outils d'accès rapide
+
+
+  #### Laboratoire &#58; Enregistrement et utilisation de macros Exercices
+  - Enregistrement d'une macro
+  - Ajout d'une macro à la barre d'outils d'accès rapide
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Enregistrement des macros.
+  - Exécuter des macros.
+  - Modifier les macros (en quelque sorte).
+  - Ajouter des macros à la barre d'outils d'accès rapide
+
+
+  ### Module 6&#58; Articles utiles aléatoires
+  Ce module explique comment utiliser les sparklines et d'autres fonctions aléatoires utiles.
+  #### Leçons
+  - Sparklines
+  - Insertion et personnalisation des sparklines
+  - Utilisation de Microsoft Translator
+  - Préparation d'un cahier de travail pour l'internationalisation et l'accessibilité
+  - Importation et exportation de fichiers
+  - Importation de fichiers texte
+  - Copie de données de Excel à Word
+  - Copie de graphiques de Excel à Word
+
+
+  #### Laboratoire &#58; Exercices sur les éléments utiles aléatoires
+  - Insertion et personnalisation sparklines
+  - Importation de fichiers texte
+  - Copie de données de Excel à Word
+  - Copie de graphiques de Excel à Word
+
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Insérez des sparklines dans les feuilles de calcul.
+  - Personnalisez les sparklines par&#58;
+  - Changez le type de sparkline.
+  - Mettez en évidence les points clés.
+  - Changez de couleur.
+  - Changez l'axe.
+  - Préparer un classeur pour l'internationalisation, l'accessibilité et la compatibilité.
+  - Importez des fichiers texte dans Microsoft Excel.
+  - Copier des cellules d'une feuille de calcul dans Microsoft Word.
+  Copiez et collez un graphique dans Microsoft Word.
+
+  ### Module 7&#58; Cloud
+  Ce module explique comment enregistrer, partager et collaborer avec d'autres personnes en utilisant le cloud.
+  #### Leçons
+  - Utilisation du Cloud.
+
+
+  #### Laboratoire &#58; Utilisation du Cloud
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Utilisez Excel dans le Cloud.
+
+  #### Lecture complémentaire
+  Pour vous aider à vous préparer à ce cours, consultez les ressources suivantes&#58;
+  - Aucune

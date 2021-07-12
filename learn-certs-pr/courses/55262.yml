@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: Introduction to SharePoint for Office 365 Training
+metadata:
+  title: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+  description: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+uid: course.55262
+courseNumber: '55262-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Naviguer dans un site d'équipe SharePoint.
+- skill: Créer des listes SharePoint.
+- skill: Personnaliser les listes SharePoint.
+- skill: Créer des bibliothèques SharePoint.
+- skill: Gérer les versions des documents de la bibliothèque.
+- skill: Créer des vues de listes et de bibliothèques SharePoint.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Ce cours d'une journée Introduction to SharePoint for Office 365 est destiné aux utilisateurs finaux travaillant dans un environnement SharePoint. Il s'agit d'une version abrégée de notre cours complet sur SharePoint for Office 365 End User. Il est destiné aux personnes qui utilisent SharePoint pour la première fois et qui ne seront pas responsables de la gestion d'un site SharePoint.
+
+  #### Profil du public
+  Ce cours est destiné aux utilisateurs finaux travaillant dans un environnement SharePoint.
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### Module 1&#58; Configuration de SharePoint 365
+  Ce module explique comment configurer le site d'exemple pour la classe.
+  #### Leçons
+  - SharePoint Online
+
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Configurer le site d'exemple pour la classe.
+
+
+  ### Module 2&#58; Introduction à SharePoint 365
+  SharePoint 365 est avant tout un outil de collaboration. Son objectif premier est de permettre aux utilisateurs de trouver et de partager facilement des informations, et de nombreuses fonctionnalités sont intégrées à SharePoint pour faciliter cette tâche. La fonction de système de bibliothèque de SharePoint peut constituer une alternative supérieure au serveur de fichiers traditionnel. Les listes SharePoint peuvent être une alternative facile à concevoir et à utiliser au partage de fichiers de tableur ou de tableaux de base de données plus formels.
+  Les listes et les bibliothèques peuvent être personnalisées et étendues afin d'améliorer leur apparence et leur fonctionnalité. Toute cette collaboration peut se faire par le biais d'une interface de navigateur.
+  #### Leçons
+  - SharePoint Online
+  - Mise en page et navigation du site
+  - La navigation
+
+
+  #### Lab &#58; Navigation du site de l'équipe
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - En savoir plus sur SharePoint online.
+  - En savoir plus sur la hiérarchie des sites SharePoint.
+
+
+  ### Module 3&#58; Les bases des listes SharePoint
+  Les listes sont un élément fondamental de SharePoint qui permet aux utilisateurs de stocker et de visualiser des données. SharePoint est livré " prêt à l'emploi " avec de nombreux modèles de listes prédéfinis et faciles à utiliser. Les listes peuvent être personnalisées en ajoutant des colonnes pour stocker à peu près n'importe quel type d'information. En outre, les colonnes des listes peuvent être validées et reliées à d'autres listes. Les listes sont un outil très flexible et puissant dans SharePoint.
+
+  #### Leçons
+  - Création d'applications à l'aide de modèles de liste
+  - Création de listes
+  - Colonnes de liste
+  - Validation des colonnes
+
+
+  #### Lab &#58; Travailler avec des listes de sites d'équipe
+
+  #### Lab &#58; Créer des listes et des colonnes personnalisées
+  À l'issue de ce module, les étudiants seront en mesure de&#58;
+  - Comprendre les modèles de liste.
+  - Travailler avec les listes par défaut dans un Team Site.
+  - Créer une nouvelle liste à partir d'un modèle de liste.
+  - Créer une liste personnalisée.
+  - Ajouter des colonnes à une liste.
+  - Contrôler et valider la saisie dans les champs de la liste.
+  - Lier les données de listes distinctes.
+
+
+  ### Module 4&#58; Les bases des bibliothèques
+  Les SharePoint Libraries partagent les mêmes caractéristiques que les listes SharePoint, telles que les colonnes, les vues et la validation, pour n'en citer que quelques-unes. Ce qui distingue les SharePoint Libraries, c'est que chaque élément d'une bibliothèque possède un document sous-jacent. Ainsi, en plus des données stockées dans les colonnes de la bibliothèque, le document stocke ses propres données en fonction du type de document. En raison des données supplémentaires qui peuvent être stockées dans les colonnes et qui peuvent être utilisées pour filtrer et rechercher, ainsi que des fonctionnalités telles que le versioning, les bibliothèques sont considérées comme un excellent remplacement du système de serveur de fichiers plus traditionnel. Les bibliothèques sont, comme les listes, un élément fondamental d'un site SharePoint.
+  #### Leçons
+  - Modèles de bibliothèque
+  - Création de bibliothèques
+  - Gestion des documents et des versions
+
+
+  #### Lab &#58; Travailler avec les bibliothèques du site de l'équipe
+
+  #### Labo &#58; Création de bibliothèques
+
+  #### Labo &#58; Versionnement de documents
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Créer de nouvelles bibliothèques à l'aide de modèles de bibliothèque.
+  - Travailler avec les différentes bibliothèques d'un Team Site par défaut.
+  - Ajouter des colonnes à une bibliothèque.
+  - Extraire des documents pour les modifier.
+  - Supprimer et restaurer des documents des bibliothèques de documents.
+  - Activer le versioning sur une bibliothèque.
+  - Rétablir une version antérieure d'un document de bibliothèque.
+
+
+  ### Module 5&#58; Travailler avec des vues de listes et de bibliothèques
+  Les vues constituent un système flexible pour afficher les données des listes et des bibliothèques SharePoint d'une manière facile à lire et à utiliser. Chaque liste et bibliothèque SharePoint peut avoir plusieurs vues créées et configurées, et certains modèles de liste et de bibliothèque sont fournis avec des vues spéciales préconfigurées. Les vues peuvent être définies pour un usage personnel ou partagé.
+  #### Leçons
+  - Vues par défaut
+  - Vues personnalisées
+
+
+  #### Lab &#58; Travailler avec des vues
+
+  #### Lab &#58; Création de vues publiques et personnelles
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Utiliser les vues par défaut intégrées aux listes et aux bibliothèques.
+  - Créer des vues personnelles.
+  - Créer des vues partagées.
+  - Configurer des vues.
+  - Définir la vue par défaut d'une liste ou d'une bibliothèque.
+
+
+  ### Module 6&#58; Travailler avec des sites
+  Tout le contenu SharePoint est accessible par le biais d'un site. Un site SharePoint est le conteneur des listes et des bibliothèques et fournit un point de départ pour l'administration de base. Le contenu, les listes, les bibliothèques et l'apparence de base d'un site sont initialement déterminés par le modèle de site utilisé pour créer le site.
+  #### Leçons
+  - Modèles de site
+  - Création de sites
+  - Navigation dans le site
+
+
+  #### Lab &#58; Création de sites d'équipe
+
+  #### Labo &#58; Création d'un site de blogue
+  Après avoir terminé ce module, les étudiants seront en mesure de&#58;
+  - Comprendre ce que sont les modèles de site.
+  - Comprendre les différents types de modèles de sites fournis avec les différentes versions de SharePoint.
+  - Créer un nouveau site à l'aide de modèles de site.
+  - Créer un site de projet.
+  - Créer un site d'équipe.
+  - Créer un site de blog.
+  - Gérer les sites répertoriés dans la barre de liens supérieure.
+
+  #### Lectures supplémentaires
+  Aucune
